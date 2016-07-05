@@ -25,7 +25,7 @@
     
 <xsl:template match='dcite:resource'>
     <xsl:variable name="identifier" select="dcite:identifier[@identifierType='DOI']"/>
-    <xsl:variable name="cleanedidentifier" select="translate(translate($identifier, '/', '+'), '.', '_')"/>
+    <xsl:variable name="cleanedidentifier" select="translate(translate($identifier, '/', '_'), '.', '__')"/>
   
     
     <xsl:result-document method="xml"  indent="yes"  href="datacite_iso/{$cleanedidentifier}.xml">
@@ -93,7 +93,7 @@
                  xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString><xsl:value-of select="$cleanedidentifier"/></gco:CharacterString>
+        <gco:CharacterString><xsl:value-of select="$identifier"/></gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gco:CharacterString>en</gco:CharacterString>
