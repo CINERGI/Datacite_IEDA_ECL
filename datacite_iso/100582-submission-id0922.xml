@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100582</identifier>
+	<creators>
+		<creator>
+			<creatorName>Caracausi,Antonio</creatorName>
+			<givenName>Antonio</givenName>
+			<familyName>Caracausi</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:antonio.caracausi@ingv.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:992</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Avice,Guillaume</creatorName>
+			<givenName>Guillaume</givenName>
+			<familyName>Avice</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1003</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fueri,Evelyn</creatorName>
+			<givenName>Evelyn</givenName>
+			<familyName>Fueri</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1004</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Burnard,Pete G.</creatorName>
+			<givenName>Pete G.</givenName>
+			<familyName>Burnard</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">24754536900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1005</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Marty,Bernard</creatorName>
+			<givenName>Bernard</givenName>
+			<familyName>Marty</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-7936-1519</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005352058</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1006</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Isotopic ratios of Xe in gas from Victoriaquelle CO2 well (Eifel, Germany)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">noble gas</subject>
+		<subject subjectScheme="constituent">xenon</subject>
+		<subject subjectScheme="material">Carbon dioxide</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="place">Eifel volcanic region</subject>
+		<subject subjectScheme="place">Germany</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-02-04 04:19:13.834686</date>
+		<date dateType="Available">2016-06-01</date>
+		<date dateType="Created">2016-02-03T13:50:22.423982</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:922</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=922</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset reports the isotopic composition of xenon in CO2-rich gases emitted in the Eifel volcanic region. Gas has been collected at the Victoriaquelle well. Xenon has been separated and subsequently analyzed by noble gas mass spectrometry.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Eifel volcanic region, Germany</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>6.788136</pointLongitude>
+				<pointLatitude>49.899694</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

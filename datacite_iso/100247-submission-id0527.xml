@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100247</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang,Yu</creatorName>
+			<givenName>Yu</givenName>
+			<familyName>Huang</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yuhuang@umd.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:169</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chubakov,Viacheslav</creatorName>
+			<givenName>Viacheslav</givenName>
+			<familyName>Chubakov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:170</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mantovani,Fabio</creatorName>
+			<givenName>Fabio</givenName>
+			<familyName>Mantovani</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:171</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rudnick,Roberta L.</creatorName>
+			<givenName>Roberta L.</givenName>
+			<familyName>Rudnick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1559-7463</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003986769</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:172</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McDonough,William F.</creatorName>
+			<givenName>William F.</givenName>
+			<familyName>McDonough</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9154-3673</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005259221</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:173</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Peridotite composition, Appendix D data for "A reference Earth model for the heat producing elements and associated geoneutrino flux"</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">chemical composition</subject>
+		<subject subjectScheme="material">garnet peridotite</subject>
+		<subject subjectScheme="material">massif peridotite</subject>
+		<subject subjectScheme="material">spinel peridotite</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-23 14:45:42.10972</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-23T14:45:42.10972</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:527</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=527</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset is a compilation of chemical composition of global distributed spinel and garnet xenolithic peridotite and massif peridotite. The goal of this compilation is to estimate the average composition of sub-continental lithospheric mantle by xenolithic peridotites. Massif peridotite may provide information for the lithospheric mantle under oceanic crust.</description>
+		<description descriptionType="Other">Related publications: Ackerman, L., E. Jelinek, G. Medaris, J. Jezek, W. Siebel, and L. Strnad (2009), Geochemistry of Fe-rich peridotites and associated pyroxenites from Horni Bory, Bohemian Massif: Insights into subduction-related melt-rock reactions, Chemical Geology, 259(3-4), 152-167, doi: 10.1016/j.chemgeo.2008.10.042.&#x0d;
+Ackerman, L., N. Mahlen, E. Jelinek, G. Medaris, J. Ulrych, L. Strnad, and M. Mihaljevic (2007), Geochemistry and evolution of subcontinental lithospheric mantle in central Europe: Evidence from peridotite xenoliths of the Kozakov volcano, Czech Republic, Journal of Petrology, 48(12), 2235-2260.&#x0d;
+Alard, O., W. L. Griffin, N. J. Pearson, J. P. Lorand, and S. Y. O'Reilly (2002), New insights into the Re-Os systematics of sub-continental lithospheric mantle from in situ analysis of sulphides, Earth and Planetary Science Letters, 203(2), 651-663.&#x0d;
+Aoki, K.-I., and I. Shiba (1973), Pyroxenes from lherzolite inclusions of Itinome-gata, Japan, Lithos, 6(1), 41-51, doi: 10.1016/0024-4937(73)90078-9.&#x0d;
+Beccaluva, L., C. Bonadiman, M. Coltorti, L. Salvini, and F. Siena (2001), Depletion events, nature of metasomatizing agent and timing of enrichment processes in lithospheric mantle xenoliths from the Veneto Volcanic Province, Journal of Petrology, 42(1), 173-187.&#x0d;
+Becker, H. (1996), Geochemistry of garnet peridotite massifs from lower Austria and the composition of deep lithosphere beneath a Palaeozoic convergent plate margin, Chemical Geology, 134(1-3), 49-65.&#x0d;
+Becker, H., S. B. Shirey, and R. W. Carlson (2001), Effects of melt percolation on the Re-Os systematics of peridotites from a Paleozoic convergent plate margin, Earth and Planetary Science Letters, 188(1-2), 107-121.&#x0d;
+Bernstein, S., P. B. Kelemen, and C. K. Brooks (1998), Depleted spinel harzburgite xenoliths in tertiary dykes from east Greenland: Restites from high degree melting, Earth and Planetary Science Letters, 154(1-4), 221-235.&#x0d;
+Beyer, E. E., W. L. Griffin, and S. Y. O'Reilly (2006), Transformation of archaean lithospheric mantle by refertilization: Evidence from exposed peridotites in the Western Gneiss Region, Norway, Journal of Petrology, 47(8), 1611-1636, doi: 10.1093/petrology/egl021.&#x0d;
+Beyer, E. E., H. K. Brueckner, W. L. Griffin, S. Y. O'Reilly, and S. Graham (2004), Archean mantle fragments in proterozoic crust, western Gneiss Region, Norway, Geology, 32(7), 609-612, doi: 10.1130/g20366.1.&#x0d;
+Bianchini, G., L. Beccaluva, C. Bonadiman, G. Nowell, G. Pearson, F. Siena, and M. Wilson (2007), Evidence of diverse depletion and metasomatic events in harzburgite-lherzolite mantle xenoliths from the Iberian plate (Olot, NE Spain): Implications for lithosphere accretionary processes, Lithos, 94(1-4), 25-45, doi: 10.1016/j.lithos.2006.06.008.&#x0d;
+Bjerg, E. A., T. Ntaflos, M. Thoni, P. Aliani, and C. H. Labudia (2009), Heterogeneous Lithospheric Mantle beneath Northern Patagonia: Evidence from Prahuaniyeu Garnet- and Spinel-Peridotites, Journal of Petrology, 50(7), 1267-1298, doi: 10.1093/petrology/egp021.&#x0d;
+Bodinier, J. L. (1988), GEOCHEMISTRY AND PETROGENESIS OF THE LANZO PERIDOTITE BODY, WESTERN ALPS, Tectonophysics, 149(1-2), 67-88.&#x0d;
+Bodinier, J. L., C. Dupuy, and J. Dostal (1988), GEOCHEMISTRY AND PETROGENESIS OF EASTERN PYRENEAN PERIDOTITES, Geochimica Et Cosmochimica Acta, 52(12), 2893-2907.&#x0d;
+Bodinier, J. L., M. A. Menzies, N. Shimizu, F. A. Frey, and E. McPherson (2004), Silicate, hydrous and carbonate metasomatism at Lherz, France: Contemporaneous derivatives of silicate melt-harzburgite reaction, Journal of Petrology, 45(2), 299-320.&#x0d;
+Boyd, F. R., and S. A. Mertzman (1987), Composition and structure of the Kaapvaal lithosphere, in Magmatic Processes: Physiochemical Principles, edited by B. O. Mysen, pp. 13-24, Geochemical Society, Special Publication.&#x0d;
+Boyd, F. R., D. G. Pearson, P. H. Nixon, and S. A. Mertzman (1993), LOW-CALCIUM GARNET HARZBURGITES FROM SOUTHERN AFRICA - THEIR RELATIONS TO CRATON STRUCTURE AND DIAMOND CRYSTALLIZATION, Contributions to Mineralogy and Petrology, 113(3), 352-366.&#x0d;
+Boyd, F. R., N. P. Pokhilenko, D. G. Pearson, S. A. Mertzman, N. V. Sobolev, and L. W. Finger (1997), Composition of the Siberian cratonic mantle: evidence from Udachnaya peridotite xenoliths, Contributions to Mineralogy and Petrology, 128(2-3), 228-246.&#x0d;
+Boyd, F. R., D. G. Pearson, K. O. Hoal, B. G. Hoal, P. H. Nixon, M. J. Kingston, and S. A. Mertzman (2004), Garnet lherzolites from Louwrensia, Namibia: bulk composition and P/T relations, Lithos, 77(1-4), 573-592, doi: 10.1016/j.lithos.2004.03.010.&#x0d;
+Burwell, A. D. M. (1975), RB-SR ISOTOPE GEOCHEMISTRY OF LHERZOLITES AND THEIR CONSTITUENT MINERALS FROM VICTORIA, AUSTRALIA, Earth and Planetary Science Letters, 28(1), 69-78.&#x0d;
+Canil, D., H. S. Oneill, D. G. Pearson, R. L. Rudnick, W. F. McDonough, and D. A. Carswell (1994), FERRIC IRON IN PERIDOTITES AND MANTLE OXIDATION-STATES, Earth and Planetary Science Letters, 123(1-4), 205-220.&#x0d;
+Carlson, R. W., A. J. Irving, D. J. Schulze, and B. C. Hearn (2004), Timing of Precambrian melt depletion and Phanerozoic refertilization events in the lithospheric mantle of the Wyoming Craton and adjacent Central Plains Orogen, Lithos, 77(1-4), 453-472, doi: 10.1016/j.lithos.2004.03.030.&#x0d;
+Carlson, R. W., A. L. N. Araujo, T. C. Junqueira-Brod, J. C. Gaspar, J. A. Brod, I. A. Petrinovic, M. Hollanda, M. M. Pimentel, and S. Sichel (2007), Chemical and isotopic relationships between peridotite xenoliths and mafic-ultrapotassic rocks from Southern Brazil, Chemical Geology, 242(3-4), 415-434, doi: 10.1016/j.chemgeo.2007.04.009.&#x0d;
+Carswell, D. A., and J. B. Dawson (1970), Garnet peridotite xenoliths in South African kimberlite pipes and their petrogenesis, Contributions to Mineralogy and Petrology, 25(3), 163-184, doi: 10.1007/bf00371129.&#x0d;
+Carswell, D. A., D. B. Clarke, and R. H. Mitchell (1979), The petrology and geochemistry of ultramafic nodules from pipe 200, northern Lesotho, in The mantle sample: inclusions in kimberlites and other volcanics, edited by F. R. Boyd and H. O. A. Meyer, pp. 127-144, American Geophysical Union.&#x0d;
+Chauvel, C., and B. M. Jahn (1984), ND-SR ISOTOPE AND REE GEOCHEMISTRY OF ALKALI BASALTS FROM THE MASSIF-CENTRAL, FRANCE, Geochimica Et Cosmochimica Acta, 48(1), 93-110.&#x0d;
+Chen, J. (1971), PETROLOGY AND CHEMISTRY OF GARNET LHERZOLITE NODULES IN KIMBERLITE FROM SOUTH-AFRICA, American Mineralogist, 56(11-12), 2098-2110.&#x0d;
+Chen, C. Y., F. A. Frey, and Y. Song (1989), EVOLUTION OF THE UPPER MANTLE BENEATH SOUTHEAST AUSTRALIA - GEOCHEMICAL EVIDENCE FROM PERIDOTITE XENOLITHS IN MOUNT LEURA BASANITE, Earth and Planetary Science Letters, 93(2), 195-209.&#x0d;
+Cominchiaramonti, P., G. Demarchi, V. A. V. Girardi, F. Princivalle, and S. Sinigoi (1986), EVIDENCE OF MANTLE METASOMATISM AND HETEROGENEITY FROM PERIDOTITE INCLUSIONS OF NORTHEASTERN BRAZIL AND PARAGUAY, Earth and Planetary Science Letters, 77(2), 203-217.&#x0d;
+Conquere, F. (1978), Pétrologie des complexes ultramafiques de lherzolite á spinelle de l’Ariége (France) University of Paris.&#x0d;
+Cox, K. G., J. J. Gurney, and B. Harte (1973), Xenoliths from the Matsoku pipe, in Lesotho Kimberlites, edited by P. H. Nixon, pp. 76-100, Lesotho National Development Corp, Maseru, Lesotho.&#x0d;
+Cox, K. G., M. R. Smith, and S. Beswetherick (1987), Textural studies of garnet lherzolites: evidence of exsolution origin from high-temperature harzburgite., in Mantle Xenoliths, edited by P. H. Nixon, pp. 537-550, John Wiley, Chichester.&#x0d;
+Cvetkovic, V., H. Downes, D. Prelevic, M. Lazarov, and K. Resimic-Saric (2007), Geodynamic significance of ultramafic xenoliths from Eastern Serbia: Relics of sub-arc oceanic mantle?, Journal of Geodynamics, 43(4-5), 504-527, doi: 10.1016/j.jog.2006.11.003.&#x0d;
+Danchin, R. V. (1979), Mineral and bulk chemistry of garnet lherzolite and garnet harzburgite xenoliths from the Premier Mine, South Africa, in The mantle sample: inclusions in kimberlites and other volcanics, edited by F. R. Boyd and H. O. A. Meyer, pp. 104-126, American Geophysical Union.&#x0d;
+Dautria, J. M., C. Dupuy, D. Takherist, and J. Dostal (1992), CARBONATE METASOMATISM IN THE LITHOSPHERIC MANTLE - PERIDOTITIC XENOLITHS FROM A MELILITITIC DISTRICT OF THE SAHARA BASIN, Contributions to Mineralogy and Petrology, 111(1), 37-52.&#x0d;
+Dawson, J. B. (1987), Metasomatized harzburgites in kimberlite and alkaline magmas: Enriched restites and “flushed” lherzolites, in Mantle Metasomatism, edited by M. A. Menzies and C. J. Hawkesworth, pp. 125-144, Academic Press, London.&#x0d;
+Dawson, J. B., D. G. Powell, and A. M. Reid (1970), ULTRABASIC XENOLITHS AND LAVA FROM LASHAINE-VOLCANO, NORTHERN TANZANIA, Journal of Petrology, 11(3), 519-548.&#x0d;
+Dodge, F. C. W., J. P. Lockwood, and L. C. Calk (1988), FRAGMENTS OF THE MANTLE AND CRUST FROM BENEATH THE SIERRA-NEVADA BATHOLITH - XENOLITHS IN A VOLCANIC PIPE NEAR BIG-CREEK, CALIFORNIA, Geological Society of America Bulletin, 100(6), 938-947.&#x0d;
+Downes, H., and C. Dupuy (1987), TEXTURAL, ISOTOPIC AND REE VARIATIONS IN SPINEL PERIDOTITE XENOLITHS, MASSIF-CENTRAL, FRANCE, Earth and Planetary Science Letters, 82(1-2), 121-135.&#x0d;
+Downes, H., A. Embeyisztin, and M. F. Thirlwall (1992), PETROLOGY AND GEOCHEMISTRY OF SPINEL PERIDOTITE XENOLITHS FROM THE WESTERN PANNONIAN BASIN (HUNGARY) - EVIDENCE FOR AN ASSOCIATION BETWEEN ENRICHMENT AND TEXTURE IN THE UPPER MANTLE, Contributions to Mineralogy and Petrology, 109(3), 340-354.&#x0d;
+Downes, H., M. K. Reichow, P. R. D. Mason, A. D. Beard, and M. F. Thirlwall (2003), Mantle domains in the lithosphere beneath the French Massif Central: trace element and isotopic evidence from mantle clinopyroxenes, Chemical Geology, 200(1-2), 71-87, doi: 10.1016/s0009-2541(03)00126-8.&#x0d;
+Downes, H., T. Kostoula, A. P. Jones, A. D. Beard, M. F. Thirlwall, and J. L. Bodinier (2002), Geochemistry and Sr-Nd isotopic compositions of mantle xenoliths from the Monte Vulture carbonatite-melilitite volcano, central southern Italy, Contributions to Mineralogy and Petrology, 144(1), 78-92, doi: 10.1007/s00410-002-0383-4.&#x0d;
+Downes, H., R. MacDonald, B. G. J. Upton, K. G. Cox, J. L. Bodinier, P. R. D. Mason, D. James, P. G. Hill, and B. C. Hearn (2004), Ultramafic xenoliths from the Bearpaw Mountains, Montana, USA: Evidence for multiple metasomatic events in the lithospheric mantle beneath the Wyoming craton, Journal of Petrology, 45(8), 1631-1662, doi: 10.1093/petrology/egh027.&#x0d;
+Dupuy, C., J. Dostal, and J. L. Bodinier (1987), GEOCHEMISTRY OF SPINEL PERIDOTITE INCLUSIONS IN BASALTS FROM SARDINIA, Mineralogical Magazine, 51(362), 561-568.&#x0d;
+Dupuy, C., J. Dostal, J. M. Dautria, and M. Girod (1986), Geochemistry of spinel peridotite inclusions in basalts from Hoggar, Algeria, Journal of African Earth Sciences (1983), 5(3), 209-215, doi: 10.1016/0899-5362(86)90012-6.&#x0d;
+Eggins, S. M., R. L. Rudnick, and W. F. McDonough (1998), The composition of peridotites and their minerals: A laser-ablation ICP-MS study, Earth and Planetary Science Letters, 154(1-4), 53-71.&#x0d;
+Eggler, D. H., M. E. McCallum, and M. B. Kirkley (1987), Kimberlite-transported Nodules from Colorado-Wyoming: A Record of Enrichment of Shallow Portions of an Infertile Lithosphere., Geological Society of America, Special Paper, 215, 77-90.&#x0d;
+Ehrenberg, S. N. (1982), PETROGENESIS OF GARNET LHERZOLITE AND MEGACRYSTALLINE NODULES FROM THE THUMB, NAVAJO VOLCANIC FIELD, Journal of Petrology, 23(4), 507-547.&#x0d;
+Ehrenberg, S. N. (1982), RARE-EARTH ELEMENT GEOCHEMISTRY OF GARNET LHERZOLITE AND MEGACRYSTALLINE NODULES FROM MINETTE OF THE COLORADO PLATEAU PROVINCE, Earth and Planetary Science Letters, 57(1), 191-210.&#x0d;
+Erland, A. J., F. G. Waters, C. J. Hawkesworth, S. E. Haggerty, H. L. Allsopp, R. S. Richard, and M. A. Menzies (1987), Evidence for mantle metasomatism in peridotite nodules from the Kimberley pipes, South Africa., in Mantle Metasomatism, edited by M. A. Menzies and C. J. Hawkesworth, pp. 221-312, Academic Press, London.&#x0d;
+Ernst, W. G. (1978), PETROCHEMICAL STUDY OF LHERZOLITIC ROCKS FROM WESTERN ALPS, Journal of Petrology, 19(3), 341-392.&#x0d;
+Feigenson, M. D. (1986), CONTINENTAL ALKALI BASALTS AS MIXTURES OF KIMBERLITE AND DEPLETED MANTLE - EVIDENCE FROM KILBOURNE HOLE MAAR, NEW-MEXICO, Geophysical Research Letters, 13(9), 965-968.&#x0d;
+Femenias, O., N. Coussaert, B. Bingen, M. Whitehouse, J. C. Mercier, and D. Demaiffe (2003), A Permian underplating event in late- to post-orogenic tectonic setting. Evidence from the mafic-ultramafic layered xenoliths from Beaunit (French Massif Central), Chemical Geology, 199(3-4), 293-315, doi: 10.1016/s0009-2541(03)00124-4.&#x0d;
+Francis, D. (1987), MANTLE MELT INTERACTION RECORDED IN SPINEL LHERZOLITE XENOLITHS FROM THE ALLIGATOR LAKE VOLCANIC COMPLEX, YUKON, CANADA, Journal of Petrology, 28(3), 569-597.&#x0d;
+Frey, F. A., and D. H. Green (1974), MINERALOGY, GEOCHEMISTRY AND ORIGIN OF ILHERZOLITE INCLUSIONS IN VICTORIAN BASANITES, Geochimica Et Cosmochimica Acta, 38(7), 1023-1059.&#x0d;
+Frey, F. A., and M. Prinz (1978), ULTRAMAFIC INCLUSIONS FROM SAN-CARLOS, ARIZONA - PETROLOGIC AND GEOCHEMICAL DATA BEARING ON THEIR PETROGENESIS, Earth and Planetary Science Letters, 38(1), 129-176.&#x0d;
+Frey, F. A., C. J. Suen, and H. W. Stockman (1985), THE RONDA HIGH-TEMPERATURE PERIDOTITE - GEOCHEMISTRY AND PETROGENESIS, Geochimica Et Cosmochimica Acta, 49(11), 2469-2491.&#x0d;
+Frey, F. A., N. Shimizu, A. Leinbach, M. Obata, and E. Takazawa (1991), Compositional Variations within the Lower Layered Zone of the Horoman Peridotite, Hokkaido, Japan: Constraints on Models for Melt-Solid Segregation, Journal of Petrology, 211-227.&#x0d;
+Green, D. H. (1964), THE PETROGENESIS OF THE HIGH-TEMPERATURE PERIDOTITE INTRUSION IN THE LIZARD AREA, CORNWALL, Journal of Petrology, 5(1), 134-188.&#x0d;
+Gregoire, M., D. R. Bell, and A. P. Le Roex (2003), Garnet lherzolites from the Kaapvaal craton (South Africa): Trace element evidence for a metasomatic history, Journal of Petrology, 44(4), 629-657.&#x0d;
+Gregoire, M., C. Tinguely, D. R. Bell, and A. P. le Roex (2005), Spinel lherzolite xenoliths from the Premier kimberlite (Kaapvaal craton, South Africa): Nature and evolution of the shallow upper mantle beneath the Bushveld complex, Lithos, 84(3-4), 185-205, doi: 10.1016/j.lithos.2005.02.004.&#x0d;
+Griffin, W. L. (1973), LHERZOLITE NODULES FROM FEN ALKALINE COMPLEX, NORWAY, Contributions to Mineralogy and Petrology, 38(2), 135-146.&#x0d;
+Griffin, W. L., F. L. Sutherland, and J. D. Hollis (1987), GEOTHERMAL PROFILE AND CRUST MANTLE TRANSITION BENEATH EAST-CENTRAL QUEENSLAND - VOLCANOLOGY, XENOLITH PETROLOGY AND SEISMIC DATA, Journal of Volcanology and Geothermal Research, 31(3-4), 177-203.&#x0d;
+Griffin, W. L., S. Graham, S. Y. O'Reilly, and N. J. Pearson (2004), Lithosphere evolution beneath the Kaapvaal Craton: Re-Os systematics of sulfides in mantle-derived peridotites, Chemical Geology, 208(1-4), 89-118, doi: 10.1016/j.chemgeo.2004.04.007.&#x0d;
+Handler, M. R., V. C. Bennett, and T. M. Esat (1997), The persistence of off-cratonic lithospheric mantle: Os isotopic systematics of variably metasomatised southeast Australian xenoliths, Earth and Planetary Science Letters, 151(1-2), 61-75.&#x0d;
+Handler, M. R., V. C. Bennett, and R. W. Carlson (2005), Nd, Sr and Os isotope systematics in young, fertile spinel peridotite xenoliths from northern Queensland, Australia: A unique view of depleted MORB mantle?, Geochimica Et Cosmochimica Acta, 69(24), 5747-5763, doi: 10.1016/j.gca.2005.08.003.&#x0d;
+Harte, B., A. Winterburn, and J. J. Gurney (1987), Metasomatic and enrichment phenomena in garnet peridotite facies mantle xenoliths from the Matsoku kimberlite pipe, Lesotho., in Mantle Metasomatism, edited by M. A. Menzies and C. J. Hawkesworth, pp. 145-220, Academic Press, London.&#x0d;
+Harvey, J., A. Gannoun, K. W. Burton, P. Schiano, N. W. Rogers, and O. Alard (2010), Unravelling the effects of melt depletion and secondary infiltration on mantle Re-Os isotopes beneath the French Massif Central, Geochimica Et Cosmochimica Acta, 74(1), 293-320, doi: 10.1016/j.gca.2009.09.031.&#x0d;
+Heinrich, W., and T. Besch (1992), THERMAL HISTORY OF THE UPPER MANTLE BENEATH A YOUNG BACK-ARC EXTENSIONAL ZONE - ULTRAMAFIC XENOLITHS FROM SAN-LUIS-POTOSI, CENTRAL MEXICO, Contributions to Mineralogy and Petrology, 111(1), 126-142.&#x0d;
+Ionov, D. A. (2007), Compositional variations and heterogeneity in fertile lithospheric mantle: peridotite xenoliths in basalts from Tariat, Mongolia, Contributions to Mineralogy and Petrology, 154(4), 455-477, doi: 10.1007/s00410-007-0203-y.&#x0d;
+Ionov, D. A. (2010), Petrology of Mantle Wedge Lithosphere: New Data on Supra-Subduction Zone Peridotite Xenoliths from the Andesitic Avacha Volcano, Kamchatka, Journal of Petrology, 51(1-2), 327-361, doi: 10.1093/petrology/egp090.&#x0d;
+Ionov, D. A., and A. W. Hofmann (1995), NB-TA-RICH MANTLE AMPHIBOLES AND MICAS - IMPLICATIONS FOR SUBDUCTION-RELATED METASOMATIC TRACE-ELEMENT FRACTIONATIONS, Earth and Planetary Science Letters, 131(3-4), 341-356.&#x0d;
+Ionov, D. A., and A. W. Hofmann (2007), Depth of formation of subcontinental off-craton peridotites, Earth and Planetary Science Letters, 261(3-4), 620-634, doi: 10.1016/j.epsl.2007.07.036.&#x0d;
+Ionov, D. A., U. Kramm, and H. G. Stosch (1992), EVOLUTION OF THE UPPER MANTLE BENEATH THE SOUTHERN BAIKAL RIFT-ZONE - AN SR-ND ISOTOPE STUDY OF XENOLITHS FROM THE BARTOY VOLCANOS, Contributions to Mineralogy and Petrology, 111(2), 235-247.&#x0d;
+Ionov, D. A., A. W. Hofmann, and N. Shimizu (1994), METASOMATISM-INDUCED MELTING IN MANTLE XENOLITHS FROM MONGOLIA, Journal of Petrology, 35(3), 753-785.&#x0d;
+Ionov, D. A., S. Y. Oreilly, and I. V. Ashchepkov (1995), FELDSPAR-BEARING IHERZOLITE XENOLITHS IN ALKALI BASALTS FROM HAMAR-DABAN, SOUTHERN BAIKAL REGION, RUSSIA, Contributions to Mineralogy and Petrology, 122(1-2), 174-190.&#x0d;
+Ionov, D. A., V. S. Prikhodko, and S. Y. Oreilly (1995), PERIDOTITE XENOLITHS IN ALKALI BASALTS FROM THE SIKHOTE-ALIN, SOUTHEASTERN SIBERIA, RUSSIA - TRACE-ELEMENT SIGNATURES OF MANTLE BENEATH A CONVERGENT CONTINENTAL-MARGIN, Chemical Geology, 120(3-4), 275-294.&#x0d;
+Ionov, D. A., I. Chanefo, and J. L. Bodinier (2005), Origin of Fe-rich lherzolites and wehrlites from Tok, SE Siberia by reactive melt percolation in refractory mantle peridotites, Contributions to Mineralogy and Petrology, 150(3), 335-353, doi: 10.1007/s00410-005-0026-7.&#x0d;
+Ionov, D. A., I. Ashchepkov, and E. Jagoutz (2005), The provenance of fertile off-craton lithospheric mantle: Sr-Nd isotope and chemical composition of garnet and spinel peridotite xenoliths from Vitim, Siberia, Chemical Geology, 217(1-2), 41-75, doi: 10.1016/j.chemgeo.2004.12.001.&#x0d;
+Ionov, D. A., J. Hoefs, K. H. Wedepohl, and U. Wiechert (1993), CONTENT OF SULFUR IN DIFFERENT MANTLE RESERVOIRS - REPLY TO COMMENT ON THE PAPER CONTENT AND ISOTOPIC COMPOSITION OF SULFUR IN ULTRAMAFIC XENOLITHS FROM CENTRAL-ASIA, Earth and Planetary Science Letters, 119(4), 635-640.&#x0d;
+Ionov, D. A., S. Y. O'Reilly, Y. S. Genshaft, and M. G. Kopylova (1996), Carbonate-bearing mantle peridotite xenoliths from Spitsbergen: Phase relationships, mineral compositions and trace-element residence, Contributions to Mineralogy and Petrology, 125(4), 375-392.&#x0d;
+Ionov, D. A., J. L. Bodinier, S. B. Mukasa, and A. Zanetti (2002), Mechanisms and sources of mantle metasomatism: Major and trace element compositions of peridotite xenoliths from Spitsbergen in the context of numerical modelling, Journal of Petrology, 43(12), 2219-2259.&#x0d;
+Ionov, D. A., S. B. Shirey, D. Weis, and G. Brugmann (2006), Os-Hf-Sr-Nd isotope and PGE systematics of spinel peridotite xenoliths from Tok, SE Siberian craton: Effects of pervasive metasomatism in shallow refractory mantle, Earth and Planetary Science Letters, 241(1-2), 47-64, doi: 10.1016/j.epsl.2005.10.038.&#x0d;
+Ionov, D. A., I. V. Ashchepkov, H. G. Stosch, G. Witteickschen, and H. A. Seck (1993), GARNET PERIDOTITE XENOLITHS FROM THE VITIM VOLCANIC FIELD, BAIKAL REGION - THE NATURE OF THE GARNET SPINEL PERIDOTITE TRANSITION ZONE IN THE CONTINENTAL MANTLE, Journal of Petrology, 34(6), 1141-1175.&#x0d;
+Ionov, D. A., V. S. Prikhodko, J. L. Bodinier, A. V. Sobolev, and D. Weis (2005), Lithospheric mantle beneath the south-eastern Siberian craton: petrology of peridotite xenoliths in basalts from the Tokinsky Stanovik, Contributions to Mineralogy and Petrology, 149(6), 647-665, doi: 10.1007/s00410-005-0672-9.&#x0d;
+Ionov, D. A., G. Chazot, C. Chauvel, C. Merlet, and J. L. Bodinier (2006), Trace element distribution in peridotite xenoliths from Tok, SE Siberian craton: A record of pervasive, multi-stage metasomatism in shallow refractory mantle, Geochimica Et Cosmochimica Acta, 70(5), 1231-1260, doi: 10.1016/j.gca.2005.11.010.&#x0d;
+Irvine, G. J., D. G. Pearson, B. A. Kjarsgaard, R. W. Carlson, M. G. Kopylova, and G. Dreibus (2003), A Re-Os isotope and PGE study of kimberlite-derived peridotite xenoliths from Somerset Island and a comparison to the Slave and Kaapvaal cratons, Lithos, 71(2-4), 461-488, doi: 10.1016/s0024-4937(03)00126-9.&#x0d;
+Irving, A. J. (1980), PETROLOGY AND GEOCHEMISTRY OF COMPOSITE ULTRAMAFIC XENOLITHS IN ALKALIC BASALTS AND IMPLICATIONS FOR MAGMATIC PROCESSES WITHIN THE MANTLE, American Journal of Science, 280A, 389-426.&#x0d;
+Jagouta, E., H. Palme, H. Baddenhausen, K. Blum, M. Cendales, G. Dreibus, B. Spettel, V. Lorenz, and H. Wanke (1979), The abundances of major, minor and trace elements in the earth's mantle as derived from primitive ultramafic nodules, Proceedings, Lunar and Planetary Science Conference, 10th, 2, 2031-2050.&#x0d;
+Kogarko, L. N., V. A. Turkov, I. D. Riabchikov, G. M. Kolesov, N. A. Shubina, V. A. Karpushina, and V. I. Kovalenko (1986), THE COMPOSITION OF THE EARTH PRIMARY MANTLE BASED ON DATA OF THE NODULE INVESTIGATION, Doklady Akademii Nauk Sssr, 290(1), 199-203.&#x0d;
+Kopylova, M. G., and G. Caro (2004), Mantle xenoliths from the Southeastern Slave craton: Evidence for chemical zonation in a thick, cold lithosphere, Journal of Petrology, 45(5), 1045-1067, doi: 10.1093/petrology/egh003.&#x0d;
+Kornprob.J (1970), PERIDOTITES AND PYROXENITES FROM BENI BOUCHERA (MOROCCO) - EXPERIMENTAL INVESTIGATION BETWEEN 1100 AND 1550 DEGREES C FROM 15 TO 30 KILOBARS DRY PRESSURE, Contributions to Mineralogy and Petrology, 29(4), 290-309.&#x0d;
+Kurat, G., H. Palme, B. Spettel, H. Baddenhausen, H. Hofmeister, C. Palme, and H. Wanke (1980), GEOCHEMISTRY OF ULTRAMAFIC XENOLITHS FROM KAPFENSTEIN, AUSTRIA - EVIDENCE FOR A VARIETY OF UPPER MANTLE PROCESSES, Geochimica Et Cosmochimica Acta, 44(1), 45-&amp;.&#x0d;
+Kuskov, O. L., V. A. Kronrod, and H. Annersten (2006), Inferring upper-mantle temperatures from seismic and geochemical constraints: Implications for Kaapvaal craton, Earth and Planetary Science Letters, 244(1-2), 133-154, doi: 10.1016/j.epsl.2006.02.016.&#x0d;
+Le Roux, V., J. L. Bodinier, A. Tommasi, O. Alard, J. M. Dautria, A. Vauchez, and A. J. V. Riches (2007), The Lherz spinel lherzolite: Refertilized rather than pristine mantle, Earth and Planetary Science Letters, 259(3-4), 599-612, doi: 10.1016/j.epsl.2007.05.026.&#x0d;
+Lucassen, F., G. Franz, J. Viramonte, R. L. Romer, P. Dulski, and A. Lang (2005), The late Cretaceous lithospheric mantle beneath the Central Andes: Evidence from phase equilibria and composition of mantle xenoliths, Lithos, 82(3-4), 379-406, doi: 10.1016/j.lithos.2004.08.002.&#x0d;
+Lugovic, B., R. Altherr, I. Raczek, A. W. Hofmann, and V. Majer (1991), GEOCHEMISTRY OF PERIDOTITES AND MAFIC IGNEOUS ROCKS FROM THE CENTRAL DINARIC OPHIOLITE BELT, YUGOSLAVIA, Contributions to Mineralogy and Petrology, 106(2), 201-216.&#x0d;
+Maury, R. C., M. J. Defant, and J. L. Joron (1992), METASOMATISM OF THE SUB-ARC MANTLE INFERRED FROM TRACE-ELEMENTS IN PHILIPPINE XENOLITHS, Nature, 360(6405), 661-663.&#x0d;
+Mazzucchelli, M., G. Rivalenti, D. Brunelli, A. Zanetti, and E. Boari (2009), Formation of Highly Refractory Dunite by Focused Percolation of Pyroxenite-Derived Melt in the Balmuccia Peridotite Massif (Italy), Journal of Petrology, 50(7), 1205-1233, doi: 10.1093/petrology/egn053.&#x0d;
+Medaris, G., H. Wang, E. Jelinek, M. Mihaljevic, and P. Jakes (2005), Characteristics and origins of diverse Variscan peridotites in the Gfohl Nappe, Bohemian Massif, Czech Republic, Lithos, 82(1-2), 1-23, doi: 10.1016/j.lithos.2004.12.004.&#x0d;
+Meisel, T., R. J. Walker, A. J. Irving, and J. P. Lorand (2001), Osmium isotopic compositions of mantle xenoliths: A global perspective, Geochimica Et Cosmochimica Acta, 65(8), 1311-1323.&#x0d;
+Meisel, T., F. Melcher, P. Tomascak, C. Dingeldey, and F. Koller (1997), Re-Os isotopes in orogenic peridotite massifs in the Eastern Alps, Austria, Chemical Geology, 143(3-4), 217-229.&#x0d;
+Menzies, M. A., and C. J. Hawkeworth (1987), Mantle metasomatism, Academic Press.&#x0d;
+Menzies, M. A., N. Rogers, A. Tindle, and C. J. Hawkesworth (1987), Metasomatic and enrichment processes in lithospheric peridotites, an effect of asthenosphere-lithosphere interaction., in Mantle Metasomatism, edited by M. A. Menzies and C. J. Hawkesworth, pp. 313-361, Academic Press, London.&#x0d;
+Milliard, Y. (1959), Les massifs metamorphiques et ultrabasiques de la zone paleozoique interne du Rif., Notes Serv. Geol. Maroc, 18, 125-160.&#x0d;
+Muntener, O. (1997), The Malenco peridotites (Alps): Petrology and geochemistry of subcontinental mantle and Jurassic exhumation during rifting, 205 pp.&#x0d;
+Nehru, C. E., and A. K. Reddy (1989), Ultramafic xenoliths from Vajrakarur Kimberlites, India, in Kimberlites and related rocks: proceedings of the Fourth International Kimberlite Conference, Perth, 1986, edited by J. Ross, pp. 745-758, Blackwell.&#x0d;
+Nickel, K. G., and D. H. Green (1984), The nature of the upper-most mantle beneath Victoria, Australia as deduced from ultramafic xenoliths, in Kimberlites, II. The Mantle and Crust-Mantle Relationships., edited by J. Kornprobst, pp. 161-178, Elsevier, Amsterdam.&#x0d;
+Nixon, P. H. (1987), Mantle Xenoliths, Johns Wiley &amp; Sons Lid.&#x0d;
+Nixon, P. H. (1987), Kimberlitic xenoliths and their cratonic setting., in Mantle Xenoliths, edited by P. H. Nixon, pp. 215-239, John Wiley &amp; Sons Inc.&#x0d;
+Nixon, P. H., and F. R. Boyd (1973), Petrogenesis of the granular and sheared ultrabasic nodule suite in kimberlites, in Lesotho Kimberlites, edited by P. H. Nixon, pp. 48-56, Lesotho National Development Corp, Maseru, Lesotho.&#x0d;
+Nixon, P. H., J. M. Rooke, and O. V. Knorring (1963), KIMERLITES AND ASSOCIATED INCLUSIONS OF BASUTOLAND - A MINERALOGICAL AND GEOCHEMICAL STUDY, American Mineralogist, 48(9-10), 1090-1132.&#x0d;
+Nixon, P. H., N. W. Rogers, I. L. Gibson, and A. Grey (1981), DEPLETED AND FERTILE MANTLE XENOLITHS FROM SOUTHERN AFRICAN KIMBERLITES, Annual Review of Earth and Planetary Sciences, 9, 285-309.&#x0d;
+Nixon, P. H., P. W. C. van Calsteren, F. R. Boyd, and C. J. Hawkesworth (1987), Harzburgites with garnets of diamond facies from southern African kimberlites., in Mantle Xenolith, edited by P. H. Nixon, pp. 523-533, John Wiley &amp; Sons Inc.&#x0d;
+Norman, M. D. (1998), Melting and metasomatism in the continental lithosphere: laser ablation ICPMS analysis of minerals in spinel lherzolites from eastern Australia, Contributions to Mineralogy and Petrology, 130(3-4), 240-255.&#x0d;
+Ntaflos, T., E. A. Bjerg, C. H. Labudia, and G. Kurat (2007), Depleted lithosphere from the mantle wedge beneath Tres Lagos, southern Patagonia, Argentina, Lithos, 94(1-4), 46-65, doi: 10.1016/j.lithos.2006.06.011.&#x0d;
+Oreilly, S. Y., and W. L. Griffin (1988), MANTLE METASOMATISM BENEATH WESTERN VICTORIA, AUSTRALIA .1. METASOMATIC PROCESSES IN CR-DIOPSIDE LHERZOLITES, Geochimica Et Cosmochimica Acta, 52(2), 433-447.&#x0d;
+Ottonello, G. (1980), RARE-EARTH ABUNDANCES AND DISTRIBUTION IN SOME SPINEL PERIDOTITE XENOLITHS FROM ASSAB (ETHIOPIA), Geochimica Et Cosmochimica Acta, 44(11), 1885-1901.&#x0d;
+Ottonello, G., W. G. Ernst, and J. L. Joron (1984), RARE-EARTH AND 3D TRANSITION ELEMENT GEOCHEMISTRY OF PERIDOTITIC ROCKS .1. PERIDOTITES FROM THE WESTERN ALPS, Journal of Petrology, 25(2), 343-372.&#x0d;
+Ottonello, G., G. Piccardo, J. Joron, and M. Treuil (1978), Evolution of the upper mantle under the Assab Region (Ethiopia): Suggestions from petrology and geochemistry of tectonitic ultramafic xenoliths and host basaltic lavas, Geologische Rundschau, 67(2), 547-575, doi: 10.1007/bf01802804.&#x0d;
+Paul, D. K. (1971), STRONTIUM ISOTOPE STUDIES ON ULTRAMAFIC INCLUSIONS FROM DREISER WEIHER, EIFEL, GERMANY, Contributions to Mineralogy and Petrology, 34(1), 22-&amp;.&#x0d;
+Pearson, D. G., R. W. Carlson, S. B. Shirey, F. R. Boyd, and P. H. Nixon (1995), STABILIZATION OF ARCHEAN LITHOSPHERIC MANTLE - A RE-OS ISOTOPE STUDY OF PERIDOTITE XENOLITHS FROM THE KAAPVAAL CRATON, Earth and Planetary Science Letters, 134(3-4), 341-357.&#x0d;
+Pearson, D. G., S. B. Shirey, R. W. Carlson, F. R. Boyd, N. P. Pokhilenko, and N. Shimizu (1995), RE-OS, SM-ND, AND RB-SR ISOTOPE EVIDENCE FOR THICK ARCHEAN LITHOSPHERIC MANTLE BENEATH THE SIBERIAN CRATON MODIFIED BY MULTISTAGE METASOMATISM, Geochimica Et Cosmochimica Acta, 59(5), 959-977.&#x0d;
+Peslier, A. H., D. Francis, and J. Ludden (2002), The lithospheric mantle beneath continental margins: Melting and melt-rock reaction in Canadian Cordillera xenoliths, Journal of Petrology, 43(11), 2013-2047.&#x0d;
+Peslier, A. H., L. Reisberg, J. Ludden, and D. Francis (2000), Os isotopic systematics in mantle xenoliths; age constraints on the Canadian Cordillera lithosphere, Chemical Geology, 166(1-2), 85-101.&#x0d;
+Piccardo, G. B., A. Zanetti, and O. Muntener (2007), Melt/peridotite interaction in the Southern Lanzo peridotite: Field, textural and geochemical evidence, Lithos, 94(1-4), 181-209, doi: 10.1016/j.lithos.2006.07.002.&#x0d;
+Press, S., G. Witt, H. A. Seck, D. Eonov, and V. I. Kovalenko (1986), SPINEL PERIDOTITE XENOLITHS FROM THE TARIAT DEPRESSION, MONGOLIA .1. MAJOR ELEMENT CHEMISTRY AND MINERALOGY OF A PRIMITIVE MANTLE XENOLITH SUITE, Geochimica Et Cosmochimica Acta, 50(12), 2587-2599.&#x0d;
+Project, B. V. S. (1981), Basaltic Volcanism on the Terrestrial Planets, Pergamon Press, Inc., New York.&#x0d;
+Qi, Q., L. A. Taylor, and X. M. Zhou (1995), PETROLOGY AND GEOCHEMISTRY OF MANTLE PERIDOTITE XENOLITHS FROM SE CHINA, Journal of Petrology, 36(1), 55-79.&#x0d;
+Rampone, E., A. W. Hofmann, G. B. Piccardo, R. Vannucci, P. Bottazzi, and L. Ottolini (1995), PETROLOGY, MINERAL AND ISOTOPE GEOCHEMISTRY OF THE EXTERNAL LIGURIDE PERIDOTITES (NORTHERN APENNINES, ITALY), Journal of Petrology, 36(1), 81-105.&#x0d;
+Rehkamper, M., A. N. Halliday, D. Barfod, and J. G. Fitton (1997), Platinum-group element abundance patterns in different mantle environments, Science, 278(5343), 1595-1598.&#x0d;
+Reisberg, L., J. P. Lorand, and R. M. Bedini (2004), Reliability of Os model ages in pervasively metasomatized continental mantle lithosphere: a case study of Sidamo spinel peridotite xenoliths (East African Rift, Ethiopia), Chemical Geology, 208(1-4), 119-140, doi: 10.1016/j.chemgeo.2004.04.008.&#x0d;
+Rhodes, J. M., and J. B. Dawson (1975), Major and trace element chemistry of peridotite inclusions from the Lashaine volcano, Tanzania, Physics and Chemistry of The Earth, 9, 545-557, doi: 10.1016/0079-1946(75)90038-5.&#x0d;
+Rivalenti, G., A. Zanetti, V. A. V. Girardi, M. Mazzucchelli, C. C. G. Tassinari, and G. W. Bertotto (2007), The effect of the Fernando de Noronha plume on the mantle lithosphere in north-eastern Brazil, Lithos, 94(1-4), 111-131, doi: 10.1016/j.lithos.2006.06.012.&#x0d;
+Roden, M. F., A. J. Irving, and V. R. Murthy (1988), ISOTOPIC AND TRACE-ELEMENT COMPOSITION OF THE UPPER MANTLE BENEATH A YOUNG CONTINENTAL RIFT - RESULTS FROM KILBOURNE-HOLE, NEW-MEXICO, Geochimica Et Cosmochimica Acta, 52(2), 461-473.&#x0d;
+Rudnick, R. L., W. F. McDonough, and B. W. Chappell (1993), CARBONATITE METASOMATISM IN THE NORTHERN TANZANIAN MANTLE - PETROGRAPHIC AND GEOCHEMICAL CHARACTERISTICS, Earth and Planetary Science Letters, 114(4), 463-475.&#x0d;
+Schilling, M., R. V. Conceicao, G. Mallmann, E. Koester, K. Kawashita, F. Herve, D. Morata, and A. Motoki (2005), Spinel-facies mantle xenoliths from Cerro Redondo, Argentine Patagonia: Petrographic, geochemical, and isotopic evidence of interaction between xenoliths and host basalt, Lithos, 82(3-4), 485-502, doi: 10.1016/j.lithos.2004.09.028.&#x0d;
+Schmidberger, S. S., and D. Francis (1999), Nature of the mantle roots beneath the North American craton: mantle xenolith evidence from Somerset Island kimberlites, Lithos, 48(1-4), 195-216.&#x0d;
+Schmidberger, S. S., A. Simonetti, and D. Francis (2001), Sr-Nd-Pb isotope systematics of mantle xenoliths from Somerset Island kimberlites: Evidence for lithosphere stratification beneath Arctic Canada, Geochimica Et Cosmochimica Acta, 65(22), 4243-4255.&#x0d;
+Seyler, M., and P. H. Mattson (1989), PETROLOGY AND THERMAL EVOLUTION OF THE TINAQUILLO PERIDOTITE (VENEZUELA), Journal of Geophysical Research-Solid Earth and Planets, 94(B6), 7629-7660.&#x0d;
+Simon, N. S. C., R. W. Carlson, D. G. Pearson, and G. R. Davies (2007), The origin and evolution of the Kaapvaal cratonic lithospheric mantle, Journal of Petrology, 48(3), 589-625, doi: 10.1093/petrology/egl074.&#x0d;
+Simon, N. S. C., G. J. Irvine, G. R. Davies, D. G. Pearson, and R. W. Carlson (2003), The origin of garnet and clinopyroxene in "depleted" Kaapvaal peridotites, Lithos, 71(2-4), 289-322, doi: 10.1016/s0024-4937(03)00118-x.&#x0d;
+Song, Y., and F. A. Frey (1989), GEOCHEMISTRY OF PERIDOTITE XENOLITHS IN BASALT FROM HANNUOBA, EASTERN CHINA - IMPLICATIONS FOR SUBCONTINENTAL MANTLE HETEROGENEITY, Geochimica Et Cosmochimica Acta, 53(1), 97-113.&#x0d;
+Soustelle, V., A. Tommasi, J. L. Bodinier, C. J. Garrido, and A. Vauchez (2009), Deformation and Reactive Melt Transport in the Mantle Lithosphere above a Large-scale Partial Melting Domain: the Ronda Peridotite Massif, Southern Spain, Journal of Petrology, 50(7), 1235-1266, doi: 10.1093/petrology/egp032.&#x0d;
+Stern, C. R., S. L. Saul, M. A. Skewes, and K. Futa (1989), Garnet peridotite xenoliths from Pali-Aike basalts of southernmost South America, in Kimberlites and related rocks: proceedings of the Fourth International Kimberlite Conference, Perth, 1986, edited by J. Ross, pp. 735-744, Blackwell.&#x0d;
+Stern, C. R., R. Kilian, B. Olker, E. H. Hauri, and T. K. Kyser (1999), Evidence from mantle xenoliths for relatively thin (&lt; 100 km) continental lithosphere below the Phanerozoic crust of southernmost South America, Lithos, 48(1-4), 217-235.&#x0d;
+Stolz, A. J., and G. R. Davies (1988), Chemical and Isotopic Evidence from Spinel Lherzolite Xenoliths for Episodic Metasomatism of the Upper Mantle beneath Southeast Australia, Journal of Petrology, Special_Volume(1), 303-330, doi: 10.1093/petrology/Special_Volume.1.303.&#x0d;
+Stosch, H. G., and H. A. Seck (1980), GEOCHEMISTRY AND MINERALOGY OF 2 SPINEL PERIDOTITE SUITES FROM DREISER-WEIHER, WEST-GERMANY, Geochimica Et Cosmochimica Acta, 44(3), 457-470.&#x0d;
+Suwa, K., Y. Yusa, and N. Kishida (1975), Petrology of peridotite nodules from Ndonyuo Olnchoro, samburu district, central Kenya, Physics and Chemistry of The Earth, 9, 273-286, doi: 10.1016/0079-1946(75)90022-1.&#x0d;
+Tessalina, S. G., B. Bourdon, A. Gannoun, F. Capmas, J. L. Birck, and C. J. Allegre (2007), Complex proterozoic to paleozoic history of the upper mantle recorded in the Urals lherzolite malssifs by Re-Os and Sm-Nd systematics, Chemical Geology, 240(1-2), 61-84, doi: 10.1016/j.chemgeo.2007.02.006.&#x0d;
+van Acken, D., H. Becker, and R. J. Walker (2008), Refertilization of Jurassic oceanic peridotites from the Tethys Ocean - Implications for the Re-Os systematics of the upper mantle, Earth and Planetary Science Letters, 268(1-2), 171-181, doi: 10.1016/j.epsl.2008.01.002.&#x0d;
+Walter, M. J. (1998), Melting of garnet peridotite and the origin of komatiite and depleted lithosphere, Journal of Petrology, 39(1), 29-60.&#x0d;
+Wilshire, H. G., A. V. McGuire, J. S. Noller, and B. D. Turrin (1991), PETROLOGY OF LOWER CRUSTAL AND UPPER MANTLE XENOLITHS FROM THE CIMA VOLCANIC FIELD, CALIFORNIA, Journal of Petrology, 32(1), 169-200.&#x0d;
+Winterburn, P. A., B. Harte, and J. J. Gurney (1990), PERIDOTITE XENOLITHS FROM THE JAGERSFONTEIN KIMBERLITE PIPE .1. PRIMARY AND PRIMARY-METASOMATIC MINERALOGY, Geochimica Et Cosmochimica Acta, 54(2), 329-341.&#x0d;
+Wittig, N., D. G. Pearson, J. A. Baker, S. Duggen, and K. Hoernle (2010), A major element, PGE and Re-Os isotope study of Middle Atlas (Morocco) peridotite xenoliths: Evidence for coupled introduction of metasomatic sulphides and clinopyroxene, Lithos, 115(1-4), 15-26, doi: 10.1016/j.lithos.2009.11.003.&#x0d;
+Yaxley, G. M., A. J. Crawford, and D. H. Green (1991), EVIDENCE FOR CARBONATITE METASOMATISM IN SPINEL PERIDOTITE XENOLITHS FROM WESTERN VICTORIA, AUSTRALIA, Earth and Planetary Science Letters, 107(2), 305-317.&#x0d;
+Zangana, N. A., H. Downes, M. F. Thirlwall, G. F. Marriner, and F. Bea (1999), Geochemical variation in peridotite xenoliths and their constituent clinopyroxenes from Ray Pic (French Massif Central): implications for the composition of the shallow lithospheric mantle, Chemical Geology, 153(1-4), 11-35.&#x0d;
+Zhuravlev, A. Z., E. E. Lazko, and A. I. Ponomarenko (1991), RADIOGENIC ISOTOPES AND RARE-EARTH ELEMENTS IN THE MINERALS OF GARNET PERIDOTITE XENOLITHS FROM MIR KIMBERLITE PIPE (YAKUTIA), Geokhimiya(7), 982-994.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

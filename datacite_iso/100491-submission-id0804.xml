@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100491</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hagedorn,Birgit</creatorName>
+			<givenName>Birgit</givenName>
+			<familyName>Hagedorn</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bhagedorn@uaa.alaska.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:550</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Choquette,Kyla</creatorName>
+			<givenName>Kyla</givenName>
+			<familyName>Choquette</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:546</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rennermalm,Asa K.</creatorName>
+			<givenName>Asa K.</givenName>
+			<familyName>Rennermalm</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:547</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemical data of meltwater from Watson River, Kangerlussuaq, SW Greenland</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Arctic</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Glaciers/Ice Sheet</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">meltwater</subject>
+		<subject subjectScheme="place">Greenland Ice Sheet</subject>
+		<subject subjectScheme="place">SW Greenland</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-10-31 16:27:18.232693</date>
+		<date dateType="Available">2014-11-15</date>
+		<date dateType="Created">2014-10-31T16:27:18.232693</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:804</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=804</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">These data are chemical analysis of stream water from Watson River collected during the 2012 melt event. The data also contain pH, EC, O2 cation and anion analysis. Sample collection occurred mostly upstream from the road crossing. Samples were collected with HDPE bottle attached to a cord which was then thrown towards the center of the stream.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Greenland Ice Sheet, SW Greenland</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-50.08626</pointLongitude>
+				<pointLatitude>67.15442</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

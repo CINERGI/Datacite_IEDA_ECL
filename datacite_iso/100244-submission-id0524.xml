@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100244</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hanan,Barry B.</creatorName>
+			<givenName>Barry B.</givenName>
+			<familyName>Hanan</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bhanan@mail.sdsu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-8240-2200</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6701807315</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:53</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Pb and Hf isotopic analyses of basalt glass from the Lau Basin</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Back Arc Basin</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">hafnium</subject>
+		<subject subjectScheme="constituent">Pb</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">Lau Basin</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-23 13:35:57.356279</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-23T13:35:57.356279</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:524</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=524</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/903101</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/904146</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/904403</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Pb and Hf isotopic analyses of basalt glass from the Lau Basin.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Lau Basin</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-177.878</westBoundLongitude>
+				<eastBoundLongitude>-174.4367</eastBoundLongitude>
+				<southBoundLatitude>-20.22</southBoundLatitude>
+				<northBoundLatitude>-14.8167</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

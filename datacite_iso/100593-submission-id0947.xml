@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100593</identifier>
+	<creators>
+		<creator>
+			<creatorName>Cosentino,Nicolás J.</creatorName>
+			<givenName>Nicolás J.</givenName>
+			<familyName>Cosentino</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:njc58@cornell.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1052</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Jordan,Teresa E.</creatorName>
+			<givenName>Teresa E.</givenName>
+			<familyName>Jordan</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tej1@cornell.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1050</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major and selected trace element chemistry of ancient gypsic soils in Atacama Desert, northern Chile</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">paleosol</subject>
+		<subject subjectScheme="material">calcium sulfate</subject>
+		<subject subjectScheme="material">evaporitic soil</subject>
+		<subject subjectScheme="material">anhydrite</subject>
+		<subject subjectScheme="material">gypsum</subject>
+		<subject subjectScheme="material">marine aerosol</subject>
+		<subject subjectScheme="material">relict soil</subject>
+		<subject subjectScheme="place">Tarapacá Region</subject>
+		<subject subjectScheme="place">Pampa del Tamarugal</subject>
+		<subject subjectScheme="place">South America</subject>
+		<subject subjectScheme="place">Andean forearc</subject>
+		<subject subjectScheme="place">Arica y Parinacota Region</subject>
+		<subject subjectScheme="place">Atacama Desert</subject>
+		<subject subjectScheme="place">Central Depression</subject>
+		<subject subjectScheme="place">Chile</subject>
+		<subject subjectScheme="place">Coastal Cordillera</subject>
+		<subject subjectScheme="place">Coastal Escarpment</subject>
+		<subject subjectScheme="topic detail">paleoaltimetry</subject>
+		<subject subjectScheme="topic detail">forearc uplift</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-05-18 12:51:18.98779</date>
+		<date dateType="Available">2016-06-01</date>
+		<date dateType="Created">2016-05-18T12:51:18.98779</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:947</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=947</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Elemental chemistry data for Upper Miocene to Pleistocene calcium sulfate soils in the Atacama Desert of northern Chile are provided. Some examples occur as relict soils and others are paleosols. At some locations full vertical profiles were sampled, while at other locations samples were collected a only one or two depths within the ancient soil profile. These data accompany 87Sr/86Sr data for the same samples, whose purpose is to determine the proportion of salts derived from marine aerosols. A total of 98 samples are reported for sites spanning ~330 km strike-parallel distance and elevations between 450 and 1850 m.a.s.l., within the Coastal Escarpment, Coastal Cordillera and Central Depression of northern Chile (18.7-21.8°S). The elemental chemistry data are expressed in millimoles of soluble X element per gram of soil (mmol/g).</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>South America, Chile, Atacama Desert, Andean forearc, Coastal Escarpment, Coastal Cordillera, Central Depression, Pampa del Tamarugal, Tarapacá Region, Arica y Parinacota Region Region</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-70.15827</westBoundLongitude>
+				<eastBoundLongitude>-69.13572</eastBoundLongitude>
+				<southBoundLatitude>-21.705</southBoundLatitude>
+				<northBoundLatitude>-18.92901</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100555</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mukasa,Samuel B.</creatorName>
+			<givenName>Samuel B.</givenName>
+			<familyName>Mukasa</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:Sam.Mukasa@unh.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003554865</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56432563300</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57038492500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:819</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Andronikov,Alex</creatorName>
+			<givenName>Alex</givenName>
+			<familyName>Andronikov</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6602665926</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:820</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Aviado,Kimberly B.</creatorName>
+			<givenName>Kimberly B.</givenName>
+			<familyName>Aviado</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56527449700</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:821</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Blichert-Toft,Janne J.</creatorName>
+			<givenName>Janne J.</givenName>
+			<familyName>Blichert-Toft</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35228367500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:49</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Brumley,Kelley</creatorName>
+			<givenName>Kelley</givenName>
+			<familyName>Brumley</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:823</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bryce,Julie</creatorName>
+			<givenName>Julie</givenName>
+			<familyName>Bryce</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:julie.bryce@unh.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">36070490600</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005244765</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:824</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mayer,Larry</creatorName>
+			<givenName>Larry</givenName>
+			<familyName>Mayer</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:825</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Shokalsky,Sergey</creatorName>
+			<givenName>Sergey</givenName>
+			<familyName>Shokalsky</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:826</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemistry and Geochronology of Intraplate Lavas Recovered from the Arctic Ocean</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Arctic</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="place">Arctic Ocean</subject>
+		<subject subjectScheme="topic detail">intraplate volcanism</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-09-14 15:15:09.340215</date>
+		<date dateType="Available">2015-09-22</date>
+		<date dateType="Created">2015-09-14T15:15:09.340215</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:890</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=890</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/902695</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/904067</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset presents new geochemical (major oxide, trace element, and Pb-Sr-Nd isotopic) information and Ar-Ar geochronology for intraplate lavas from the Arctic Ocean. Subaerial lavas were collected from Franz Josef land and submarine lavas were dredged from the Alpha/Mendeleev Ridges.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+			<geoLocationBox>
+				<westBoundLongitude>-174.940833</westBoundLongitude>
+				<eastBoundLongitude>175.740495</eastBoundLongitude>
+				<southBoundLatitude>78.52863</southBoundLatitude>
+				<northBoundLatitude>83.187222</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

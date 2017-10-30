@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100622</identifier>
+	<creators>
+		<creator>
+			<creatorName>Fischer-Goedde,Mario</creatorName>
+			<givenName>Mario</givenName>
+			<familyName>Fischer-Goedde</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:m.fischer-goedde@uni-muenster.de</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35172780500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1227</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kleine,Thorsten</creatorName>
+			<givenName>Thorsten</givenName>
+			<familyName>Kleine</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1094</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Ruthenium isotopic composition of chondrites, iron meteorites and terrestrial chromitites</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Space/Planetary</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Meteorite</subject>
+		<subject subjectScheme="IEDA Topic">Cosmos</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">ruthenium</subject>
+		<subject subjectScheme="isotopes">ruthenium isotopes</subject>
+		<subject subjectScheme="material">meteorites</subject>
+		<subject subjectScheme="place">Earth</subject>
+		<subject subjectScheme="topic detail">nucleosynthetic isotope anomalies</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-11-29 14:13:07.384119</date>
+		<date dateType="Available">2016-11-30</date>
+		<date dateType="Created">2016-11-29T08:39:53.596102</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:982</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=982</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/nature21045</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The dataset provides Ru isotope data for chondrites, iron meteorites and terrestrial chromitites obtained by multi collector inductively coupled plasma mass spectrometry (MC-ICPMS). The Ru isotope compositions of meteorites are reported in the epsilon notation representing the parts per ten thousand deviation from the terrestrial Ru isotope composition as represented by the Alfa Aesar Ru standard.</description>
+		<description descriptionType="Other">Related publications: Fischer Goedde, M. and Kleine T. (2017), "Ruthenium isotopic evidence for an inner solar system origin of the late veneer." Nature 541, 525–527. doi:10.1038/nature21045</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Earth, Meteorites</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

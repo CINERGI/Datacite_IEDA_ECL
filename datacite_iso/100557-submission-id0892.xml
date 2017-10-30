@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100557</identifier>
+	<creators>
+		<creator>
+			<creatorName>Delmelle,Pierre</creatorName>
+			<givenName>Pierre</givenName>
+			<familyName>Delmelle</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:837</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kusakabe,Minoru</creatorName>
+			<givenName>Minoru</givenName>
+			<familyName>Kusakabe</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7102300625</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56377288600</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56207737700</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:858</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bernard,Alain</creatorName>
+			<givenName>Alain</givenName>
+			<familyName>Bernard</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:859</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fischer,Tobias P.</creatorName>
+			<givenName>Tobias P.</givenName>
+			<familyName>Fischer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:fischer@unm.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7402051549</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:723</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>de Brouwer,Simone</creatorName>
+			<givenName>Simone</givenName>
+			<familyName>de Brouwer</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:861</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemical and isotopic evidence for seawater contamination of the hydrothermal system of Taal Volcano, Luzon, the Philippines</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="place">LUZON</subject>
+		<subject subjectScheme="place">PHILLIPINES</subject>
+		<subject subjectScheme="place">TAAL VOLCANO</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+		<subject subjectScheme="subject">fumarole</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-09-29 14:06:02.06858</date>
+		<date dateType="Available">2015-10-15</date>
+		<date dateType="Created">2015-09-29T14:06:02.06858</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:892</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=892</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1007/s004450050210</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset contains geochemical and isotopic analyses of fumarole gases from Taal  Volcano, Phillipines. Data is presented for 2 samples from the main crater and 1 sample from the "frying pan" an area in which fumarole gases were discharging vigorously through water-saturated ground collected on October 28, 1995.</description>
+		<description descriptionType="Other">Related publications: Delmelle P., Kusakabe M.,  Bernard  A., Fischer T., de Brouwer S. , del Mundo E., (1998),"Geochemical and isotopic evidence for seawater contamination of the hydrothermal system of Taal Volcano, Luzon, the Philippines."Bulletin of Volcanology, 59:562-576</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>PHILLIPINES, LUZON, TAAL VOLCANO</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>121.002258</pointLongitude>
+				<pointLatitude>14.015786</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

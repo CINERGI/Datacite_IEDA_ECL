@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100413</identifier>
+	<creators>
+		<creator>
+			<creatorName>Dreyer,Brian M.</creatorName>
+			<givenName>Brian M.</givenName>
+			<familyName>Dreyer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bdreyer@ucsc.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0992-6929</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">14017575900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:243</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Clague,David A.</creatorName>
+			<givenName>David A.</givenName>
+			<familyName>Clague</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:clague@mbari.org</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-2432-8786</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004813904</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:24</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gill,James B.</creatorName>
+			<givenName>James B.</givenName>
+			<familyName>Gill</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:gillord@ucsc.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2584-9687</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7401976182</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55535845900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57189212794</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:75</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major element data of pyroclastic glasses from push cores taken in the center of the Axial Seamount caldera.</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="material">tephra</subject>
+		<subject subjectScheme="place">Axial Seamount</subject>
+		<subject subjectScheme="place">Juan de Fuca Ridge</subject>
+		<subject subjectScheme="place">NE Pacific Ocean</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">intermediate spreading ridge</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-12-17 18:06:28.557551</date>
+		<date dateType="Available">2014-01-01</date>
+		<date dateType="Created">2013-12-17T18:06:28.557551</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:723</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=723</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/ggge.20239</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900073</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Sediment push core samples contain pyroclastic glassy shards up to ∼1 cm. Two cores (D75-PC43 and D75-PC58) were collected above plagioclase-phyric Group 2 lava (see Dreyer et al., 2013 for definition). They are separated by ∼0.3 km on the central portion of the summit caldera floor of Axial Seamount. These cores were divided into thirteen 2 cm thick depth-horizons and provide stratigraphic and absolute age-constrained glass chemistry (see also Clague et al. 2013). Electron microprobe major element analyses were performed on 256 stratigraphically controlled fluidal pyroclastic glass fragments, each an average of four spots on the analyzed glass shard (EMPA at UC Davis following methods of Clague et al., 2013).&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Dreyer, B. M., D. A. Clague, and J. B. Gill (2013), Petrological variability of recent magmatism at the Axial Seamount Summit, Juan de Fuca Ridge, Geochem. Geophys. Geosyst., 14, 4306–4333, doi:10.1002/ggge.20239</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Axial Seamount, Juan de Fuca Ridge, NE Pacific Ocean</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

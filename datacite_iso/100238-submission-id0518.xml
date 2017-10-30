@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100238</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang,Yu</creatorName>
+			<givenName>Yu</givenName>
+			<familyName>Huang</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yuhuang@umd.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:169</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chubakov,Viacheslav</creatorName>
+			<givenName>Viacheslav</givenName>
+			<familyName>Chubakov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:170</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mantovani,Fabio</creatorName>
+			<givenName>Fabio</givenName>
+			<familyName>Mantovani</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:171</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rudnick,Roberta L.</creatorName>
+			<givenName>Roberta L.</givenName>
+			<familyName>Rudnick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1559-7463</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003986769</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:172</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McDonough,William F.</creatorName>
+			<givenName>William F.</givenName>
+			<familyName>McDonough</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9154-3673</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005259221</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:173</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Seismic Velocity Data, Appendix A data for "A reference Earth model for the heat producing elements and associated geoneutrino flux"</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Physical Properties</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">laboratory ultrasonic measurement</subject>
+		<subject subjectScheme="parameter">seismic velocity</subject>
+		<subject subjectScheme="parameter">SiO2 content</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-23 11:55:43.680538</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-23T11:55:43.680538</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:518</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=518</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset is a compilation of laboratory ultrasonic measurements for seismic velocity of different natural rocks. The goal of this compilation is to compare laboratory measured seismic velocities with in situ geophysical observations, and to link seismic velocities with chemical composition. Rock type, density, SiO2 content and some mineralogy information of samples are also included. </description>
+		<description descriptionType="Other">Related publications: Babuska, V. (1972), ELASTICITY AND ANISOTROPY OF DUNITE AND BRONZITITE, Journal of Geophysical Research, 77(35), 6955-6965.&#x0d;
+Barruol, G., and H. Kern (1996), Seismic anisotropy and shear-wave splitting in lower-crustal and upper-mantle rocks from the Ivrea Zone - Experimental and calculated data, Physics of the Earth and Planetary Interiors, 95(3-4), 175-194.&#x0d;
+Birch, F. (1960), THE VELOCITY OF COMPRESSIONAL WAVES IN ROCKS TO 10-KILOBARS .1, Journal of Geophysical Research, 65(4), 1083-1102.&#x0d;
+Birch, F. (1961), VELOCITY OF COMPRESSIONAL WAVES IN ROCKS TO 10 KILOBARS, .2, Journal of Geophysical Research, 66(7), 2199-2224.&#x0d;
+Boundy, T. M., D. M. Fountain, and H. Austrheim (1992), Structural development and petrofabrics of eclogite facies shear zones, Bergen Arcs, western Norway: implications for deep crustal deformational processes, Journal of Metamorphic Geology, 10(2), 127-146.&#x0d;
+Burke, M. M., and D. M. Fountain (1990), SEISMIC PROPERTIES OF ROCKS FROM AN EXPOSURE OF EXTENDED CONTINENTAL-CRUST - NEW LABORATORY MEASUREMENTS FROM THE IVREA ZONE, Tectonophysics, 182(1-2), 119-146.&#x0d;
+Burlini, L., and D. M. Fountain (1993), SEISMIC ANISOTROPY OF METAPELITES FROM THE IVREA-VERBANO ZONE AND SERIE DEI LAGHI (NORTHERN ITALY), Physics of the Earth and Planetary Interiors, 78(3-4), 301-317.&#x0d;
+Christen.Ni, and Ramanana.R (1971), ELASTIC MODULI AND ANISTROPY OF DUNITE TO 10 KILOBARS, Journal of Geophysical Research, 76(17), 4003-4010.&#x0d;
+Christensen, N. I. (1965), COMPRESSIONAL WAVE VELOCITIES IN METAMORPHIC ROCKS AT PRESSURES TO 10 KILOBARS, Journal of Geophysical Research, 70(24), 6147-6164.&#x0d;
+Christensen, N. I. (1966), ELASTICITY OF ULTRABASIC ROCKS, Journal of Geophysical Research, 71(24), 5921-5931.&#x0d;
+Christensen, N. I. (1966), SHEAR WAVE VELOCITIES IN METAMORPHIC ROCKS AT PRESSURES TO 10 KILOBARS, Journal of Geophysical Research, 71(14), 3549-3556.&#x0d;
+Christensen, N. I. (1971), FABRIC, SEISMIC ANISOTROPY, AND TECTONIC HISTORY OF TWIN SISTERS DUNITE, WASHINGTON, Geological Society of America Bulletin, 82(6), 1681-1694.&#x0d;
+Christensen, N. I. (1974), COMPRESSIONAL WAVE VELOCITIES IN POSSIBLE MANTLE ROCKS TO PRESSURES OF 30 KILOBARS, Journal of Geophysical Research, 79(2), 407-412.&#x0d;
+Christensen, N. I., and D. M. Fountain (1975), CONSTITUTION OF LOWER CONTINENTAL CRUST BASED ON EXPERIMENTAL STUDIES OF SEISMIC VELOCITIES IN GRANULITE, Geological Society of America Bulletin, 86(2), 227-236.&#x0d;
+Fountain, D. M. (1976), IVREA-VERBANO AND STRONA-CENERI ZONES, NORTHERN ITALY - CROSS-SECTION OF CONTINENTAL CRUST - NEW EVIDENCE FROM SEISMIC VELOCITIES OF ROCK SAMPLES, Tectonophysics, 33(1-2), 145-165.&#x0d;
+Fountain, D. M., and M. H. Salisbury (1996), Seismic properties of rock samples from the Pikwitonei granulite belt - God's lake domain crustal cross section, Manitoba, Canadian Journal of Earth Sciences, 33(5), 757-768.&#x0d;
+Fountain, D. M., M. H. Salisbury, and J. Percival (1990), SEISMIC STRUCTURE OF THE CONTINENTAL-CRUST BASED ON ROCK VELOCITY-MEASUREMENTS FROM THE KAPUSKASING UPLIFT, Journal of Geophysical Research-Solid Earth and Planets, 95(B2), 1167-1186.&#x0d;
+Fountain, D. M., T. M. Boundy, H. Austrheim, and P. Rey (1994), ECLOGITE-FACIES SHEAR ZONES - DEEP-CRUSTAL REFLECTORS?, Tectonophysics, 232(1-4), 411-424.&#x0d;
+Gao, S., H. Kern, Z. M. Jin, T. Popp, S. Y. Jin, H. F. Zhang, and B. R. Zhang (2001), Poisson's ratio of eclogite: the role of retrogression, Earth and Planetary Science Letters, 192(4), 523-531.&#x0d;
+Gao, S., H. Kern, Y. S. Liu, S. Y. Jin, T. Popp, Z. M. Jin, J. L. Feng, M. Sun, and Z. B. Zhao (2000), Measured and calculated seismic velocities and densities for granulites from xenolith occurrences and adjacent exposed lower crustal sections: A comparative study from the North China craton, Journal of Geophysical Research-Solid Earth, 105(B8), 18965-18976.&#x0d;
+Hughes, S., J. H. Luetgert, and N. I. Christensen (1993), RECONCILING DEEP SEISMIC-REFRACTION AND REFLECTION DATA FROM THE GRENVILLIAN-APPALACHIAN BOUNDARY IN WESTERN NEW-ENGLAND, Tectonophysics, 225(4), 255-269.&#x0d;
+Kern, H., and A. Richter (1981), TEMPERATURE DERIVATIVES OF COMPRESSIONAL AND SHEAR-WAVE VELOCITIES IN CRUSTAL AND MANTLE ROCKS AT 6 KBAR CONFINING PRESSURE, Journal of Geophysics-Zeitschrift Fur Geophysik, 49(1), 47-56.&#x0d;
+Kern, H., and V. Schenk (1985), ELASTIC WAVE VELOCITIES IN ROCKS FROM A LOWER CRUSTAL SECTION IN SOUTHERN CALABRIA (ITALY), Physics of the Earth and Planetary Interiors, 40(3), 147-160.&#x0d;
+Kern, H., and V. Schenk (1988), A MODEL OF VELOCITY STRUCTURE BENEATH CALABRIA, SOUTHERN ITALY, BASED ON LABORATORY DATA, Earth and Planetary Science Letters, 87(3), 325-337.&#x0d;
+Kern, H., and J. M. Tubia (1993), PRESSURE AND TEMPERATURE-DEPENDENCE OF P-WAVE AND S-WAVE VELOCITIES, SEISMIC ANISOTROPY AND DENSITY OF SHEARED ROCKS FROM THE SIERRA ALPUJATA MASSIF (RONDA PERIDOTITES, SOUTHERN SPAIN), Earth and Planetary Science Letters, 119(1-2), 191-205.&#x0d;
+Kern, H., S. Gao, and Q. S. Liu (1996), Seismic properties and densities of middle and lower crustal rocks exposed along the North China Geoscience Transect, Earth and Planetary Science Letters, 139(3-4), 439-455.&#x0d;
+Kern, H., B. Liu, and T. Popp (1997), Relationship between anisotropy of P and S wave velocities and anisotropy of attenuation in serpentinite and amphibolite, Journal of Geophysical Research-Solid Earth, 102(B2), 3051-3065.&#x0d;
+Kern, H., C. Walther, E. R. Fluh, and M. Marker (1993), SEISMIC PROPERTIES OF ROCKS EXPOSED IN THE POLAR PROFILE REGION - CONSTRAINTS ON THE INTERPRETATION OF THE REFRACTION DATA, Precambrian Research, 64(1-4), 169-187.&#x0d;
+Kern, H., S. Gao, Z. M. Jin, T. Popp, and S. Y. Jin (1999), Petrophysical studies on rocks from the Dabie ultrahigh-pressure (UHP) metamorphic belt, Central China: implications for the composition and delamination of the lower crust, Tectonophysics, 301(3-4), 191-215.&#x0d;
+Kern, H., Z. M. Jin, S. Gao, T. Popp, and Z. Q. Xu (2002), Physical properties of ultrahigh-pressure metamorphic rocks from the Sulu terrain, eastern central China: implications for the seismic structure at the Donghai (CCSD) drilling site, Tectonophysics, 354(3-4), 315-330.&#x0d;
+Kern, H., T. I. Ivankina, A. N. Nikitin, T. Lokajicek, and Z. Pros (2008), The effect of oriented microcracks and crystallographic and shape preferred orientation on bulk elastic anisotropy of a foliated biotite gneiss from Outokumpu, Tectonophysics, 457(3-4), 143-149.&#x0d;
+Kern, H., T. Popp, F. Gorbatsevich, A. Zharikov, K. V. Lobanov, and Y. P. Smirnov (2001), Pressure and temperature dependence of V-P and V-S in rocks from the superdeep well and from surface analogues at Kola and the nature of velocity anisotropy, Tectonophysics, 338(2), 113-134.&#x0d;
+Kern, H., K. Mengel, K. W. Strauss, T. I. Ivankina, A. N. Nikitin, and I. T. Kukkonen (2009), Elastic wave velocities, chemistry and modal mineralogy of crustal rocks sampled by the Outokumpu scientific drill hole: Evidence from lab measurements and modeling, Physics of the Earth and Planetary Interiors, 175(3-4), 151-166.&#x0d;
+Kono, Y., M. Ishikawa, Y. Harigane, K. Michibayashi, and M. Arima (2009), P- and S-wave velocities of the lowermost crustal rocks from the Kohistan arc: Implications for seismic Moho discontinuity attributed to abundant garnet, Tectonophysics, 467(1-4), 44-54.&#x0d;
+Kumazawa, M., Helmstae.H, and K. Masaki (1971), ELASTIC PROPERTIES OF ECLOGITE XENOLITHS FROM DIATREMES OF EAST COLORADO PLATEAU AND THEIR IMPLICATION TO UPPER MANTLE STRUCTURE, Journal of Geophysical Research, 76(5), 1231-1247.&#x0d;
+Manghnan.Mh, and Ramanana.R (1974), COMPRESSIONAL AND SHEAR WAVE VELOCITIES IN GRANULITE FACIES ROCKS AND ECLOGITES TO 10 KBAR, Journal of Geophysical Research, 79(35), 5427-5446.&#x0d;
+McDonough, D. T., and D. M. Fountain (1988), REFLECTION CHARACTERISTICS OF A MYLONITE ZONE BASED ON COMPRESSIONAL WAVE VELOCITIES OF ROCK SAMPLES, Geophysical Journal-Oxford, 93(3), 547-558.&#x0d;
+McDonough, D. T., and D. M. Fountain (1993), P-WAVE ANISOTROPY OF MYLONITIC AND INFRASTRUCTURAL ROCKS FROM A CORDILLERAN CORE COMPLEX - THE RUBY-EAST HUMBOLDT RANGE, NEVADA, Physics of the Earth and Planetary Interiors, 78(3-4), 319-336.&#x0d;
+Miller, D. J., and N. I. Christensen (1994), SEISMIC SIGNATURE AND GEOCHEMISTRY OF AN ISLAND-ARC - A MULTIDISCIPLINARY STUDY OF THE KOHISTAN ACCRETED TERRANE, NORTHERN PAKISTAN, Journal of Geophysical Research-Solid Earth, 99(B6), 11623-11642.&#x0d;
+Mooney, W. D., and N. I. Christensen (1994), COMPOSITION OF THE CRUST BENEATH THE KENYA RIFT, Tectonophysics, 236(1-4), 391-408.&#x0d;
+O'Reilly, S. Y., I. Jackson, and C. Bezant (1990), EQUILIBRATION TEMPERATURES AND ELASTIC WAVE VELOCITIES FOR UPPER MANTLE ROCKS FROM EASTERN AUSTRALIA - IMPLICATIONS FOR THE INTERPRETATION OF SEISMOLOGICAL MODELS, Tectonophysics, 185(1-2), 67-82.&#x0d;
+Peselnick, L., and A. Nicolas (1978), SEISMIC ANISOTROPY IN AN OPHIOLITE PERIDOTITE - APPLICATION TO OCEANIC UPPER MANTLE, Journal of Geophysical Research, 83(NB3), 1227-1235.&#x0d;
+Pretorius, W., and J. M. Barton (2003), Measured and calculated compressional wave velocities of crustal and upper mantle rocks in the Central Zone of the Limpopo Belt, South Africa - implications for lithospheric structure, South African Journal of Geology, 106(2-3), 205-212.&#x0d;
+Punturo, R., H. Kern, R. Cirrinclone, P. Mazzoleni, and A. Pezzino (2005), P- and S-wave velocities and densities in silicate and calcite rocks from the Peloritani Mountains, Sicily (Italy): The effect of pressure, temperature and the direction of wave propagation, Tectonophysics, 409(1-4), 55-72.&#x0d;
+Reid, M. R., S. R. Hart, E. R. Padovani, and G. A. Wandless (1989), CONTRIBUTION OF METAPELITIC SEDIMENTS TO THE COMPOSITION, HEAT-PRODUCTION, AND SEISMIC VELOCITY OF THE LOWER CRUST OF SOUTHERN NEW-MEXICO, USA, Earth and Planetary Science Letters, 95(3-4), 367-381.&#x0d;
+Salisbury, M. H., and D. M. Fountain (1994), THE SEISMIC VELOCITY AND POISSONS RATIO STRUCTURE OF THE KAPUSKASING UPLIFT FROM LABORATORY MEASUREMENTS, Canadian Journal of Earth Sciences, 31(7), 1052-1063.&#x0d;
+Siegesmund, S., T. Takeshita, and H. Kern (1989), ANISOTROPY OF VP AND VS IN AN AMPHIBOLITE OF THE DEEPER CRUST AND ITS RELATIONSHIP TO THE MINERALOGICAL, MICROSTRUCTURAL AND TEXTURAL CHARACTERISTICS OF THE ROCK, Tectonophysics, 157(1-3), 25-38.&#x0d;
+Simmons, G. (1964), VELOCITY OF SHEAR WAVES IN ROCKS TO 10 KILOBARS, Journal of Geophysical Research, 69(6), 1123-1130.&#x0d;
+Wang, Q., L. Burlini, D. Mainprice, and Z. Xu (2009), Geochemistry, petrofabrics and seismic properties of eclogites from the Chinese Continental Scientific Drilling boreholes in the Sulu UHP terrane, eastern China, Tectonophysics, 475(2), 251-266.&#x0d;
+Wang, Q., S. C. Ji, Z. Q. Xu, M. H. Salisbury, B. Xia, and M. B. Pan (2005), Seismic properties of eclogites: implications on crustal composition and exhumation mechanism of the Sulu ultrahigh-pressure metamorphic belt, Acta Petrologica Sinica, 21(2), 451-464.&#x0d;
+Wang, Q., S. C. Ji, M. H. Salisbury, B. Xia, M. B. Pan, and Z. Q. Xu (2005), Shear wave properties and Poisson's ratios of ultrahigh-pressure metamorphic rocks from the Dabie-Sulu orogenic belt, China: Implications for crustal composition, Journal of Geophysical Research-Solid Earth, 110(B8).&#x0d;
+Wang, Q., S. C. Ji, M. H. Salisbury, B. Xia, M. B. Pan, and Z. Q. Xu (2005), Pressure dependence and anisotropy of P-wave velocities in ultrahigh-pressure metamorphic rocks from the Dabie-Sulu orogenic belt (China): Implications for seismic properties of subducted slabs and origin of mantle reflections, Tectonophysics, 398(1-2), 67-99.&#x0d;
+Zhao, Z., Y. Niu, N. I. Christensen, W. Zhou, Q. Hou, Z. M. Zhang, H. Xie, Z. C. Zhang, and J. Liu (2011), Delamination and ultra-deep subduction of continental crust: constraints from elastic wave velocity and density measurement in ultrahigh-pressure metamorphic rocks, Journal of Metamorphic Geology, 29(7), 781-801.&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

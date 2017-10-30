@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100535</identifier>
+	<creators>
+		<creator>
+			<creatorName>Cutcher-Gershenfeld,Joel</creatorName>
+			<givenName>Joel</givenName>
+			<familyName>Cutcher-Gershenfeld</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:joelcg@illinois.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:687</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>EarthCube Stakeholder Survey Data</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Topic">Human Dimensions</subject>
+		<subject subjectScheme="program">earthcube</subject>
+		<subject subjectScheme="topic detail">cyber-infrastructure</subject>
+		<subject subjectScheme="topic detail">science funding</subject>
+		<subject subjectScheme="topic detail">science institutions</subject>
+		<subject subjectScheme="topic detail">sharing data</subject>
+		<subject subjectScheme="topic detail">stakeholder alignment</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-03-31 09:06:31.130248</date>
+		<date dateType="Available">2015-04-15</date>
+		<date dateType="Created">2015-03-31T09:06:31.130248</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:859</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=859</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1126/science.342.6162.1041-b</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+		<format>.xlsx  Microsoft Excel XML</format>
+		<format>.xls  Microsoft Excel Worksheet</format>
+		<format>.doc  Microsoft Word Document</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This document follows the format in “Sharing Geoscience Data: A Manual and Model” (forthcoming) and provides background information on data from a survey of geoscience and cyberinfrastructure stakeholders who are part of an NSF initiative entitled “EarthCube.”  EarthCube is a joint effort by the National Science Foundation’s Geosciences Directorate (NSF GEO) and Office of Cyberinfrastructure (NSF OCI) to create “…a framework to understand and predict responses of the Earth as a system – from the space-atmosphere boundary to the core, including the influences of humans and ecosystems.”   EarthCube is also part of CIF21 (Cyberinfrastructure for the 21st Century).  It is a knowledge management infrastructure for integrating geosciences data openly, transparently, and inclusively, using cyberinfrastructure derived from and governed by the Geosciences community.  EarthCube is intended to connect layers of data and information through data curation and management via interface layers, and support knowledge creation through data-enabled science.   &#x0d;
+&#x0d;
+These are social science survey data, which is only one (and one of the least common) of the many types of geoscience data.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Project on Stakeholder Alignment in Complex Systems:  Burcu Bolukbasi, Nicholas Berente, Joel Cutcher-Gershenfeld, Courtney Flint, Michael Haberman, John Leslie King, Eric Knight, Barbara Lawrence, Ethan Masella, Charles Mcelroy, Barbara Mittleman, Mark Nolan, Melanie Radik, Namchul Shin, Cheryl A. Thompson, Susan Winter, Ilya Zaslavsky; and Principal Investigators for NSF EarthCube End-User PI Workshops:  M. Lee Allison, David Arctur, Jennifer Arrigo, Anthony K. Aufdenkampe, Jay Bass, Jim Crowell, Joel Cutcher-Gershenfeld, Mike Daniels, Stephen Diggs, Christopher Duffy, Yolanda Gil, Basil Gomez, Sara Graves, Robert Hazen, Leslie Hsu, Danie Kinkade, Kerstin Lehnert, Chris Marone, Don Middleton, Anders Noren, Genevieve Pearthree, Mohan Ramamurthy, Erin Robinson, George Percivall, Stephen Richard, Celina Suarez, Doug Walker,&#x0d;
+(2013), "Open Data:  Crediting a Culture of Cooperation.", Science, Letters(342):1041-1042.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100628</identifier>
+	<creators>
+		<creator>
+			<creatorName>Busche,F. D.</creatorName>
+			<givenName>F. D.</givenName>
+			<familyName>Busche</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1259</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Conrad,G. H.</creatorName>
+			<givenName>G. H.</givenName>
+			<familyName>Conrad</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1311</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Keil,Klaus</creatorName>
+			<givenName>Klaus</givenName>
+			<familyName>Keil</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004931010</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1297</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Prinz,Martin</creatorName>
+			<givenName>Martin</givenName>
+			<familyName>Prinz</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004377021</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1249</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bunch,T. E.</creatorName>
+			<givenName>T. E.</givenName>
+			<familyName>Bunch</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005683486</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1256</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Erlichman,Josef</creatorName>
+			<givenName>Josef</givenName>
+			<familyName>Erlichman</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1386</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Quaide,W. L.</creatorName>
+			<givenName>W. L.</givenName>
+			<familyName>Quaide</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1387</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Electron microprobe analyses of minerals from Apollo 12 lunar samples</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Space/Planetary</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Moon</subject>
+		<subject subjectScheme="IEDA Topic">Cosmos</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="material">lunar rock</subject>
+		<subject subjectScheme="place">Apollo 12 Landing Site</subject>
+		<subject subjectScheme="place">Moon</subject>
+		<subject subjectScheme="platform">Apollo 12</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-12-02 22:00:49.790522</date>
+		<date dateType="Available">2016-12-10</date>
+		<date dateType="Created">2016-12-01T22:50:18.214234</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:991</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=991</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset contains quantitative electron microprobe analyses of pyroxenes, pyroxferroite, plagioclases, barian K-feldspar, olivines, silica, ilmenites, spinels, troilite, yttrian-cerian whit- lockite, cobaltian metallic nickel-iron, and K2O-SiO2-rich residual glasses are presented. Although pyroxferroite is not a pyroxene, it is listed in the pyroxene tables because it is difficult to draw a boundary between pyroxene and pyroxferroite on the basis of composition. K2O-SiO2-rich residual glasses are indigenous to the rocks studied and of igneous origin; they are not to be confused with impact-produced glasses which are listed in other publications (Bunch et al., 1971a,b). The great majority of analyses presented herein have not previously been published. However, they have been plotted in various diagrams; and selected analyses and averages have been presented, together with interpretations, in papers by Keil et al. (1971) and Busche et al. (in preparation) . Electron microprobe analyses were made at The University of New Mexico and at NASA Ames Research Center. </description>
+		<description descriptionType="Other">Related publications: Busche, F.D.; Conrad, G.H.; Keil, Klaus; Prinz, Martin; Erlichman, Josef; Quaide, W.L.,(1971),"Electron microprobe analyses of minerals from Apollo 12 lunar samples.", Dept. of Geology &amp; Institute of Meteoritics, University of Mexico, Special publication 3.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Moon, Apollo 12 Landing Site</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

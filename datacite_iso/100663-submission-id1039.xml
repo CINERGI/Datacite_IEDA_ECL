@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100663</identifier>
+	<creators>
+		<creator>
+			<creatorName>Burnham,Antony D.</creatorName>
+			<givenName>Antony D.</givenName>
+			<familyName>Burnham</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:antony.burnham@anu.edu.au</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1742</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Berry,Andrew J.</creatorName>
+			<givenName>Andrew J.</givenName>
+			<familyName>Berry</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1744</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Trace element compositions of zircon from the Lachlan Fold Belt, Australia</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Mineralogy</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">rare earth elements</subject>
+		<subject subjectScheme="material">granite</subject>
+		<subject subjectScheme="material">zircon</subject>
+		<subject subjectScheme="place">New South Wales</subject>
+		<subject subjectScheme="place">Victoria</subject>
+		<subject subjectScheme="place">Australia</subject>
+		<subject subjectScheme="place">Lachlan Fold Belt</subject>
+		<subject subjectScheme="topic detail">Ce anomaly</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-03-15 20:49:15.322508</date>
+		<date dateType="Available">2017-04-24</date>
+		<date dateType="Created">2017-03-15T20:49:15.322508</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1039</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1039</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/ngeo2942 </relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Compositions of zircon (27 trace elements) from the Lachlan Fold Belt, Australia, with data from I- and S-type granites. Data collected to develop provenance analysis tools and to compare the redox state of the two granite types.</description>
+		<description descriptionType="Other">Related publications: Burnham et al.,Formation of Hadean granites by melting of igneous crust. Nature Geoscience, 2017</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>New South Wales, Victoria, Lachlan Fold Belt, Australia</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>147.4952</westBoundLongitude>
+				<eastBoundLongitude>150.1619</eastBoundLongitude>
+				<southBoundLatitude>-37.23169</southBoundLatitude>
+				<northBoundLatitude>-33.7821</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

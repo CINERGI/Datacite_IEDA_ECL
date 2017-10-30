@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100561</identifier>
+	<creators>
+		<creator>
+			<creatorName>Lee,Hyunwoo</creatorName>
+			<givenName>Hyunwoo</givenName>
+			<familyName>Lee</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:lhw615@unm.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:862</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Muirhead,James D.</creatorName>
+			<givenName>James D.</givenName>
+			<familyName>Muirhead</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:913</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fischer,Tobias P.</creatorName>
+			<givenName>Tobias P.</givenName>
+			<familyName>Fischer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:fischer@unm.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7402051549</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:723</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Ebinger,Cynthia J.</creatorName>
+			<givenName>Cynthia J.</givenName>
+			<familyName>Ebinger</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:915</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kattenhorn,Simon A.</creatorName>
+			<givenName>Simon A.</givenName>
+			<familyName>Kattenhorn</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:916</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sharp,Zachary D.</creatorName>
+			<givenName>Zachary D.</givenName>
+			<familyName>Sharp</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7006696154</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:917</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kianji,Gladys</creatorName>
+			<givenName>Gladys</givenName>
+			<familyName>Kianji</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:918</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Massive and prolonged deep carbon emissions associated with continental rifting</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="parameter">soil emissions</subject>
+		<subject subjectScheme="parameter">Carbon dioxide Flux</subject>
+		<subject subjectScheme="place">TANZANIA</subject>
+		<subject subjectScheme="place">MAGADI-NATRON BASIN</subject>
+		<subject subjectScheme="place">OLDOINYO LENGAI</subject>
+		<subject subjectScheme="place">AFRICA</subject>
+		<subject subjectScheme="place">East African Rift</subject>
+		<subject subjectScheme="place">KENYA</subject>
+		<subject subjectScheme="subject">fault zones</subject>
+		<subject subjectScheme="topic detail">continental rifting</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-10-07 21:07:59.433834</date>
+		<date dateType="Available">2016-04-15</date>
+		<date dateType="Created">2015-10-07T21:07:59.433834</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:897</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=897</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">A summary of diffuse CO2 Flux measurements, C isotope analyses and gas from soil emission analyses taken in the East Africa Rift System (EARS) in June-July 2014. Measurements were made along fault zones, hanging walls and footwalls in Kenya and Tanzania.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>AFRICA, EAST AFRICA RIFT, KENYA, TANZANIA, MAGADI-NATRON BASIN, OLDOINYO LENGAI</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>35.8821388888889</westBoundLongitude>
+				<eastBoundLongitude>36.3644722222222</eastBoundLongitude>
+				<southBoundLatitude>-2.767</southBoundLatitude>
+				<northBoundLatitude>-1.71916666666667</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

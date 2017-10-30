@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100615</identifier>
+	<creators>
+		<creator>
+			<creatorName>Sinton,John M.</creatorName>
+			<givenName>John M.</givenName>
+			<familyName>Sinton</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:sinton@hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7006768231</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:325</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Eason,Deborah E.</creatorName>
+			<givenName>Deborah E.</givenName>
+			<familyName>Eason</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">15069226100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1208</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major and trace element analyses of volcanic rocks from Ka‘ena Ridge, Oahu, Hawaii</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Ocean Island/Plateau</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="place">Hawaiian Islands</subject>
+		<subject subjectScheme="place">Kaena Ridge</subject>
+		<subject subjectScheme="place">Kaena Volcano</subject>
+		<subject subjectScheme="place">Oahu</subject>
+		<subject subjectScheme="subject">ocean islands</subject>
+		<subject subjectScheme="subject">hot spot</subject>
+		<subject subjectScheme="topic detail">Submarine Volcanism</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-10-19 00:59:43.565387</date>
+		<date dateType="Available">2016-11-01</date>
+		<date dateType="Created">2016-10-19T00:59:43.565387</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:975</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=975</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1130/B30936.1</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/901708</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/901724</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/903685</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/902265</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major and trace element analyses of submarine volcanic rocks from Ka‘ena Ridge, O‘ahu, Hawai‘i. Dataset includes glass analyses by EMP and whole rock analyses by XRF and ICP-MS.</description>
+		<description descriptionType="Other">Related publications: John M. Sinton, Deborah E. Eason, Mary Tardona, Douglas Pyle, Iris van der Zander, Hervé Guillou, David A. Clague, and John J. Mahoney, (2014), "Ka‘ena Volcano -- A precursor volcano to the island of O‘ahu, Hawai‘i." Geol. Soc. of Am. Bulletin, 126(9-10): 1219-1244</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Hawaiian Islands, Oahu, Kaena Ridge, Kaena Volcano</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-159.0417</westBoundLongitude>
+				<eastBoundLongitude>-158.2677</eastBoundLongitude>
+				<southBoundLatitude>21.527</southBoundLatitude>
+				<northBoundLatitude>22.0852</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

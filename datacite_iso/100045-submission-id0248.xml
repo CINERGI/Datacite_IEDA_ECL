@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100045</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kimura,Jun-Ichi</creatorName>
+			<givenName>Jun-Ichi</givenName>
+			<familyName>Kimura</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jkimura@jamstec.go.jp</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55485022100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:43</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Arc Basalt Simulator (ABS) version 3</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Software">Software</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+		<subject subjectScheme="subject">petrology</subject>
+		<subject subjectScheme="topic detail">arc magma</subject>
+		<subject subjectScheme="topic detail">mass balance</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-02-15 13:54:50.163113</date>
+		<date dateType="Available">2012-02-15</date>
+		<date dateType="Created">2012-02-14T19:21:36.555592</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:248</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=248</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2010GC003050</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+		<format>.xlsm  Microsoft Excel Macro-Enabled Workbook</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Arc Basalt Simulator (ABS) is a petrologic and geochemical simulation program for basalt to high-Mg andesite genesis in and above a subduction zone. ABS consists of three different calculation modules: (a) slab dehydration and melting along an appropriate subduction zone P-T path, (b) reaction of mantle peridotite with slab-derived melt or hydrous fluid migrating through the mantle wedge, and (c) melting of mantle wedge peridotite due to fluxing by this liquid.  ABS is intended to be easy to use, requiring only a PC or Mac that can run Microsoft Excel. The download includes two files, the macro-enabled spreadsheet (.xlsm) and the tutorial (.pdf).</description>
+		<description descriptionType="Other">Related publications: [1] Kimura J.-I., van Keken P., Hacker, B.R., Kawabata H., Yoshida, T., and Stern R.J. (2009) Arc Basalt Simulator (ABS) version 2, a simulation model for slab dehydration, fluid-mantle reaction, and fluid fluxed mantle melting for arc basalts: modeling scheme and application. Geochemistry Geophysics Geosystems (G3), 7, doi:10.1029/2008GC002217.;&#x0d;
+&#x0d;
+[2] Kimura J.-I., Adam, J.R.K., Rowe, M., Nakano, N., Katakuse M., van Keken P., Hacker B., and Stern R.J. (2010) Origin of cross-chain geochemical variation in Quaternary lavas from northern Izu arc: A quantitative mass balance approach on source identification and mantle wedge processes. Geochemistry Geophysics Geosystems (G3), doi:10.1029/2010GC003050.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

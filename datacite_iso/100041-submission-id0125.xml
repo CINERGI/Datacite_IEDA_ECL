@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100041</identifier>
+	<creators>
+		<creator>
+			<creatorName>Standish,Jared J.</creatorName>
+			<givenName>Jared J.</givenName>
+			<familyName>Standish</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:standish@fas.harvard.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">9233408100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:23</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>U-series geochronology at SWIR</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2011</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="place">Southwest Indian Ridge</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">petrology</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+		<subject subjectScheme="subject">tectonics and geodynamics</subject>
+		<subject subjectScheme="subject">Volcanology</subject>
+		<subject subjectScheme="subject">Structural geology</subject>
+		<subject subjectScheme="subject">mineralogy</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2011-02-18 15:55:07.745606</date>
+		<date dateType="Available">2011-02-19</date>
+		<date dateType="Created">2011-02-18T15:55:07.745606</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:125</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=125</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/ngeo824</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900153</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900155</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/904564</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">U-series eruption ages of volcanic rocks collected from the ultraslow-spreading Southwest Indian Ridge</description>
+		<description descriptionType="Other">Related publications: Standish, J. J. and K. W. W. Sims (2010). "Young off-axis volcanism along the ultraslow-spreading Southwest Indian Ridge." Nature Geosci 3(4): 286-292.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Southwest Indian Ridge</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>11.39</westBoundLongitude>
+				<eastBoundLongitude>23.12</eastBoundLongitude>
+				<southBoundLatitude>-53.17</southBoundLatitude>
+				<northBoundLatitude>-52.1</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100634</identifier>
+	<creators>
+		<creator>
+			<creatorName>MacDonald,James H.</creatorName>
+			<givenName>James H.</givenName>
+			<familyName>MacDonald</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jmacdona@fgcu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1095</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Epidote from Shuksan blueschist, Kachess Lake inlier, central Cascades, Washington, USA</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Mineralogy</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Blueschist</subject>
+		<subject subjectScheme="material">Epidote</subject>
+		<subject subjectScheme="place">Shuksan</subject>
+		<subject subjectScheme="place">Cascade Mountains</subject>
+		<subject subjectScheme="place">Kachess Lake</subject>
+		<subject subjectScheme="place">Washington</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-12-13 14:09:40.882435</date>
+		<date dateType="Available">2016-12-23</date>
+		<date dateType="Created">2016-12-13T14:09:40.882435</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1002</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1002</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1130/abs/2016AM-277240</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">In this data set is epidote that was part of Maruszczak et al. (2016) Geological Society of America Abstract. This data was generated at the Florida Center for Analytical Electron Microscopy, and was funded by NSF grant DUE 1323354.</description>
+		<description descriptionType="Other">Related publications: Maruszczak, A. D., Thompson, G. T., Zalud, K. M., Stingu, S. C., Fernandez, C. R., Jaeger, B. C., Reed, G. J., and MacDonald, J. H., Jr., 2016, Mineralogy and metamorphism of Shuksan blueschist, Easton Metamorphic Suite, Kachess Lake inlier, central Cascades, Washington: Geological Society of America, Abstracts with Programs, v. 48, no. 7.          </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Washington, Cascades, Kachess Lake</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-121.18199</pointLongitude>
+				<pointLatitude>47.33479</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

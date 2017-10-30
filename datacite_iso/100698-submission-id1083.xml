@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100698</identifier>
+	<creators>
+		<creator>
+			<creatorName>Bodnar,Robert J.</creatorName>
+			<givenName>Robert J.</givenName>
+			<familyName>Bodnar</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:rjb@vt.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2073</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Lamadrid,Hector</creatorName>
+			<givenName>Hector</givenName>
+			<familyName>Lamadrid</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2095</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Schwarzenbach,Esther M.</creatorName>
+			<givenName>Esther M.</givenName>
+			<familyName>Schwarzenbach</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2096</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rimstidt,J. Donald</creatorName>
+			<givenName>J. Donald</givenName>
+			<familyName>Rimstidt</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2097</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Klein,Frieder</creatorName>
+			<givenName>Frieder</givenName>
+			<familyName>Klein</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2098</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Dolocan,Andrei</creatorName>
+			<givenName>Andrei</givenName>
+			<familyName>Dolocan</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2099</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Experimental results for rates of serpentinization of olivine determined using the synthetic fluid inclusion technique</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Kinetics</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">hydrogen</subject>
+		<subject subjectScheme="instrument">FIB-SEM</subject>
+		<subject subjectScheme="instrument">TOF-SIMS</subject>
+		<subject subjectScheme="material">Olivine</subject>
+		<subject subjectScheme="material">brucite</subject>
+		<subject subjectScheme="material">chrysotile</subject>
+		<subject subjectScheme="material">lizardite</subject>
+		<subject subjectScheme="material">seawater</subject>
+		<subject subjectScheme="method">Raman spectroscopy</subject>
+		<subject subjectScheme="parameter">reaction rate</subject>
+		<subject subjectScheme="subject">synthetic fluid inclusions</subject>
+		<subject subjectScheme="topic detail">serpentinization</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-25 07:19:10.350585</date>
+		<date dateType="Available">2017-07-01</date>
+		<date dateType="Created">2017-06-25T07:18:08.670057</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1083</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1083</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.docx  Microsoft Word Document XML</format>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The tables included in the dataset include (1) composition of the olivine host phase determined by electron microprobe analysis. (2) Time of flight Secondary Ion Mass Spectrometric (TOF-SIMS) data and compositions of reaction products of synthetic fluid inclusions after formation of serpentine phases, (3) Reaction rates, H2O fluxes and activities, and error analysis for individual synthetic fluid inclusions with compositions in the H2O-NaCl-MgCl2 system and various starting salinities; (4) Synthetic fluid inclusion microthermometric data, including the ice-melting temperature TM in degrees Celsius, salinity in weight percent calculated from the ice-melting temperature, and amount of water transferred from the solution to hydrous phases calculated based on the change in salinity; (5) Equations and data used to estimate the extent of reaction of each synthetic fluid inclusion analyzed.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Lamadrid HM, Schwartzenbach E, Dolocan A, Rimstidt JD &amp; Bodnar RJ (2017) Effect of water activity on rates of serpentinization of olivine. Nature Communications, 8, 16107 (in press) </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

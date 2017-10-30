@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100660</identifier>
+	<creators>
+		<creator>
+			<creatorName>Straub,Susanne M.</creatorName>
+			<givenName>Susanne M.</givenName>
+			<familyName>Straub</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:smstraub@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005794918</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1573</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Woodhead,Jonathan D.</creatorName>
+			<givenName>Jonathan D.</givenName>
+			<familyName>Woodhead</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-7614-0136</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7103302126</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1692</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Arculus,Richard J.</creatorName>
+			<givenName>Richard J.</givenName>
+			<familyName>Arculus</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-3432-392X</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003672371</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:292</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major and trace elements and Sr-Nd-Pb-Hf of 0-43 Ma fallout tephra from the Mariana Island Arc</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Island Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="isotopes">Sr-Nd-Pb-Hf isotopes</subject>
+		<subject subjectScheme="place">Mariana Arc</subject>
+		<subject subjectScheme="place">Mariana arc</subject>
+		<subject subjectScheme="topic detail">Cenozoic evolution</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-02-21 11:47:31.863093</date>
+		<date dateType="Available">2017-03-01</date>
+		<date dateType="Created">2017-02-21T11:46:35.446961</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1032</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1032</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1093/petrology/egv005</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major and trace elements and Sr-Nd-Pb-Hf of 0-43 MA fallout tephra from the Mariana Island Arc are presented here. The main goal is to understand the geochemical evolution of the Mariana Arc from the Eocene to present.</description>
+		<description descriptionType="Other">Related publications: Straub, S.M., Woodhead, J.D., Arculus, R.J., 2015b. Temporal evolution of the Mariana Arc: mantle wedge and subducted slab controls revealed with a tephra perspective. J Petrol, 56 (2): 409-439.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mariana Island Arc</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>134.8745</westBoundLongitude>
+				<eastBoundLongitude>147.1309</eastBoundLongitude>
+				<southBoundLatitude>15.606</southBoundLatitude>
+				<northBoundLatitude>18.03</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

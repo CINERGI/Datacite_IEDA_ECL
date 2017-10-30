@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100493</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hagedorn,Birgit</creatorName>
+			<givenName>Birgit</givenName>
+			<familyName>Hagedorn</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bhagedorn@uaa.alaska.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:550</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sletten,Ronald S.</creatorName>
+			<givenName>Ronald S.</givenName>
+			<familyName>Sletten</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:551</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Christner,Brent</creatorName>
+			<givenName>Brent</givenName>
+			<familyName>Christner</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:552</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Choquette,Kyla</creatorName>
+			<givenName>Kyla</givenName>
+			<familyName>Choquette</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:546</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Cameron,Karen</creatorName>
+			<givenName>Karen</givenName>
+			<familyName>Cameron</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:556</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Dieser,Markus</creatorName>
+			<givenName>Markus</givenName>
+			<familyName>Dieser</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:555</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Junge,Karen</creatorName>
+			<givenName>Karen</givenName>
+			<familyName>Junge</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:553</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemical analyses of meltwater from Pituffik, NW Greenland </title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Arctic</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Glaciers/Ice Sheet</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">stable isotope</subject>
+		<subject subjectScheme="place">NW Greenland Ice Sheet</subject>
+		<subject subjectScheme="place">Pituffik</subject>
+		<subject subjectScheme="subject">meltwater biogeochemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-11-10 14:55:57.561631</date>
+		<date dateType="Available">2014-11-15</date>
+		<date dateType="Created">2014-11-10T14:55:57.561631</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:806</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=806</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Meltwater from two rivers of Pituffik NW Greenland Ice sheet was analyzed for major and trace elements and stable isotopes. The data were collected together with microbiological data to determine weathering fluxes and microorganisms that may contribute to weathering in this northern glacial environment.</description>
+		<description descriptionType="Other">Related publications: Cameron, K.A., Hagedorn, B., Dieser, M., Christner, B.C., Choquette, K., Sletten, R., Crump, B., Kellogg, C. and Junge, K. (2014) Diversity and potential sources of microbiota associated with snow on western portions of the Greenland Ice Sheet. Environmental Microbiology, n/a-n/a.&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>NW Greenland Ice Sheet, Pituffik</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-68.3064</westBoundLongitude>
+				<eastBoundLongitude>-67.85372</eastBoundLongitude>
+				<southBoundLatitude>76.409</southBoundLatitude>
+				<northBoundLatitude>76.53328</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

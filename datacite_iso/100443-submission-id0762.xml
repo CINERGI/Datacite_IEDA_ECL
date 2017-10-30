@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100443</identifier>
+	<creators>
+		<creator>
+			<creatorName>Perfit,Michael R.</creatorName>
+			<givenName>Michael R.</givenName>
+			<familyName>Perfit</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mperfit@ufl.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-1399-8928</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003472978</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:25</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Glasses from Atlantis Cruises AT11-7 and AT03-10&#x0d;
+		</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">AT11-07</subject>
+		<subject subjectScheme="cruise">AT03-10</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">Atlantis</subject>
+		<subject subjectScheme="place">East Pacific Rise</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="platform">RV Atlantis</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+		<subject subjectScheme="subject">mid-ocean ridge</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-05-07 14:18:39.670442</date>
+		<date dateType="Available">2014-05-15</date>
+		<date dateType="Created">2014-05-07T14:18:39.670442</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:762</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=762</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.5670/oceanog.2012.06</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906689</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Glasses recovered from Atlantis Cruises AT11-7 (camera tow) and AT03-10 (dredges)</description>
+		<description descriptionType="Other">Related publications: Perfit, M.R., Wanless, V.D., Ridley, W.I., Klein, E., Smith, M.C., Goss, A.R., Hinds, J.S., Kutza, S., and Fornari, D.J. (2012) Lava Geochemistry as a Probe into Crustal Formation at the East Pacific Rise. Oceanography, 25-1, 89-93.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Pacific Rise, Pacific Ocean, Atlantis, AT11-07, AT03-10</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-104.3171776</westBoundLongitude>
+				<eastBoundLongitude>-104.2104598</eastBoundLongitude>
+				<southBoundLatitude>9.449702</southBoundLatitude>
+				<northBoundLatitude>9.8924847</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

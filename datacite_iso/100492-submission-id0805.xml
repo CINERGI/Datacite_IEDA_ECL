@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100492</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hagedorn,Birgit</creatorName>
+			<givenName>Birgit</givenName>
+			<familyName>Hagedorn</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bhagedorn@uaa.alaska.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:550</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sletten,Ronald S.</creatorName>
+			<givenName>Ronald S.</givenName>
+			<familyName>Sletten</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:551</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Christner,Brent</creatorName>
+			<givenName>Brent</givenName>
+			<familyName>Christner</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:552</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Junge,Karen</creatorName>
+			<givenName>Karen</givenName>
+			<familyName>Junge</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:553</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Choquette,Kyla</creatorName>
+			<givenName>Kyla</givenName>
+			<familyName>Choquette</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:546</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Dieser,Markus</creatorName>
+			<givenName>Markus</givenName>
+			<familyName>Dieser</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:555</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Cameron,Karen</creatorName>
+			<givenName>Karen</givenName>
+			<familyName>Cameron</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:556</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemical data of meltwater from the Akuliarusiarsuuo Kuua SW Greenland</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Arctic</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Glaciers/Ice Sheet</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">Meltwater composition</subject>
+		<subject subjectScheme="environment">subglacial</subject>
+		<subject subjectScheme="environment">supraglacial</subject>
+		<subject subjectScheme="place">West Greenland Ice Sheet</subject>
+		<subject subjectScheme="topic detail">weathering</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-11-07 13:17:35.945261</date>
+		<date dateType="Available">2014-11-15</date>
+		<date dateType="Created">2014-11-07T13:17:35.945261</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:805</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=805</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0020</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0021</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0022</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0023</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0025</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0026</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0027</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0028</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0029</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0030</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0031</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0033</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0034</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0035</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0036</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0037</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0039</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0041</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0042</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0043</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0044</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0045</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0047</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0048</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0049</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0050</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0051</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0052</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0053</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0055</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0056</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0057</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0058</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA005A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA001Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0024</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA002W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0032</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0038</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA003U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0040</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0046</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA004Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0054</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEBHA0059</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Chemical Composition of supraglacial and subglacial meltwater was collected along the Akuliarusiarsuuo Kuua in west Greenland, Kangerlussuaq from May to September 2012. Major and trace elements were measured to identify weathering reactions and total solute composition.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>West Greenland Ice Sheet</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-50.68857</westBoundLongitude>
+				<eastBoundLongitude>-48.12486</eastBoundLongitude>
+				<southBoundLatitude>67.00948</southBoundLatitude>
+				<northBoundLatitude>67.23456</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

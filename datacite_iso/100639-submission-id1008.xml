@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100639</identifier>
+	<creators>
+		<creator>
+			<creatorName>Chorover,Jon</creatorName>
+			<givenName>Jon</givenName>
+			<familyName>Chorover</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:chorover@email.arizona.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1435</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Perdrial,Julia</creatorName>
+			<givenName>Julia</givenName>
+			<familyName>Perdrial</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1437</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McIntosh,Jennifer</creatorName>
+			<givenName>Jennifer</givenName>
+			<familyName>McIntosh</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1438</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Troch,Peter</creatorName>
+			<givenName>Peter</givenName>
+			<familyName>Troch</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1439</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Amistadi,Mary Kay</creatorName>
+			<givenName>Mary Kay</givenName>
+			<familyName>Amistadi</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1440</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Losleben,Mark</creatorName>
+			<givenName>Mark</givenName>
+			<familyName>Losleben</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1441</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Condon,Katherine</creatorName>
+			<givenName>Katherine</givenName>
+			<familyName>Condon</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1442</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pedron,Shawn Alexander</creatorName>
+			<givenName>Shawn Alexander</givenName>
+			<familyName>Pedron</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1443</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Jemez River Basin Soil Solution Chemistry 2011 (New Mexico, USA)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Soil</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">Aluminum</subject>
+		<subject subjectScheme="constituent">NO3</subject>
+		<subject subjectScheme="constituent">Phosphorus</subject>
+		<subject subjectScheme="constituent">potassium</subject>
+		<subject subjectScheme="constituent">Praseodymium</subject>
+		<subject subjectScheme="constituent">Samarium</subject>
+		<subject subjectScheme="constituent">Selenium</subject>
+		<subject subjectScheme="constituent">Silicon</subject>
+		<subject subjectScheme="constituent">Silver</subject>
+		<subject subjectScheme="constituent">Sodium</subject>
+		<subject subjectScheme="constituent">Strontium</subject>
+		<subject subjectScheme="constituent">sulfate</subject>
+		<subject subjectScheme="constituent">Terbium</subject>
+		<subject subjectScheme="constituent">Thallium</subject>
+		<subject subjectScheme="constituent">Thulium</subject>
+		<subject subjectScheme="constituent">Tin</subject>
+		<subject subjectScheme="constituent">Titanium</subject>
+		<subject subjectScheme="constituent">uranium</subject>
+		<subject subjectScheme="constituent">Vanadium</subject>
+		<subject subjectScheme="constituent">Ytterbium</subject>
+		<subject subjectScheme="constituent">Yttrium</subject>
+		<subject subjectScheme="constituent">Zinc</subject>
+		<subject subjectScheme="constituent">Antimony</subject>
+		<subject subjectScheme="constituent">arsenic</subject>
+		<subject subjectScheme="constituent">Barium</subject>
+		<subject subjectScheme="constituent">Beryllium</subject>
+		<subject subjectScheme="constituent">Boron</subject>
+		<subject subjectScheme="constituent">Bromide</subject>
+		<subject subjectScheme="constituent">Cadmium</subject>
+		<subject subjectScheme="constituent">Calcium</subject>
+		<subject subjectScheme="constituent">carbon</subject>
+		<subject subjectScheme="constituent">Cations</subject>
+		<subject subjectScheme="constituent">Cerium</subject>
+		<subject subjectScheme="constituent">Chloride</subject>
+		<subject subjectScheme="constituent">Chromium</subject>
+		<subject subjectScheme="constituent">Cobalt</subject>
+		<subject subjectScheme="constituent">Copper</subject>
+		<subject subjectScheme="constituent">Dysprosium</subject>
+		<subject subjectScheme="constituent">Erbium</subject>
+		<subject subjectScheme="constituent">Europium</subject>
+		<subject subjectScheme="constituent">Fluoride</subject>
+		<subject subjectScheme="constituent">Gadolinium</subject>
+		<subject subjectScheme="constituent">Holmium</subject>
+		<subject subjectScheme="constituent">iron</subject>
+		<subject subjectScheme="constituent">Lanthanum</subject>
+		<subject subjectScheme="constituent">Lead</subject>
+		<subject subjectScheme="constituent">Lutetium</subject>
+		<subject subjectScheme="constituent">Magnesium</subject>
+		<subject subjectScheme="constituent">Manganese</subject>
+		<subject subjectScheme="constituent">Molbydenum</subject>
+		<subject subjectScheme="constituent">Neodymium</subject>
+		<subject subjectScheme="constituent">NH4</subject>
+		<subject subjectScheme="constituent">Nickel</subject>
+		<subject subjectScheme="constituent">Nitrate</subject>
+		<subject subjectScheme="constituent">Nitrite</subject>
+		<subject subjectScheme="constituent">nitrogen</subject>
+		<subject subjectScheme="constituent">NO2</subject>
+		<subject subjectScheme="isotopes">delta D</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="isotopes">delta 13C</subject>
+		<subject subjectScheme="isotopes">delta 18O</subject>
+		<subject subjectScheme="material">Metals</subject>
+		<subject subjectScheme="material">Orthophosphate</subject>
+		<subject subjectScheme="material">pore water</subject>
+		<subject subjectScheme="material">Soil Water</subject>
+		<subject subjectScheme="method">Soil solution</subject>
+		<subject subjectScheme="parameter">pH</subject>
+		<subject subjectScheme="parameter">Fluorescence index</subject>
+		<subject subjectScheme="parameter">UV Absorbance</subject>
+		<subject subjectScheme="parameter">UVA</subject>
+		<subject subjectScheme="parameter">Humification index</subject>
+		<subject subjectScheme="parameter">Electrical conductivity</subject>
+		<subject subjectScheme="parameter">Specific UV Absorbance</subject>
+		<subject subjectScheme="place">New Mexico</subject>
+		<subject subjectScheme="place">Jemez River Basin</subject>
+		<subject subjectScheme="place">Valles Caldera</subject>
+		<subject subjectScheme="subject">water chemistry</subject>
+		<subject subjectScheme="topic detail">Anions</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-01-30 13:09:43.244565</date>
+		<date dateType="Available">2017-02-01</date>
+		<date dateType="Created">2017-01-30T13:09:43.244565</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1008</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1008</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.2136/sssaj2012.0061</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Soil solution chemistry data from the Mixed Conifer Zero Order Basin (ZOB) site, Jemez River Basin Critical Zone Observatory (CZO). Soil solution samples in the Jemez River Basin field sites are collected with two types of soil solution samples: i) Prenart Super Quartz suction cups (www.prenart.dk). Prenart suction cups are optimized for all chemistry analyses and were installed without addition of Si-slurry to allow for artifact-free Si analyses. Applied suction for each Prenart is ~ 60kPa. ii) Custom made, fiberglass wick-based passive capillary wick samplers (PCaps, Perdrial et al. 2012). PCaps are optimized for water flux determination and sampling for organic carbon, most anions and metals. PCap samples should however not be used for major cations (Na, Mg, Si, K, Ca) and dissolved inorganic carbon because of artifacts from the fiberglass materials (see Perdrial et al (2014) for a complete list). Passive suction, based on the length of the hanging water column, is ~3 kPa. Soil solution samplers were installed in each of six pits in the Mixed Conifer Zero Order Basin (MC-ZOB) at 3 (PCaps) and 4 (Prenarts) depths. Pit locations were selected to capture differences in catchment aspect (SE facing: Pit 3 and 4, NW facing: Pit 1 and 6), landscape position (hollow Pit 2 and 5, planar Pit 1 and 6, divergent Pit 3, convergent Pit 4). All samplers are collocated with Decagon soil moisture and temperature probes.</description>
+		<description descriptionType="Other">Related publications: Perdrial, J.N., Perdrial, N., Harpold, A., Gao, X., LaSharr, K.M., Chorover, J. (2012) Impacts of sampling dissolved organic matter with passive capillary wicks versus aqueous soil extraction. Soil Science Society of America Journal, 76: 2019-2030, doi: 10.2136/sssaj2012.0061.&#x0d;
+&#x0d;
+Vazquez-Ortega, A., Perdrial, J., Harpold, A., Zapata-Rios, X., Rasmussen, C.,  McIntosh, J., Schaap, M., Pelletier, J. D., Brooks, P. D., Amistadi, M. K., and  Chorover, J. (2015) Rare earth elements as reactive tracers of biogeochemical weathering in forested rhyolitic terrain. Chemical Geology, 391: 19-32,  doi: 10.1016/j.chemgeo.2014.10.016.&#x0d;
+&#x0d;
+Perdrial, J. N., Perdrial, N., Vazquez-Ortega, A., Porter, C., Leedy, J., and Chorover, J. (2014) Experimental Assessment of Passive Capillary Wick Sampler Suitability for Inorganic Soil Solution Constituents. Soil Science Society of America Journal,  78(2): 486-495, doi: 10.2136/sssaj2013.07.0279.&#x0d;
+&#x0d;
+Vazquez-Ortega, A., Huckle, D., Perdrial, J., Amistadi, M. K., Durcik, M., Rasmussen, C., McIntosh, J., Chorover, J. (2016) Solid-phase redistribution of rare earth elements in hillslope pedons subjected to different hydrologic fluxes. Chemical Geology, 426: 1-18, doi: 10.1016/j.chemgeo.2016.01.001.&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Valles Caldera, Jemez River Basin, New Mexico</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-106.53741</westBoundLongitude>
+				<eastBoundLongitude>-106.53406</eastBoundLongitude>
+				<southBoundLatitude>35.881288</southBoundLatitude>
+				<northBoundLatitude>35.883173</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100708</identifier>
+	<creators>
+		<creator>
+			<creatorName>Van Plantinga,Alexander</creatorName>
+			<givenName>Alexander</givenName>
+			<familyName>Van Plantinga</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:acvanp@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2135</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Grossman,Ethan  L</creatorName>
+			<givenName>Ethan  L</givenName>
+			<familyName>Grossman</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:acvanp@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2136</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Multi-proxy analyses of mussels from the Brazos River (Texas, USA)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Sediment</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Topic">Terrestrial Hydrosphere</subject>
+		<subject subjectScheme="constituent">Carbonate</subject>
+		<subject subjectScheme="isotopes">clumped isotope</subject>
+		<subject subjectScheme="isotopes">stable isotope</subject>
+		<subject subjectScheme="living thing">mussel</subject>
+		<subject subjectScheme="place">Brazos River</subject>
+		<subject subjectScheme="place">Texas</subject>
+		<subject subjectScheme="place">United States</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-07-13 15:48:03.841531</date>
+		<date dateType="Available">2017-07-15</date>
+		<date dateType="Created">2017-07-13T15:48:03.841531</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1090</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1090</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Oxygen isotope sclerochronology with mollusk shells is complicated in subtropical regulated rivers by irregular shell δ18O patterns. We performed multi-proxy analyses (δ18O, δ13C, clumped isotopes) from serially-sampled freshwater mussels in two species (Amblema plicata and Cyrtonaias tampicoensis), two specimens each, from the Brazos River, Texas to age specimens and test whether they accurately record environmental conditions such as river discharge and water source. Oxygen isotopic measurements are similar to predicted aragonite δ18O values based on temperature and water 18O, but the record is complex and irregular. To better resolve the chronologies, we performed clumped isotope analyses on select shell intervals. Clumped isotope temperatures (T(Δ47)) ranged from 19° to 36°C. Summer T(Δ47) values were 3-5°C higher than measured temperatures, suggesting an offset in paleothermometer calibration. Chronologies based on Δ47 and δ18O reveal specimen ages of 3-4 years and winter growth cessation or dramatic slowing in both C. tampicoensis and A. plicata, highlighting thermal limitations on growth and potential biases in environmental reconstructions. Carbon isotope trends were similar between conspecific shells, but differed between species, with mean 13C of -9‰ for A. plicata and -12‰ for C. tampicoensis. These findings argue for more direct environmental control on the A. plicata shell 13C chronology, which correlates with upstream dam releases.  Furthermore, a relationship between river discharge and water δ18O can be used to reconstruct the timing of high discharge based on shell δ18O. </description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Brazos River, Texas, USA</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-96.509746</pointLongitude>
+				<pointLatitude>30.62717</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

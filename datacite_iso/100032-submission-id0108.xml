@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100032</identifier>
+	<creators>
+		<creator>
+			<creatorName>Dick,Henry J.B.</creatorName>
+			<givenName>Henry J.B.</givenName>
+			<familyName>Dick</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hdick@whoi.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0225-1439</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7103029414</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57072840100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:21</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Petrological Description of samples from the Kane Fracture Zone, cruise KN180-2 </title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2011</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Petrography</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">KN180-02</subject>
+		<subject subjectScheme="Feature Instance">Kane Fracture Zone</subject>
+		<subject subjectScheme="material">abyssal peridotites</subject>
+		<subject subjectScheme="place">Atlantic Ocean</subject>
+		<subject subjectScheme="place">Kane Fracture Zone</subject>
+		<subject subjectScheme="platform">RV Knorr</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2011-02-18 11:14:41.814467</date>
+		<date dateType="Available">2011-02-18</date>
+		<date dateType="Created">2011-02-18T11:14:41.814467</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:108</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=108</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1093/petrology/egp088</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900221</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Mineral, modal, and petrographic data for samples collected during the KN180-2 cruise from the Kane Fracture Zone, including images of every sample.</description>
+		<description descriptionType="Other">Related publications: Dick, H.J.B. et al., (2010), Mantle melting, melt transport, and delivery beneath a slow-spreading ridge: the Paleo-MAR from 23 deg 15 min N to 23 deg 45 min N, J. Petrology, 51(1-2): 425-467.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Kane Fracture Zone, Atlantic Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-45.417</westBoundLongitude>
+				<eastBoundLongitude>-45.258</eastBoundLongitude>
+				<southBoundLatitude>23.312</southBoundLatitude>
+				<northBoundLatitude>23.519</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

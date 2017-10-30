@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100507</identifier>
+	<creators>
+		<creator>
+			<creatorName>Naboko,S. I.</creatorName>
+			<givenName>S. I.</givenName>
+			<familyName>Naboko</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:589</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Gases and temperatures of fumaroles of Tuyla (Klyuchevskoy, Russia) in 1938</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="material">Volcanic emissions</subject>
+		<subject subjectScheme="place">Tuyla crater</subject>
+		<subject subjectScheme="place">Klyuchevskoy Volcano</subject>
+		<subject subjectScheme="place">Russia</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Klyuchev</subject>
+		<subject subjectScheme="place">Klyuchevskaya</subject>
+		<subject subjectScheme="subject">volcano</subject>
+		<subject subjectScheme="subject">Gas chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-12-01 14:22:59.026058</date>
+		<date dateType="Available">2014-12-15</date>
+		<date dateType="Created">2014-12-01T14:22:59.026058</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:822</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=822</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This is a summary of fumarole gas analyses from Tuyla crater from 1937 and 1938. Gases were collected by S.I. Naboko and I.Z. Ivanov of the USSR Science Academy, and analyzed by S.I Naboko at the Kamchatka Volcanology Station. Table 2 gases are detects only with no associated values, only orders of magnitude determined from sulphuric acid acid reaction rates.</description>
+		<description descriptionType="Other">Related publications: USSR Science Academy (1938). Gases and temperatures of fumaroles of Tuyla in 1938, Kamchatka Volcanology Station Bulletin, 7: 24-27.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, Kamchatka, Klyuchev, Klyuchevskaya, Klyuchevskoy Volcano, Tuyla Crater</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>160.639006</westBoundLongitude>
+				<eastBoundLongitude>161.359794</eastBoundLongitude>
+				<southBoundLatitude>56.057094</southBoundLatitude>
+				<northBoundLatitude>56.653619</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

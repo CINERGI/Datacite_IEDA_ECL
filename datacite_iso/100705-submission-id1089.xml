@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100705</identifier>
+	<creators>
+		<creator>
+			<creatorName>Falk,Elisabeth S.</creatorName>
+			<givenName>Elisabeth S.</givenName>
+			<familyName>Falk</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:esfalk@nscu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2118</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Guo,Weifu</creatorName>
+			<givenName>Weifu</givenName>
+			<familyName>Guo</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2130</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Paukert,Amelia N.</creatorName>
+			<givenName>Amelia N.</givenName>
+			<familyName>Paukert</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2131</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Matter,Juerg M.</creatorName>
+			<givenName>Juerg M.</givenName>
+			<familyName>Matter</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2132</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mervine,Evelyn  M.</creatorName>
+			<givenName>Evelyn  M.</givenName>
+			<familyName>Mervine</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2133</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kelemen,Peter B.</creatorName>
+			<givenName>Peter B.</givenName>
+			<familyName>Kelemen</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2134</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Clumped isotope composition of travertine from hyperalkaline springs in Oman</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">clumped isotope</subject>
+		<subject subjectScheme="material">travertine</subject>
+		<subject subjectScheme="place">Samail ophiolite</subject>
+		<subject subjectScheme="place">Sultanate of Oman</subject>
+		<subject subjectScheme="subject">hyperalkaline spring</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-07-06 16:50:56.91822</date>
+		<date dateType="Available">2017-07-15</date>
+		<date dateType="Created">2017-07-06T16:50:56.91822</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1089</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1089</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.gca.2016.06.026</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Carbonate formation at hyperalkaline springs is typical of serpentinization in peridotite massifs worldwide. These travertines have long been known to exhibit large variations in their carbon and oxygen isotope compositions, extending from apparent equilibrium values to highly depleted values. However, the exact causes of these variations are not well constrained. We analyzed a suite of well-characterized fresh carbonate precipitates and travertines associated with hyperalkaline springs in the peridotite section of the Samail ophiolite, Sultanate of Oman, and found their clumped isotope compositions vary systematically with formation environments. Based on these findings, we identified four main processes controlling the stable isotope compositions of these carbonates. These include hydroxylation of CO2, partial isotope equilibration of dissolved inorganic carbon, mixing between isotopically distinct carbonate end-members, and post-depositional recrystallization. Most notably, in fresh crystalline films on the surface of hyperalkaline springs and in some fresh carbonate precipitates from the bottom of hyperalkaline pools, we observed large enrichments in Δ47 (up to ~0.2‰ above expected equilibrium values) which accompany depletions in δ18O and δ13C, yielding about 0.01‰ increase in Δ47 and 1.1‰ decrease in δ13C for every 1‰ decrease in δ18O, relative to expected equilibrium values. This disequilibrium trend, also reflected in preserved travertines ranging in age from modern to ~40,000 years old, is interpreted to arise mainly from the isotope effects associated with the hydrox- ylation of CO2 in high-pH fluids and agrees with our first-order theoretical estimation. In addition, in some fresh carbonate precipitates from the bottom of hyperalkaline pools and in subsamples of one preserved travertine terrace, we observed additional enrichments in D47 at intermediate δ13C and d18O, consistent with mixing between isotopically distinct carbonate end- members. Our results suggest that carbonate clumped isotope analysis can be a valuable tool for identifying and distinguishing processes not readily apparent from the carbonate bulk stable isotope compositions alone, e.g., kinetic effects or mixing of different carbonate end-members, which can significantly alter both the apparent formation temperatures and apparent radiocarbon ages. The isotope trends observed in these travertine samples could be applied more broadly to identify extinct hyperalkaline springs in terrestrial and extraterrestrial environments, to better constrain the formation conditions and post-depositional alteration of hyperalkaline spring carbonates, and to extract potential paleoclimate information.</description>
+		<description descriptionType="Other">Related publications: Falk, Elisabeth S., Guo, Weifu, Paukert, Amelia N., Matter, Juerg M., Mervine, Evelyn M., Kelemen, Peter B. (2016) "Controls on the stable isotope compositions of travertine from hyperalkaline springs in Oman: Insights from clumped isotope measurements", Geochimica et Cosmochimica Acta, 192, 1-28</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Samail ophiolite, Sultanate of Oman</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100482</identifier>
+	<creators>
+		<creator>
+			<creatorName>Akita,Lailah Gifty</creatorName>
+			<givenName>Lailah Gifty</givenName>
+			<familyName>Akita</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:lailah.lailah@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:512</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Frenzel,Peter</creatorName>
+			<givenName>Peter</givenName>
+			<familyName>Frenzel</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:521</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Wang,Jumbo</creatorName>
+			<givenName>Jumbo</givenName>
+			<familyName>Wang</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:522</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Börner,Nicole</creatorName>
+			<givenName>Nicole</givenName>
+			<familyName>Börner</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:523</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Peng,Ping</creatorName>
+			<givenName>Ping</givenName>
+			<familyName>Peng</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:524</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Bio-environmental data on Tangra Yumco lake system, southern Tibetan Plateau, Central Asia</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="data type">environmental data</subject>
+		<subject subjectScheme="environment">high altitude</subject>
+		<subject subjectScheme="living thing">microcrustaceans</subject>
+		<subject subjectScheme="place">Tibetan Plateau</subject>
+		<subject subjectScheme="place">China</subject>
+		<subject subjectScheme="place">Central Asia</subject>
+		<subject subjectScheme="place">Gangdise mountains</subject>
+		<subject subjectScheme="subject">saline lakes</subject>
+		<subject subjectScheme="topic detail">aquatic ecology</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-09-15 13:40:26.219029</date>
+		<date dateType="Available">2015-03-15</date>
+		<date dateType="Created">2014-09-15T13:40:26.219029</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:795</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=795</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0001</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0003</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0005</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0006</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0007</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0010</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0011</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0013</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0014</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0015</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0016</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0018</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0019</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0004</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0009</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP000W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0012</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP0017</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IETIP001T</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Tanga Yumco lake system, Tibetan Plateau is sensitive to climate and environmental change.&#x0d;
+The diversity and abundance of ostracod fauna (aquatic arthropods) is a measure of ecological and environmental change.&#x0d;
+Tibetan ostracods are poorly known due to lack of accessibility to the remote region of central Asia. &#x0d;
+The distribution of Recent ostracods and their aquatic ecosystems is urgently needed to understand ecological requirements of past faunas.&#x0d;
+We present (i) eleven living ostracods from different aquatic habitats on Tibetan Plateau&#x0d;
+•	 (ii) abundance of living ostracod with ecological requirements&#x0d;
+The Recent ostracod ecology provides base-line for paleo-environmental interpretation. This will increase knowledge of ostracods and environmental data from high-altitude lakes and waterbodies.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Akita, Lailah Gifty; Frenzel, Peter; Haberzetti, Torsten; Kasper, Thomas; Wang, Jumbo; Reicherter, Klaus (2014) Bio-environmental data on Tangra Yumco lake system, southern Tibetan Plateau, Central Asia. Palaeogeography, Palaeoclimatology, Palaeoecology, in press.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Gangdise mountains, Tibetan Plateau, Central Asia</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>86.26239</westBoundLongitude>
+				<eastBoundLongitude>86.79203</eastBoundLongitude>
+				<southBoundLatitude>30.16806</southBoundLatitude>
+				<northBoundLatitude>31.61335</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

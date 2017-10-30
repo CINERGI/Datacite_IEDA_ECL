@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100042</identifier>
+	<creators>
+		<creator>
+			<creatorName>Salters,Vincent J.M.</creatorName>
+			<givenName>Vincent J.M.</givenName>
+			<familyName>Salters</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:salters@magnet.fsu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6603770775</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:30</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Hf and Nd isotopic composition of mid-ocean ridge basalts</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2011</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">hafnium</subject>
+		<subject subjectScheme="Feature Instance">Rano Rahi seamount field</subject>
+		<subject subjectScheme="isotopes">Nd isotopes</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="place">Rano Rahi</subject>
+		<subject subjectScheme="place">Gorda Ridge</subject>
+		<subject subjectScheme="place">mid-Cayman Rise</subject>
+		<subject subjectScheme="place">East Pacific Rise</subject>
+		<subject subjectScheme="place">Galapagos Spreading Center</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">mid-ocean ridge</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2011-09-29 04:44:18.673743</date>
+		<date dateType="Available">2011-09-30</date>
+		<date dateType="Created">2011-09-29T04:44:18.673743</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:180</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=180</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2011GC003617</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPreviousVersionOf">doi:10.1594/IEDA/100248</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">***Attention: there is a newer version of this dataset available at http://dx.doi.org/10.1594/IEDA/100248.*** &#x0d;
+&#x0d;
+Ridge sections analyzed are from the East Pacific Rise between 5 and 19 degrees north and EPR between 13 and 23 degrees south and associated Rano Rahi seamount field, Gorda Ridge, Galapagos Spreading Center and mid-Cayman Rise</description>
+		<description descriptionType="Other">Related publications: V.J.M. Salters, S. Mallick, S.R. Hart, C.H. Langmuir, A. Stracke; Domains of depleted mantle: New evidence from hafnium and neodymium isotopes; Geochemistry, Geophysics, Geosystems, 12 (8), 2011</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Pacific Rise, Rano Rahi, Gorda Ridge, Galapagos Spreading Center, mid-Cayman Rise</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-114.51</westBoundLongitude>
+				<eastBoundLongitude>126.88</eastBoundLongitude>
+				<southBoundLatitude>-23.02</southBoundLatitude>
+				<northBoundLatitude>42.95</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

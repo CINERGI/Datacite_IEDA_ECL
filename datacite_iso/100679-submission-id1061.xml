@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100679</identifier>
+	<creators>
+		<creator>
+			<creatorName>Tuite,Michael L.</creatorName>
+			<givenName>Michael L.</givenName>
+			<familyName>Tuite</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mtuite@jpl.nasa.gov</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1933</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Williford,Kenneth H.</creatorName>
+			<givenName>Kenneth H.</givenName>
+			<familyName>Williford</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1940</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Macko,Stephen A.</creatorName>
+			<givenName>Stephen A.</givenName>
+			<familyName>Macko</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1941</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemistry of the Late Devonian VA-1 core</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="geochronology">Devonian</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="material">shale</subject>
+		<subject subjectScheme="place">Appalachian Basin</subject>
+		<subject subjectScheme="place">Virginia</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-05-09 14:26:52.741235</date>
+		<date dateType="Available">2017-05-15</date>
+		<date dateType="Created">2017-05-09T14:26:52.741235</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1061</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1061</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The VA-1 core was drilled in Wise County, Virginia by the Columbia Gas Transmission Company in April 1977 as part of the U.S. Energy Department’s Eastern Shale Gas Project (VA-1 Summary Report 1979).  The core was drilled to a depth of 5740 feet (1749.6m) and 380 feet of 3.5 inch core were recovered in two sections:  The upper section of the core (4870-5020 feet) encompasses all but the uppermost ~0.3m of the Cleveland Shale and extends into the underlying Three Lick Bed; the lower recovered interval (5210-5455 feet) includes ~35m of the Middle Huron and all but the lowermost 1-2 meters of the underlying Lower Huron.  The core currently resides in the collection of the Virginia Department of Mines, Minerals, and Energy in Charlottesville, Virginia. This dataset includes elemental analyses (TOC, TN, TS, TP, reactive Fe) and stable isotope analyses (d13C, d15N, d34S). The purpose of the dataset is to examine changes in the biogeochemistry of the Late Devonian Appalachian basin during periods of contrasting warm and cool climates. </description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Appalachian Basin, Virginia</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-82.71</pointLongitude>
+				<pointLatitude>37.11</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

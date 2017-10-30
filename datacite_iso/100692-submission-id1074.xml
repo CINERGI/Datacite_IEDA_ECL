@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100692</identifier>
+	<creators>
+		<creator>
+			<creatorName>Sims,Kenneth W. W.</creatorName>
+			<givenName>Kenneth W. W.</givenName>
+			<familyName>Sims</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:ksims7@uwyo.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1991</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Scott,Sean R.</creatorName>
+			<givenName>Sean R.</givenName>
+			<familyName>Scott</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2001</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Tivey,Meg</creatorName>
+			<givenName>Meg</givenName>
+			<familyName>Tivey</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2002</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Humphris,Susan</creatorName>
+			<givenName>Susan</givenName>
+			<familyName>Humphris</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2003</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Uranium series and Sr, Nd, and Pb isotopic measurements of seafloor hydrothermal samples</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="geochronology">U-series</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Lau Basin</subject>
+		<subject subjectScheme="place">Manus Basin</subject>
+		<subject subjectScheme="place">TAG hydrothermal field</subject>
+		<subject subjectScheme="topic detail">hydrothermal</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-08 13:29:27.406595</date>
+		<date dateType="Available">2019-06-07</date>
+		<date dateType="Created">2017-06-07T23:14:48.827198</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1074</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1074</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset contains U-series disequilibria measurements of sulfides and anhydrite collected from seafloor hydrothermal systems. Age constraints derived from U-series disequilibria will be compared with independent age constraints, which will provide important constraints on the utility of uranium series dating of seafloor hydrothermal samples. Sr, Nd, and Pb isotopic compositions are included to evaluate seawater-hydrothermal fluid mass balance.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>TAG hydrothermal field, Lau Basin, Manus Basin</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-176.569034</westBoundLongitude>
+				<eastBoundLongitude>151.672163</eastBoundLongitude>
+				<southBoundLatitude>-21.990581</southBoundLatitude>
+				<northBoundLatitude>26.13718333</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

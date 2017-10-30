@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100429</identifier>
+	<creators>
+		<creator>
+			<creatorName>Delano,John W.</creatorName>
+			<givenName>John W.</givenName>
+			<familyName>Delano</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jdelano@albany.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:269</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Electron microprobe analyses of Apollo 14 high-Ti glasses from Lunar samples 14301, 14307, 14313, 14049</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Space/Planetary</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Moon</subject>
+		<subject subjectScheme="IEDA Topic">Cosmos</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">Apollo 14 landing site</subject>
+		<subject subjectScheme="place">Moon</subject>
+		<subject subjectScheme="platform">Apollo 14</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-03-21 10:37:03.303275</date>
+		<date dateType="Available">2014-04-01</date>
+		<date dateType="Created">2014-03-21T10:37:03.303275</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:749</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=749</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.grj.2015.02.012</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Electron microprobe analyses of Apollo 14 high-Ti glasses from Lunar samples 14301, 14307, 14313, and 14049.</description>
+		<description descriptionType="Other">Related publications: Chen H.-K., Delano J.W., and Lindsley D.H. (1982)  Chemistry and phase relations of VLT volcanic glasses from Apollo 14 and Apollo 17.  Proceedings of the 13th Lunar and Planetary Science Conference, Journal of Geophysical Research, Supplement, vol. 88, p. A171-A181.&#x0d;
+&#x0d;
+Delano, J.W. (1986)  Pristine lunar glasses: Criteria, data, and implications.  Proceedings of the 16th Lunar and Planetary Science Conference, J. Geophysical Research, Supplement, 91, B4, D201-D213.&#x0d;
+&#x0d;
+Delano J.W. (1988)  Apollo 14 regolith breccias: Different glass populations and their potential for charting space/time variations.  Proceedings of the 18th Lunar and Planetary Science Conference, Cambridge University Press, p. 59-65.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Moon, Apollo 14 landing site</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

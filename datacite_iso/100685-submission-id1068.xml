@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100685</identifier>
+	<creators>
+		<creator>
+			<creatorName>Beilman,David</creatorName>
+			<givenName>David</givenName>
+			<familyName>Beilman</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:beilman@hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1965</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Radiocarbon dates from the Antarctic Peninsula</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Antarctica</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">radiocarbon</subject>
+		<subject subjectScheme="living thing">bryophyte</subject>
+		<subject subjectScheme="place">Antarctica</subject>
+		<subject subjectScheme="subject">peatbank</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-05-26 04:17:02.96983</date>
+		<date dateType="Available">2017-06-01</date>
+		<date dateType="Created">2017-05-26T04:17:02.96983</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1068</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1068</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Radiocarbon measurements of peat collected in the Antarctic Peninsula</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Antarctica</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-68.355833</westBoundLongitude>
+				<eastBoundLongitude>-60.956111</eastBoundLongitude>
+				<southBoundLatitude>-67.598611</southBoundLatitude>
+				<northBoundLatitude>-64.155556</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

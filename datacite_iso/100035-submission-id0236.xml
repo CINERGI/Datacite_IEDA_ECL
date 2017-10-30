@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100035</identifier>
+	<creators>
+		<creator>
+			<creatorName>Moore,Daniel K.</creatorName>
+			<givenName>Daniel K.</givenName>
+			<familyName>Moore</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:moored@byui.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:37</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major and trace element analyses of volcanic rocks from the East Tintic Mountains, Utah</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2011</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">volcanic rock</subject>
+		<subject subjectScheme="place">East Tintic Mountains</subject>
+		<subject subjectScheme="place">Utah</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2011-10-13 15:20:08.757781</date>
+		<date dateType="Available">2011-10-14</date>
+		<date dateType="Created">2011-10-13T15:20:08.757781</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:236</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=236</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000003</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000005</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000006</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000009</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000010</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000011</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000012</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000013</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000015</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000016</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000017</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000018</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000020</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000022</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000024</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000025</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000026</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000029</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000004</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00000Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000014</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000019</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00001W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000023</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO00002S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:DMO000030</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major and trace element analyses of volcanic rocks from the East Tintic Mountains, Utah</description>
+		<description descriptionType="Other">Related publications: Moore, D.K., Keith, J.D., Christiansen, E.H., Kim, C.S., Tingey, D.G., Nelson, S.T., and Flamm, D.S., 2007, Petrogenesis of the Oligocene East Tintic Volcanic Field, Utah, in Petrogenesis of the Oligocene East Tintic Volcanic Field, Utah, Central Utah: Diverse Geology of a Dynamic Landscape, Salt Lake City, UT, Utah Geological Association.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Tintic Mountains, Utah,</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-112.120277777778</westBoundLongitude>
+				<eastBoundLongitude>-112.002777777778</eastBoundLongitude>
+				<southBoundLatitude>39.7602777777778</southBoundLatitude>
+				<northBoundLatitude>39.9944444444444</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

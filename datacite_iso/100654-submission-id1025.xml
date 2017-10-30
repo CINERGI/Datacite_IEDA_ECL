@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100654</identifier>
+	<creators>
+		<creator>
+			<creatorName>Liuzzo,Marco</creatorName>
+			<givenName>Marco</givenName>
+			<familyName>Liuzzo</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:marco.liuzzo@ingv.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1153</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Giudice,Gaetano</creatorName>
+			<givenName>Gaetano</givenName>
+			<familyName>Giudice</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Burbano Ruales,Viviana</creatorName>
+			<givenName>Viviana</givenName>
+			<familyName>Burbano Ruales</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1591</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Silva Parra,Betty</creatorName>
+			<givenName>Betty</givenName>
+			<familyName>Silva Parra</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1592</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Aiuppa,Alessandro</creatorName>
+			<givenName>Alessandro</givenName>
+			<familyName>Aiuppa</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:alessandro.aiuppa@unipa.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1150</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gómez Martínez,Diego</creatorName>
+			<givenName>Diego</givenName>
+			<familyName>Gómez Martínez</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1594</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Volcanic gas plume data from Galeras Volcano (Colombia)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2018</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="instrument">Multi-GAS</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Galeras Volcano</subject>
+		<subject subjectScheme="place">South America</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-02-17 08:08:57.967699</date>
+		<date dateType="Available">2018-01-01</date>
+		<date dateType="Created">2017-02-17T05:24:23.638661</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1025</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1025</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.csv  Comma Separated Values</format>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Volcanic gas ratios in the plume of Galeras Volcano (Colombia), acquired using a portable Multi-GAS of the DECADE network during regular surveys conducted between October 2014 and August 2016. Data are reported for the bulk plume released by the summit crater and specifically from El Paisita vent. All ratios are expressed on molar basis. CO2 and SO2 fluxes are also reported.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>South America, Galeras Volcano</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-77.35958</pointLongitude>
+				<pointLatitude>1.223065</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

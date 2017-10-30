@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100631</identifier>
+	<creators>
+		<creator>
+			<creatorName>Tyrrell,James P.</creatorName>
+			<givenName>James P.</givenName>
+			<familyName>Tyrrell</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:j155t133@ku.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1351</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bidgoli,Tandis S.</creatorName>
+			<givenName>Tandis S.</givenName>
+			<familyName>Bidgoli</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tandisb@hotmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:296</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Walker,J. Douglas</creatorName>
+			<givenName>J. Douglas</givenName>
+			<familyName>Walker</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jdwalker@ku.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56468420400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:295</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Möller,Andreas</creatorName>
+			<givenName>Andreas</givenName>
+			<familyName>Möller</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1363</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Conodont (U-Th)/He thermochronology of the Mormon Mountains, Tule Spring Hills, and Beaver Dam Mountains, southeastern Nevada and southwestern Utah: Appendix B: All conodont LA-ICPMS depth profiles</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="data type">depth profiles</subject>
+		<subject subjectScheme="geochronology">(U-Th)/He</subject>
+		<subject subjectScheme="instrument">LA-ICPMS</subject>
+		<subject subjectScheme="living thing">Conodont</subject>
+		<subject subjectScheme="method">laser ablation</subject>
+		<subject subjectScheme="place">Tule Springs Hills</subject>
+		<subject subjectScheme="place">Basin and Range</subject>
+		<subject subjectScheme="place">Beaver Dam Mountains</subject>
+		<subject subjectScheme="place">Mormon Mountains</subject>
+		<subject subjectScheme="subject">Thermochronology</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-12-08 11:44:14.322218</date>
+		<date dateType="Available">2016-12-15</date>
+		<date dateType="Created">2016-12-05T17:25:26.886723</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:999</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=999</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">All LA-ICPMS depth profiles in terms of concentration versus ablation time from all conodonts in this study. This format demonstrates heterogeneous trace and REE distributions within conodonts. </description>
+		<description descriptionType="Other">Related publications: Tyrrell, J.P., Bidgoli, T.S., Walker, J.D., and Möller, A. (2016) Conodont (U-Th)/He thermochronology of the Mormon Mountains, Tule Spring Hills, and Beaver Dam Mountains, southeastern Nevada and southwestern Utah. M.S. Thesis, University of Kansas.&#x0d;
+&#x0d;
+Bidgoli, T.S., Stockli, D.F., and Walker, J.D. (2015) Low temperature thermochronologic constraints on the kinematic histories of the Castle Cliffs, Tule Spring, and Mormon Peak detachments, southwestern Utah and southeastern Nevada, Geosphere 11(3): 850-867.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mormon Mountains, Tule Spring Hills, Beaver Dam Mountains, Basin and Range</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-114.433842</westBoundLongitude>
+				<eastBoundLongitude>-113.809834</eastBoundLongitude>
+				<southBoundLatitude>36.958772</southBoundLatitude>
+				<northBoundLatitude>37.140519</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

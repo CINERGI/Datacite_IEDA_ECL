@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100219</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: Mid-Atlantic Ridge, TAG MARK, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection.  Campbell (1988), Bau (1999) Bourles (1994), Campbell (1989), Campbell (1994), Chan (1993), Charlou (1996), Douville (1999), Edmond (1995), Edmonds (1996), Gamo (1996), James (1996), Jean-Baptiste (1991), Klinkhammer, Metz and Trefry (2000), Michard (1989), Mitra (1994), Palmer (1991), Palmer (1992), Palmer (1989a,b), Rudnicki and Elderfield (1992)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">rare earth elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">TAG</subject>
+		<subject subjectScheme="place">MARK</subject>
+		<subject subjectScheme="place">Mid-Atlantic Ridge</subject>
+		<subject subjectScheme="place">Atlantic Ocean</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-21 12:59:44.694333</date>
+		<date dateType="Available">2012-09-22</date>
+		<date dateType="Created">2012-09-21T12:59:44.694333</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:325</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=325</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from Mid-Atlantic Ridge, TAG MARK - Raw and end-member data for major, minor, and trace species, transition metals, U, rare earth elements, dissolved gases, nutrients, and isotopes of O, He, Li, Be, B, C,S, Rn, and Ra.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”).  For more information about this compilation, please see “Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library” (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Campbell, A.C., M.R. Palmer, G.P. Klinkhammer, T.S. Bowers, J.M. Edmond, J.R. Lawrence, J.F. Casey, G. Thompson, S. Humphris, P. Rona, and J.A. Karson (1988), Chemistry of hot springs on the Mid-Atlantic Ridge, Nature, 335, 514&#x0d;
+&#x0d;
+Bau, M., and P. Dulski (1999), Comparing yttrium and rare earths in hydrothermal fluids from the Mid-Atlantic Ridge: implications for Y and REE behaviour during near-vent mixing and for the Y/Ho ratio of Proterozoic seawater, Chemical Geology, 155, 77-90&#x0d;
+&#x0d;
+Bourles, D.L., E.T. Brown, C.R.German, C.I. Measures, J.M. Edmond, G.M. Raisbeck, and F. Yiou (1994), Examination of hydrothermal influences on oceanic beryllium using fluids, plume particles and sediments from the TAG hydrothermal field, Earth and Planetary Science Letters, 122, 143-157&#x0d;
+&#x0d;
+Campbell, A.C., and J.M. Edmond (1989), Halide systematics of submarine hydrothermal vents, Nature, 342, 168-170&#x0d;
+&#x0d;
+Campbell, A.C., C.R. German, M.R. Palmer, T. Gamo, and J.M. Edmond (1994), Chemistry of hydrothermal fluids from Escanaba Trough, Gorda Ridge, U.S. Geological Survey Bulletin, 2022, 201-221&#x0d;
+&#x0d;
+Chan, L.-H., J.M. Edmond, and G. Thompson (1993), A lithium isotope study of hot springs and metabasalts from mid-ocean ridge hydrothermal systems, Journal of Geophysical Research, 98, 9653-9659&#x0d;
+&#x0d;
+Charlou, J.L., J.P. Donval, P. Jean-Baptiste, and A. Dapoigny (1996), Gases and helium isotopes in high temperature solutions sampled before and after ODP Leg 158 drilling at TAG hydrothermal field (26°N, MAR), Geophysical Research Letters, 23, 3491-3494&#x0d;
+&#x0d;
+Douville, E., P. Bienvenue, J.L. Charlou, J.P.Donval, Y. Fouquet, P. Appriou, and T. Gamo (1999), Yttrium and rare earth elements in fluids fom various deep-sea hydrothermal systems, Geochimica et Cosmochimica Acta, 63, 627-643&#x0d;
+&#x0d;
+Edmond, J.M., A.C. Campbell, M.R. Palmer, G.P Klinkhammer, C.R. German, H.N. Edmonds, H. Elderfield, G. Thompson, and P. Rona (1995), Time series studies of vent fluids from the TAG and MARK sites (1986, 1990) Mid-Atlantic Ridge: a new solution chemistry model and a mechanism for Cu/Zn zonation in massive sulphide orebodies, Hydrothermal Vents and Processes (L.M. Parson, C.L. Walker, and D.R. Dixon, eds.), Geological Society Special Publication No. 87, 77-86&#x0d;
+&#x0d;
+Edmonds, H.N., C.R. German, D.R.H. Green, Y. Huh, T. Gamo, and J.M. Edmond (1996), Continuation of the hydrothermal fluid chemistry time series at TAG, and the effects of ODP drilling, Geophysical Research Letters, 23, 3487-3489&#x0d;
+&#x0d;
+Gamo, T., H. Chiba, H. Masuda, H.N. Edmonds, K. Fujioka, Y. Kodama, H. Nanba, and Y. Sano (1996), Chemical characteristics of hydrothermal fluids form the TAG mound of the Mid-Atlantic Ridge in August 1994: implications for spatial and temporal variability of hydrothermal activity, Geophysical Research Letters, 23, 3483-3486&#x0d;
+&#x0d;
+James, R.H., and H. Elderfield (1996), Chemistry of ore-forming fluids and mineral formation rates in an active hydrothermal sulfide deposit on the Mid-Atlantic Ridge, Geology, 24, 1147-1150&#x0d;
+&#x0d;
+Jean-Baptiste, P., J.L. Charlou, M. Stievenard, J.P. Donval, H. Bougault, and C. Mevel (1991), Helium and methane measurements in hydrothermal fluids from the Mid-Atlantic Ridge: the Snake Pit site at 23°N, Earth and Planetary Science Letters, 106, 17-28&#x0d;
+&#x0d;
+Klinkhammer, G.P., H. Elderfield, J.M. Edmond, and A. Mitra (1994), Geochemical implications of rare earth element patterns in hydrothermal fluids from mid-ocean ridges, Geochimica et Cosmochimica Acta, 58, 5105-5113&#x0d;
+&#x0d;
+Metz, S., and J.H. Trefry (2000), Chemical and mineralogical influences on concentrations of trace metals in hydrothermal fluids, Geochimica et Cosmochimica Acta, 64, 2267-2279&#x0d;
+&#x0d;
+Michard, A. (1989), Rare earth element systematics in hydrothermal fluids, Geochimica et Cosmochimica Acta, 53, 745-750&#x0d;
+&#x0d;
+Mitra, A., H. Elderfield, and M.J. Greaves (1994), Rare earth elements in submarine hydrothermal fluids and plumes from the Mid-atlantic Ridge, Marine Chemistry, 46, 217-235&#x0d;
+&#x0d;
+Palmer, M.R. (1991), Boron isotope systematics of hydrothermal fluids and tourmalines: a synthesis, Chemical Geology (Isotope Geoscience Section), 94, 111-121&#x0d;
+&#x0d;
+Palmer, M.R. (1992), Controls over the chloride concentration of submarine hydrothermal vent fluids: evidence from Sr/Ca and 87Sr/86Sr ratios, Earth and Planetary Science Letters, 109, 37-46&#x0d;
+&#x0d;
+Palmer, M.R., and J.M. Edmond (1989a), The strontium isotope budget of the modern ocean, Earth and Planetary Science Letters, 92, 11-26&#x0d;
+&#x0d;
+Palmer, M.R., and J.M. Edmond (1989b), Cesium and rubidium in submarine hydrothermal fluids: evidence for recycling of alkali elements, Earth and Planetary Science Letters, 95, 8-14&#x0d;
+&#x0d;
+Rudnicki, M.D., and H. Elderfield (1992), Helium, radon, and manganese at the TAG and Snakepit hydrothermal vent fields, 26° and 23°N, Mid-Atlantic Ridge, Earth and Planetary Science Letters, 113, 307-321&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mid-Atlantic Ridge, TAG, MARK, Atlantic Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-44.95</westBoundLongitude>
+				<eastBoundLongitude>-44.8248</eastBoundLongitude>
+				<southBoundLatitude>23.368</southBoundLatitude>
+				<northBoundLatitude>26.14</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

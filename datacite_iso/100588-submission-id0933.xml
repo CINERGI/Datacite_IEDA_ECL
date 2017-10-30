@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100588</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rhodes,John M.</creatorName>
+			<givenName>John M.</givenName>
+			<familyName>Rhodes</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jmrhodes@geo.umass.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7402364704</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1048</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>XRF geochemistry of submarine lavas from Mauna Loa Volcano, Hawaii </title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Ocean Island/Plateau</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">TN151</subject>
+		<subject subjectScheme="cruise">MW9902</subject>
+		<subject subjectScheme="cruise">KK83-07-25</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="material">picrite</subject>
+		<subject subjectScheme="material">submarine lavas</subject>
+		<subject subjectScheme="place">Hawaii</subject>
+		<subject subjectScheme="place">Big Island</subject>
+		<subject subjectScheme="platform">RV Thomas G. Thompson</subject>
+		<subject subjectScheme="platform">RV Moana Wave</subject>
+		<subject subjectScheme="platform">RV Kana Keoiki</subject>
+		<subject subjectScheme="subject">mantle plume</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-05-03 17:38:19.607571</date>
+		<date dateType="Available">2016-07-15</date>
+		<date dateType="Created">2016-05-03T17:38:19.607571</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:933</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=933</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/9781118872079.ch4</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/902039</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900995</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">XRF geochemistry of submarine lavas from Mauna Loa Volcano, Hawaii. The data cover about 700 ka of Mauna Loa's magmatic history and include samples from the SW rift zone, the Kahuku submarine landslide scarp, landslide deposits, submarine radial vents and samples from the shallow volcanic slope (TN151, MW9902, KK83-07-25)</description>
+		<description descriptionType="Other">Related publications: Rhodes J. M. (2015) Major element and isotopic variations in Mauna Loa magmas over 600 ka: Implications for magma generation and source lithology as Mauna Loa transits the Hawaiian plume, Rhodes, J. M., Geol. Soc. Amer. Mem.  208, 59-78.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Hawaii, Big Island</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-156.320833</westBoundLongitude>
+				<eastBoundLongitude>-155.6185</eastBoundLongitude>
+				<southBoundLatitude>18.6192</southBoundLatitude>
+				<northBoundLatitude>19.48533333</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

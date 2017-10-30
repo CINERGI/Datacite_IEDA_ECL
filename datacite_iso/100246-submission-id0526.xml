@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100246</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang,Yu</creatorName>
+			<givenName>Yu</givenName>
+			<familyName>Huang</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yuhuang@umd.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:169</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chubakov,Viacheslav</creatorName>
+			<givenName>Viacheslav</givenName>
+			<familyName>Chubakov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:170</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mantovani,Fabio</creatorName>
+			<givenName>Fabio</givenName>
+			<familyName>Mantovani</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:171</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rudnick,Roberta L.</creatorName>
+			<givenName>Roberta L.</givenName>
+			<familyName>Rudnick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1559-7463</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003986769</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:172</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McDonough,William F.</creatorName>
+			<givenName>William F.</givenName>
+			<familyName>McDonough</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9154-3673</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005259221</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:173</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Granulite-facies rock composition, Appendix C data for "A reference Earth model for the heat producing elements and associated geoneutrino flux"</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">chemical composition</subject>
+		<subject subjectScheme="material">granulite-facies rocks</subject>
+		<subject subjectScheme="material">meta-sedimentary</subject>
+		<subject subjectScheme="topic detail">meta-igneous</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-23 13:58:33.988055</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-23T13:58:33.988055</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:526</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=526</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset is a compilation of chemical composition of global distributed granulite-facies rocks. Both meta-igneous and meta-sedimentary rocks are included. The goal of this compilation is to estimate the average composition of lower continental crust, where the temperature and pressure is close to granulite-facies metamorphism condition.</description>
+		<description descriptionType="Other">Related publications: Al-Mishwat, A. T., and S. J. Nasir (2004), Composition of the lower crust of the Arabian Plate: a xenolith perspective, Lithos, 72(1-2), 45-72.&#x0d;
+Arculus, R. J., J. Ferguson, B. W. Chappell, D. Smith, M. T. McCulloch, I. Jackson, H. D. Hensel, S. R. Taylor, J. Knutson, and D. A. Gust (1988), Trace element and isotopic characteristics of eclogites and other xenoliths derived from the lower continental crust of southeastern Australia and southwestern Colorado Plateau USA, in Eclogites and Eclogite-Facies Rocks, edited by D. C. Smith, pp. 335-386, Elsevier, Amsterdam.&#x0d;
+Arima, M., and R. L. Barnett (1984), SAPPHIRINE BEARING GRANULITES FROM THE SIPIWESK LAKE AREA OF THE LATE ARCHEAN PIKWITONEI GRANULITE TERRAIN, MANITOBA, CANADA, Contributions to Mineralogy and Petrology, 88(1-2), 102-112.&#x0d;
+Ashwal, L. D., P. Morgan, S. A. Kelley, and J. A. Percival (1987), HEAT-PRODUCTION IN AN ARCHEAN CRUSTAL PROFILE AND IMPLICATIONS FOR HEAT-FLOW AND MOBILIZATION OF HEAT-PRODUCING ELEMENTS, Earth and Planetary Science Letters, 85(4), 439-450.&#x0d;
+Barbey, P., J. Bernard-Griffiths, and J. Convert (1986), THE LAPLAND CHARNOCKITIC COMPLEX - REE GEOCHEMISTRY AND PETROGENESIS, Lithos, 19(2), 95-111.&#x0d;
+Barton, J. M. J., M. C. du Toit, and D. D. van Reenen (1983), Geochronological studies in the Southern Marginal Zone of the Limpopo mobile belt, southern Africa, Geological Society of South Africa, Special Publication, 8, 55-64.&#x0d;
+Bauernhofer, A. H., C. A. Hauzenberger, E. Wallbrecher, S. Muhongo, G. Hoinkes, A. Mogessie, N. Opiyo-Akech, and V. Tenczer (2009), Geochemistry of basement rocks from SE Kenya and NE Tanzania: indications for rifting and early Pan-African subduction, International Journal of Earth Sciences, 98(8), 1809-1834.&#x0d;
+Bolhar, R., B. S. Kamber, and K. D. Collerson (2007), U-Th-Pb fractionation in Archaean lower continental crust: Implications for terrestrial Pb isotope systematics, Earth and Planetary Science Letters, 254(1-2), 127-145.&#x0d;
+Bradley, S. D., and M. E. McCallum (1984), Granulite facies and related xenoliths from Colorado-Wyoming kimberlite, in Kimberlites: II. The Mantle and Crust–Mantle Relationships, edited by J. Kornprobst, pp. 205-218, Elsevier, Amsterdam.&#x0d;
+Brandl, G. (1983), Geology and geochemistry of various supracrustal rocks of the Beit Bridge Complex east of Messina, in The Limpopo Mobile Belt, edited by W. J. Van Biljon and J. G. Legg, pp. 103-112, Geological Society of South Africa Special Publication.&#x0d;
+Cameron, K. L., J. V. Robinson, S. Niemeyer, G. J. Nimz, D. C. Kuentz, R. S. Harmon, S. R. Bohlen, and K. D. Collerson (1992), CONTRASTING STYLES OF PRE-CENOZOIC AND MIDTERTIARY CRUSTAL EVOLUTION IN NORTHERN MEXICO - EVIDENCE FROM DEEP CRUSTAL XENOLITHS FROM LA-OLIVINA, Journal of Geophysical Research-Solid Earth, 97(B12), 17353-17376.&#x0d;
+Chen, W., and R. J. Arculus (1995), Geochemical and isotopic characteristics of lower crustal xenoliths, San Francisco Volcanic Field, Arizona, USA, Lithos, 36(3-4), 203-225.&#x0d;
+Chen, H. L., Z. L. Li, S. F. Yang, C. W. Dong, W. J. Xiao, and Y. Tainosho (2006), Mineralogical and geochemical study of a newly discovered mafic granulite, northwest China: Implications for tectonic evolution of the Altay Orogenic Belt, Island Arc, 15(1), 210-222.&#x0d;
+Collerson, K. D., and D. Bridgewater (1979), Metamorphic development of early Archaean tonalitic and trondhjemitic gneisses: Saglek Area, Labrador, in Developments in Petrology 6. Trondhjemites dacites and related rocks, edited by F. Barker, Elsevier, Amsterdam, Holland.&#x0d;
+Condie, K. C., P. Allen, and B. L. Narayana (1982), GEOCHEMISTRY OF THE ARCHEAN LOW-GRADE TO HIGH-GRADE TRANSITION ZONE, SOUTHERN INDIA, Contributions to Mineralogy and Petrology, 81(3), 157-167.&#x0d;
+Condie, K. C., G. P. Bowling, and P. Allen (1986), ORIGIN OF GRANITES IN AN ARCHEAN HIGH-GRADE TERRANE, SOUTHERN INDIA, Contributions to Mineralogy and Petrology, 92(1), 93-103.&#x0d;
+Coolen, J. J. M. M. M. (1980), Chemical petrology of the Furua granulite complex, southern Tanzania., GUA, Amsterdam, Papers, 13(1), 1-258.&#x0d;
+Dai, B. Z., S. Y. Jiang, Y. H. Jiang, K. D. Zhao, and D. Y. Liu (2008), Geochronology, geochemistry and Hf-Sr-Nd isotopic compositions of Huziyan mafic xenoliths, southern Hunan Province, South China: Petrogenesis and implications for lower crust evolution, Lithos, 102(1-2), 65-87.&#x0d;
+Depaolo, D. J., W. I. Manton, E. S. Grew, and M. Halpern (1982), SM-ND, RB-SR AND U-TH-PB SYSTEMATICS OF GRANULITE FACIES ROCKS FROM FYFE-HILLS, ENDERBY LAND, ANTARCTICA, Nature, 298(5875), 614-618.&#x0d;
+Dessai, A. G., and O. Vaselli (1999), Petrology and geochemistry of xenoliths in lamprophyres from the Deccan Traps: implications for the nature of the deep crust boundary in western India, Mineralogical Magazine, 63(5), 703-722.&#x0d;
+Dessai, A. G., A. Markwick, O. Vaselli, and H. Downes (2004), Granulite and pyroxenite xenoliths from the Deccan Trap: insight into the nature and composition of the lower lithosphere beneath cratonic India, Lithos, 78(3), 263-290.&#x0d;
+Dhuime, B., D. Bosch, J. L. Bodinier, C. J. Garrido, O. Bruguier, S. S. Hussain, and H. Dawood (2007), Multistage evolution of the Jijal ultramafic-mafic complex (Kohistan, N Pakistan): Implications for building the roots of island arcs, Earth and Planetary Science Letters, 261, 179-200.&#x0d;
+Dhuime, B., D. Bosch, C. J. Garrido, J. L. Bodinier, O. Bruguier, S. S. Hussain, and H. Dawood (2009), Geochemical Architecture of the Lower- to Middle-crustal Section of a Paleo-island Arc (Kohistan Complex, JijalKamila Area, Northern Pakistan): Implications for the Evolution of an Oceanic Subduction Zone, Journal of Petrology, 50(3), 531-569.&#x0d;
+Dodge, F. C. W., L. C. Calk, and R. W. Kistler (1986), LOWER CRUSTAL XENOLITHS, CHINESE PEAK LAVA FLOW, CENTRAL SIERRA-NEVADA, Journal of Petrology, 27(6), 1277-1304.&#x0d;
+Dodge, F. C. W., J. P. Lockwood, and L. C. Calk (1988), FRAGMENTS OF THE MANTLE AND CRUST FROM BENEATH THE SIERRA-NEVADA BATHOLITH - XENOLITHS IN A VOLCANIC PIPE NEAR BIG-CREEK, CALIFORNIA, Geological Society of America Bulletin, 100(6), 938-947.&#x0d;
+Dostal, J., and S. Capedri (1979), RARE-EARTH ELEMENTS IN HIGH-GRADE METAMORPHIC ROCKS FROM THE WESTERN ALPS, Lithos, 12(1), 41-49.&#x0d;
+Downes, H., C. Dupuy, and A. F. Leyreloup (1990), CRUSTAL EVOLUTION OF THE HERCYNIAN BELT OF WESTERN-EUROPE - EVIDENCE FROM LOWER-CRUSTAL GRANULITIC XENOLITHS (FRENCH MASSIF-CENTRAL), Chemical Geology, 83(3-4), 209-231.&#x0d;
+Drury, S. A. (1980), LEWISIAN PYROXENE GNEISSES FROM BARRA AND THE GEOCHEMISTRY OF THE ARCHEAN LOWER CRUST, Scott. J. Geol., 16, 199-207.&#x0d;
+Drury, S. A. (1980), The geochemistry of high-pressure gneisses from Cabo Ortegal, NW Spain: residues of deep crustal anatexis, Geologie en Mijnbouw, 59, 61-64.&#x0d;
+Eccles, D. R., S. S. Simonetti, and R. Cox (2010), Garnet pyroxenite and granulite xenoliths from northeastern Alberta: Evidence of similar to 1.5 Ga lower crust and mantle in western Laurentia, Precambrian Research, 177(3-4), 339-354.&#x0d;
+Embey-Isztin, A., H. Downes, and P. D. Kempton (2003), Lower crustal granulite xenoliths from the Pannonian Basin, Hungary. Part 1: mineral chemistry, thermobarometry and petrology, Contributions to Mineralogy and Petrology, 144(6), 652-670.&#x0d;
+Esperanca, S., R. W. Carlson, and S. B. Shirey (1988), LOWER CRUSTAL EVOLUTION UNDER CENTRAL ARIZONA - SR, ND AND PB ISOTOPIC AND GEOCHEMICAL EVIDENCE FROM THE MAFIC XENOLITHS OF CAMP CREEK, Earth and Planetary Science Letters, 90(1), 26-40.&#x0d;
+Fan, Q. C., H. F. Zhang, J. L. Sui, M. G. Zhai, Q. Sun, and N. Li (2005), Magma underplating and Hannuoba present crust-mantle transitional zone composition: Xenolith petrological and geochemical evidence, Science in China Series D-Earth Sciences, 48(8), 1089-1105.&#x0d;
+Forster, H. J., A. Forster, R. Oberhansli, and D. Stromeyer (2010), Lithospheric composition and thermal structure of the Arabian Shield in Jordan, Tectonophysics, 481(1-4), 29-37.&#x0d;
+Fountain, D. M., M. H. Salisbury, and K. P. Furlong (1987), HEAT-PRODUCTION AND THERMAL-CONDUCTIVITY OF ROCKS FROM THE PIKWITONEI SACHIGO CONTINENTAL CROSS-SECTION, CENTRAL MANITOBA - IMPLICATIONS FOR THE THERMAL STRUCTURE OF ARCHEAN CRUST, Canadian Journal of Earth Sciences, 24(8), 1583-1594.&#x0d;
+Fowler, M. B. (1986), LARGE-ION LITHOPHILE ELEMENT CHARACTERISTICS OF AN AMPHIBOLITE FACIES TO GRANULITE FACIES TRANSITION AT GRUINARD BAY, NORTHWEST SCOTLAND, J. Metamorph. Geol., 4(3), 345-359.&#x0d;
+Ghent, E. D., B. R. Edwards, J. K. Russell, and J. Mortensen (2008), Granulite facies xenoliths from Prindle volcano, Alaska: Implications for the northern Cordilleran crustal lithosphere, Lithos, 101(3-4), 344-358.&#x0d;
+Goldich, S. S., C. E. Hedge, T. W. Stern, J. L. Wooden, J. B. Bodkin, and R. M. North (1980), Archean rocks of the Granite Falls area, southwestern Minnesota, in Selected studies of Archean gneisses and Lower Proterozoic rocks, southern Canadian Shield, edited by G. B. Morey and G. N. Hanson, pp. 19-43, Geological Society of America Special Paper.&#x0d;
+Gray, C. M. (1977), GEOCHEMISTRY OF CENTRAL AUSTRALIAN GRANULITES IN RELATION TO CHEMICAL AND ISOTOPIC EFFECTS OF GRANULITE FACIES METAMORPHISM, Contributions to Mineralogy and Petrology, 65(1), 79-89.&#x0d;
+Gray, C. M., and V. M. Oversby (1972), BEHAVIOR OF LEAD ISOTOPES DURING GRANULITE FACIES METAMORPHISM, Geochimica Et Cosmochimica Acta, 36(9), 939-952.&#x0d;
+Grew, E. S., M. G. Yates, C. K. Shearer, J. J. Hagerty, J. W. Sheraton, and M. Sandiford (2006), Beryllium and other trace elements in paragneisses and anatectic veins of the ultrahigh-temperature napier complex, Enderby Land, East Antarctica: The role of sapphirine, Journal of Petrology, 47(5), 859-882.&#x0d;
+Griffin, W. L., and S. Y. O'Reilly (1986), The lower crust in eastern Australia: xenolith evidence, in The Nature of the Lower Continental Crust, edited by B. Dawson, D. A. Carswell, J. Hall and K. H. Wedepohl, pp. 363-374, Geological Society of London Special Publication, London.&#x0d;
+Griffin, W. L., D. A. Carswell, and P. H. Nixon (1979), Lowercrustal granulites and eclogites from Lesotho, southern Africa, in The Mantle Sample: Inclusions in Kimberlites, edited by F. R. Boyd and H. O. A. Meyer, pp. 59-86, American Geophysical Union, Washington, DC.&#x0d;
+Griffin, W. L., F. L. Sutherland, and J. D. Hollis (1987), Geothermal profile and crust-mantle transition beneath east-central Queensland: Volcanology, xenolith petrology and seismic data, Journal of Volcanology and Geothermal Research, 31(3-4), 177-203.&#x0d;
+Halliday, A. N., A. P. Dickin, R. N. Hunter, G. R. Davies, T. J. Dempster, P. J. Hamilton, and B. G. J. Upton (1993), FORMATION AND COMPOSITION OF THE LOWER CONTINENTAL-CRUST - EVIDENCE FROM SCOTTISH XENOLITH SUITES, Journal of Geophysical Research-Solid Earth, 98(B1), 581-607.&#x0d;
+Hanchar, J. M., C. F. Miller, J. L. Wooden, V. C. Bennett, and J. M. G. Staude (1994), EVIDENCE FROM XENOLITHS FOR A DYNAMIC LOWER CRUST, EASTERN MOJAVE DESERT, CALIFORNIA, Journal of Petrology, 35(5), 1377-1415.&#x0d;
+Hoatson, D. M., S. S. Sun, and J. C. Claoue-Long (2005), Proterozoic mafic-ultramafic intrusions in the Arunta Region, central Australia Part 1: Geological setting and mineral potential, Precambrian Research, 142(3-4), 93-133.&#x0d;
+Holtta, P. (1997), Geochemical characteristics of granulite facies rocks in the Archean Varpaisjarvi area, central Fennoscandian shield, Lithos, 40(1), 31-53.&#x0d;
+Holtta, P., H. Huhma, I. Manttari, P. Peltonen, and J. Juhanoja (2000), Petrology and geochemistry of mafic granulite xenoliths from the Lahtojoki kimberlite pipe, eastern Finland, Lithos, 51(1-2), 109-133.&#x0d;
+Huang, Y. M., P. Vancalsteren, and C. J. Hawkesworth (1995), THE EVOLUTION OF THE LITHOSPHERE IN SOUTHERN AFRICA - A PERSPECTIVE ON THE BASIC GRANULITE XENOLITHS FROM KIMBERLITES IN SOUTH-AFRICA, Geochimica Et Cosmochimica Acta, 59(23), 4905-4920.&#x0d;
+Huang, X. L., Y. G. Xu, and D. Y. Liu (2004), Geochronology, petrology and geochemistry of the granulite xenoliths from Nushan, east China: Implication for a heterogeneous lower crust beneath the Sino-Korean Craton, Geochimica Et Cosmochimica Acta, 68(1), 127-149.&#x0d;
+Iyer, S. S., A. Choudhuri, M. B. A. Vasconcellos, and U. G. Cordani (1984), RADIOACTIVE ELEMENT DISTRIBUTION IN THE ARCHEAN GRANULITE TERRANE OF JEQUIE BAHIA, BRAZIL, Contributions to Mineralogy and Petrology, 85(1), 95-101.&#x0d;
+Jahn, B. M., and Z. Q. Zhang (1984), ARCHEAN GRANULITE GNEISSES FROM EASTERN HEBEI PROVINCE, CHINA - RARE-EARTH GEOCHEMISTRY AND TECTONIC IMPLICATIONS, Contributions to Mineralogy and Petrology, 85(3), 224-243.&#x0d;
+Janardhan, A. S., R. C. Newton, and E. C. Hansen (1982), THE TRANSFORMATION OF AMPHIBOLITE FACIES GNEISS TO CHARNOCKITE IN SOUTHERN KARNATAKA AND NORTHERN TAMIL-NADU, INDIA, Contributions to Mineralogy and Petrology, 79(2), 130-149.&#x0d;
+Jiang, N., and J. H. Guo (2010), Hannuoba intermediate-mafic granulite xenoliths revisited: Assessment of a Mesozoic underplating model, Earth and Planetary Science Letters, 293(3-4), 277-288.&#x0d;
+Kamineni, D. C., and A. T. Rao (1988), SAPPHIRINE GRANULITES FROM THE KAKANURU AREA, EASTERN GHATS, INDIA, American Mineralogist, 73(7-8), 692-700.&#x0d;
+Kay, S. M., and R. W. Kay (1983), Thermal history of the deep crust inferred from granulite xenoliths, Queensland, Australia, American Journal of Science, 283-A, 486-513.&#x0d;
+Kempton, P. D., H. Downes, and A. EmbeyIsztin (1997), Mafic granulite xenoliths in neogene alkali basalts from the Western Pannonian Basin: Insights into the lower crust of a collapsed orogen, Journal of Petrology, 38(7), 941-970.&#x0d;
+Kempton, P. D., R. S. Harmon, C. J. Hawkesworth, and S. Moorbath (1990), PETROLOGY AND GEOCHEMISTRY OF LOWER CRUSTAL GRANULITES FROM THE GERONIMO VOLCANIC FIELD, SOUTHEASTERN ARIZONA, Geochimica Et Cosmochimica Acta, 54(12), 3401-3426.&#x0d;
+Kempton, P. D., H. Downes, L. A. Neymark, J. A. Wartho, R. E. Zartman, and E. V. Sharkov (2001), Garnet granulite xenoliths from the Northern Baltic Shield - the underplated lower crust of a palaeoproterozoic large igneous province, Journal of Petrology, 42(4), 731-763.&#x0d;
+Kempton, P. D., H. Downes, E. V. Sharkov, V. R. Vetrin, D. A. Ionov, D. A. Carswell, and A. Beard (1995), Petrology and geochemistry of xenoliths from the Northern Baltic shield: Evidence for partial melting and metasomatism in the lower crust beneath an Archaean terrane, Lithos, 36(3-4), 157-184.&#x0d;
+Krienitz, M. S., and K. M. Haase (2011), The evolution of the Arabian lower crust and lithospheric mantle - Geochemical constraints from southern Syrian mafic and ultramafic xenoliths, Chemical Geology, 280(3-4), 271-283.&#x0d;
+Kyle, P. R., A. Wright, and I. Kirsch (1987), Ultramafic xenoliths in the late Cenozoic McMurdo volcanic group, western Ross Sea embayment, Antarctica, in Mantle Xenoliths, edited by P. H. Nixon, pp. 287-294, Wiley, New York.&#x0d;
+La Fleche, M. R., T. C. Birkett, and L. Corriveau (2005), Crustal development at the pre-Grenvillian Laurentian margin: a record from contrasting geochemistry of mafic and ultramafic orthogneisses in the Chochocouane River area, Quebec, Canadian Journal of Earth Sciences, 42(10), 1653-1675.&#x0d;
+Lee, C. Y., S. L. Chung, C. H. Chen, and Y. L. Hsieh (1993), Mafic granulite xenoliths from Penghu Islands: evidence for basic lower crust in SE China continental margin, Journal of Geological Societyof China, 36(4), 351-379.&#x0d;
+Leyreloup, A., C. Dupuy, and R. Andriambololona (1977), CATAZONAL XENOLITHS IN FRENCH NEOGENE VOLCANIC-ROCKS - CONSTITUTION OF LOWER CRUST .2. CHEMICAL COMPOSITION AND CONSEQUENCES OF EVOLUTION OF FRENCH MASSIF CENTRAL PRECAMBRIAN CRUST, Contributions to Mineralogy and Petrology, 62(3), 283-300.&#x0d;
+Leyreloup, A., J. L. Bodinier, C. Dupuy, and J. Dostal (1982), PETROLOGY AND GEOCHEMISTRY OF GRANULITE XENOLITHS FROM CENTRAL HOGGAR (ALGERIA) - IMPLICATIONS FOR THE LOWER CRUST, Contributions to Mineralogy and Petrology, 79(1), 68-75.&#x0d;
+Liu, Y. S., S. Gao, C. G. Gao, K. Q. Zong, Z. C. Hu, and W. L. Ling (2010), Garnet-Rich Granulite Xenoliths from the Hannuoba Basalts, North China: Petrogenesis and Implications for the Mesozoic Crust-Mantle Interaction, Journal of Earth Science, 21(5), 669-691.&#x0d;
+Liu, Y. S., S. Gao, S. Y. Jin, S. H. Hu, M. Sun, Z. B. Zhao, and J. L. Feng (2001), Geochemistry of lower crustal xenoliths from Neogene Hannuoba Basalt, North China Craton: Implications for petrogenesis and lower crustal composition, Geochimica Et Cosmochimica Acta, 65(15), 2589-2604.&#x0d;
+Liu, S. W., W. Tian, Y. J. Lu, Q. G. Li, Y. G. Feng, K. H. Park, and Y. S. Song (2006), Geochemistry, Nd isotopic characteristics of metamorphic complexes in northern Hebei: Implications for crustal accretion, Acta Geologica Sinica-English Edition, 80(6), 807-818.&#x0d;
+Lucassen, F., S. Lewerenz, G. Franz, J. Viramonte, and K. Mezger (1999), Metamorphism, isotopic ages and composition of lower crustal granulite xenoliths from the Cretaceous Salta Rift, Argentina, Contributions to Mineralogy and Petrology, 134(4), 325-341.&#x0d;
+Manning, C. E., S. J. Mojzsis, and T. M. Harrison (2006), Geology, age and origin of supracrustal rocks at Akilia, West Greenland, American Journal of Science, 306(5), 303-366.&#x0d;
+Mansur, A. (2008), Composition, age, and origin of the lower crust in northern Tanzania, University of Maryland, College Park.&#x0d;
+Markwick, A. J. W., and H. Downes (2000), Lower crustal granulite xenoliths from the Arkhangelsk kimberlite pipes: petrological, geochemical and geophysical results, Lithos, 51(1-2), 135-151.&#x0d;
+Markwick, A. J. W., H. Downes, and N. Veretennikov (2001), The lower crust of SE Belarus: petrological, geophysical and geochemical constraints from xenoliths, Tectonophysics, 339(1-2), 215-237.&#x0d;
+Mattie, P. D., K. C. Condie, J. Selverstone, and P. R. Kyle (1997), Origin of the continental crust in the Colorado Plateau: Geochemical evidence from mafic xenoliths from the Navajo Volcanic Field, southwestern USA, Geochimica Et Cosmochimica Acta, 61(10), 2007-2021.&#x0d;
+McCulloch, M. T., W. Compston, and D. Froude (1983), SM-ND AND RB-SR DATING OF ARCHEAN GNEISSES, EASTERN YILGARN BLOCK, WESTERN-AUSTRALIA, Journal of the Geological Society of Australia, 30(1-2), 149-153.&#x0d;
+McGuire, A. V., and R. J. Stern (1993), GRANULITE XENOLITHS FROM WESTERN SAUDI-ARABIA - THE LOWER CRUST OF THE LATE PRECAMBRIAN ARABIAN-NUBIAN SHIELD, Contributions to Mineralogy and Petrology, 114(3), 395-408.&#x0d;
+Mehnert, K. R. (1975), The Ivrea zone, a model of the deep crust, Neues Jahrbuch für Mineralogie Abhandlungen, 125, 156-199.&#x0d;
+Mengel, K. (1990), CRUSTAL XENOLITHS FROM TERTIARY VOLCANICS OF THE NORTHERN HESSIAN DEPRESSION - PETROLOGICAL AND CHEMICAL EVOLUTION, Contributions to Mineralogy and Petrology, 104(1), 8-26.&#x0d;
+Mishkin, M. A., and G. M. Vovna (2009), Origin of the deep metamorphic complexes of the Early Proterozoic folded framing, the eastern part of the Aldan shield, Russian Journal of Pacific Geology, 3(2), 137-153.&#x0d;
+Nasir, S. (1992), THE LITHOSPHERE BENEATH THE NORTHWESTERN PART OF THE ARABIAN PLATE (JORDAN) - EVIDENCE FROM XENOLITHS AND GEOPHYSICS, Tectonophysics, 201(3-4), 357-370.&#x0d;
+Nasir, S., and A. Safarjalani (2000), Lithospheric petrology beneath the northern part of the Arabian Plate in Syria: evidence from xenoliths in alkali basalts, Journal of African Earth Sciences, 30(1), 149-168.&#x0d;
+O'Reilly, S. Y., W. L. Griffin, and A. Stabel (1988), Evolution of Phanerozoic eastern Australian lithosphere: isotopic evidence for magmatic and tectonic underplating, in Oceanic and Continental Lithosphere: Similarities and Differences, edited by M. A. Menzies and K. G. Cox, pp. 89-108, Journal of Petrology Special Volume, Oxford University Press, Oxford.&#x0d;
+Peucat, J. J., R. Capdevila, A. Drareni, P. Choukroune, C. M. Fanning, J. BernardGriffiths, and S. Fourcade (1996), Major and trace element geochemistry and isotope (Sr, Nd, Pb, O) systematics of an Archaean basement involved in a 2.0 Ga very high-temperature (1000 degrees C) metamorphic event: In Ouzzal Massif, Hoggar, Algeria, J. Metamorph. Geol., 14(6), 667-692.&#x0d;
+Pretorius, W., and J. M. Barton (2003), Petrology and geochemistry of crustal and upper mantle xenoliths from the Venetia Diamond Mine - evidence for Archean crustal growth and subduction, South African Journal of Geology, 106(2-3), 213-230.&#x0d;
+Pride, C., and G. K. Muecke (1980), RARE-EARTH ELEMENT GEOCHEMISTRY OF THE SCOURIAN COMPLEX NW SCOTLAND - EVIDENCE FOR THE GRANITE-GRANULITE LINK, Contributions to Mineralogy and Petrology, 73(4), 403-412.&#x0d;
+Rajesh, H. M. (2007), The petrogenetic characterization of intermediate and silicic charnockites in high-grade terrains: a case study from southern India, Contributions to Mineralogy and Petrology, 154, 591-606.&#x0d;
+Reid, M. R., S. R. Hart, E. R. Padovani, and G. A. Wandless (1989), CONTRIBUTION OF METAPELITIC SEDIMENTS TO THE COMPOSITION, HEAT-PRODUCTION, AND SEISMIC VELOCITY OF THE LOWER CRUST OF SOUTHERN NEW-MEXICO, USA, Earth and Planetary Science Letters, 95(3-4), 367-381.&#x0d;
+Roberts, S. J., and J. Ruiz (1989), GEOCHEMISTRY OF EXPOSED GRANULITE FACIES TERRAINS AND LOWER CRUSTAL XENOLITHS IN MEXICO, Journal of Geophysical Research-Solid Earth and Planets, 94(B6), 7961-7974.&#x0d;
+Rogers, N. W., and C. J. Hawkesworth (1982), PROTEROZOIC AGE AND CUMULATE ORIGIN FOR GRANULITE XENOLITHS, LESOTHO, Nature, 299(5882), 409-413.&#x0d;
+Rollinson, H. R., and B. F. Windley (1980), AN ARCHEAN GRANULITE-GRADE TONALITE-TRONDHJEMITE-GRANITE SUITE FROM SCOURIE, NW SCOTLAND - GEOCHEMISTRY AND ORIGIN, Contributions to Mineralogy and Petrology, 72(3), 265-281.&#x0d;
+Rosen, O. M. (1988), Plagiogneisses and metabasites, in Archean of the Anabar shield and Problems of the Early Evolution of the Earth, edited by M. S. Markov, pp. 8-31, Nauka, Moscow.&#x0d;
+Rudnick, R. L., and S. R. Taylor (1986), Petrology and geochemistry of lower crustal xenoiiths from northern Queensland and inferences on lower crustal composition., in The Nature of the Lower Continental Crust, edited by J. B. Dawson, pp. 179-191, Geological Society of London, Special Publication.&#x0d;
+Rudnick, R. L., and S. R. Taylor (1987), THE COMPOSITION AND PETROGENESIS OF THE LOWER CRUST - A XENOLITH STUDY, Journal of Geophysical Research-Solid Earth and Planets, 92(B13), 13981-14005.&#x0d;
+Rudnick, R. L., W. F. McDonough, M. T. McCulloch, and S. R. Taylor (1986), LOWER CRUSTAL XENOLITHS FROM QUEENSLAND, AUSTRALIA - EVIDENCE FOR DEEP CRUSTAL ASSIMILATION AND FRACTIONATION OF CONTINENTAL BASALTS, Geochimica Et Cosmochimica Acta, 50(6), 1099-1115.&#x0d;
+Sachs, P. M., and T. H. Hansteen (2000), Pleistocene underplating and metasomatism of the lower continental crust: a xenolith study, Journal of Petrology, 41(3), 331-356.&#x0d;
+Schaaf, P., W. Heinrich, and T. Besch (1994), COMPOSITION AND SM-ND ISOTOPIC DATA OF THE LOWER CRUST BENEATH SAN-LUIS-POTOSI, CENTRAL MEXICO - EVIDENCE FROM A GRANULITE-FACIES XENOLITH SUITE, Chemical Geology, 118(1-4), 63-84.&#x0d;
+Selverstone, J., and C. R. Stern (1983), PETROCHEMISTRY AND RECRYSTALLIZATION HISTORY OF GRANULITE XENOLITHS FROM THE PALI-AIKE VOLCANIC FIELD, CHILE, American Mineralogist, 68(11-1), 1102-1112.&#x0d;
+Sheraton, J. W., and L. P. Black (1983), GEOCHEMISTRY OF PRECAMBRIAN GNEISSES - RELEVANCE FOR THE EVOLUTION OF THE EAST ANTARCTIC SHIELD, Lithos, 16(4), 273-296.&#x0d;
+Sheraton, J. W., and K. D. Collerson (1984), GEOCHEMICAL EVOLUTION OF ARCHEAN GRANULITE-FACIES GNEISSES IN THE VESTFOLD BLOCK AND COMPARISONS WITH OTHER ARCHEAN GNEISS COMPLEXES IN THE EAST ANTARCTIC SHIELD, Contributions to Mineralogy and Petrology, 87(1), 51-64.&#x0d;
+Sheraton, J. W., L. P. Black, and M. T. McCulloch (1984), REGIONAL GEOCHEMICAL AND ISOTOPIC CHARACTERISTICS OF HIGH-GRADE METAMORPHICS OF THE PRYDZ BAY AREA - THE EXTENT OF PROTEROZOIC REWORKING OF ARCHEAN CONTINENTAL-CRUST IN EAST ANTARCTICA, Precambrian Research, 26(2), 169-198.&#x0d;
+Sighinolfi, G. P. (1969), K-Rb Ratio in High Grade Metamorphism: A Confirmation of the Hypothesis of a Continual Crustal Evolution, Contributions to Mineralogy and Petrology, 21, 346-356.&#x0d;
+Sighinolfi, G. P., and T. Sakai (1977), URANIUM AND THORIUM IN ARCHEAN GRANULITE FACIES TERRAINS OF BAHIA (BRAZIL), Geochem. J., 11(1), 33-39.&#x0d;
+Sighinolfi, G. P., M. C. H. Figueredo, W. S. Fyfe, B. I. Kronberg, and M. Oliveira (1981), GEOCHEMISTRY AND PETROLOGY OF THE JEQUIE GRANULITIC COMPLEX (BRAZIL) - AN ARCHEAN BASEMENT-COMPLEX, Contributions to Mineralogy and Petrology, 78(3), 263-271.&#x0d;
+Sivell, W. J. (1986), A BASALTIC-FERROBASALTIC GRANULITE ASSOCIATION, OONAGALABI GNEISS COMPLEX, CENTRAL-AUSTRALIA - MAGMATIC VARIATION IN AN EARLY PROTEROZOIC RIFT, Contributions to Mineralogy and Petrology, 93(3), 381-394.&#x0d;
+Stahle, H. J., M. Raith, S. Hoernes, and A. Delfs (1987), ELEMENT MOBILITY DURING INCIPIENT GRANULITE FORMATION AT KABBALDURGA, SOUTHERN INDIA, Journal of Petrology, 28(5), 803-834.&#x0d;
+Stolz, A. J., and G. R. Davies (1989), METASOMATIZED LOWER CRUSTAL AND UPPER MANTLE XENOLITHS FROM NORTH QUEENSLAND - CHEMICAL AND ISOTOPIC EVIDENCE BEARING ON THE COMPOSITION AND SOURCE OF THE FLUID PHASE, Geochimica Et Cosmochimica Acta, 53(3), 649-660.&#x0d;
+Stosch, H. G., G. W. Lugmair, and H. A. Seck (1986), Geochemistry of granulite-facies lower crustal xenoliths: implications for the geological history of the lower continental crust below the Eifel, West Germany, in The nature of the lower continental crust, edited by J. B. Dawson, D. A. Carswell and K. H. Wedepohl, pp. 309-317, Geological Society Special Publication.&#x0d;
+Stosch, H. G., D. A. Ionov, I. S. Puchtel, S. J. G. Galer, and A. Sharpouri (1995), Lower crystal xenoliths from Mongolia and their bearing on the nature of the deep dust beneath central Asia, Lithos, 36(3-4), 227-242.&#x0d;
+Tang, J., Y. F. Zheng, Y. B. Wu, B. Gong, and X. M. Liu (2007), Geochronology and geochemistry of metamorphic rocks in the Jiaobei terrane: Constraints on its tectonic affinity in the Sulu orogen, Precambrian Research, 152(1-2), 48-82.&#x0d;
+Taylor, S. R., R. L. Rudnick, S. M. McLennan, and K. A. Eriksson (1986), Rare earth element patterns in Archean high-grade metasediments and their tectonic significance, Geochimica Et Cosmochimica Acta, 50, 2267-2280.&#x0d;
+Tenczer, V., C. A. Hauzenberger, H. Fritz, M. J. Whitehouse, A. Mogessie, E. Wallbrecher, S. Muhongo, and G. Hoinkes (2006), Anorthosites in the Eastern Granulites of Tanzania - New SIMS zircon U-Pb age data, petrography and geochemistry, Precambrian Research, 148(1-2), 85-114.&#x0d;
+Teng, F. Z., R. L. Rudnick, W. F. McDonough, S. Gao, P. B. Tomascak, and Y. S. Liu (2008), Lithium isotopic composition and concentration of the deep continental crust, Chemical Geology, 255(1-2), 47-59.&#x0d;
+Thomas, C. W., and P. H. Nixon (1987), LOWER CRUSTAL GRANULITE XENOLITHS IN CARBONATITE VOLCANOS OF THE WESTERN RIFT OF EAST-AFRICA, Mineralogical Magazine, 51(363), 621-633.&#x0d;
+Toft, P. B., D. V. Hills, and S. E. Haggerty (1989), CRUSTAL EVOLUTION AND THE GRANULITE TO ECLOGITE TRANSITION IN XENOLITHS FROM KIMBERLITES IN THE WEST-AFRICAN CRATON, Tectonophysics, 161(3-4), 213-231.&#x0d;
+Tomson, J. K., Y. J. B. Rao, T. V. Kumar, and J. M. Rao (2006), Charnockite genesis across the Archaean-Proterozoic terrane boundary in the South Indian Granulite Terrain: Constraints from major-trace element geochemistry and Sr-Nd isotopic systematics, Gondwana Research, 10(1-2), 115-127.&#x0d;
+Upton, B. G. J., P. Aspen, and R. W. Hinton (2001), Pyroxenite and granulite xenoliths from beneath the Scottish Northern Highlands Terrane: Evidence for lower-crust/upper-mantle relationships, Contributions to Mineralogy and Petrology, 142(2), 178-197.&#x0d;
+Upton, B. G. J., P. Aspen, D. C. Rex, F. Melcher, and P. Kinny (1998), Lower crustal and possible shallow mantle samples from beneath the Hebrides: evidence from a xenolithic dyke at Gribun, western Mull, Journal of the Geological Society, 155, 813-828.&#x0d;
+Urrutia-Fucugauchi, J., and R. M. Uribe-Cifuentes (1999), Lower-crustal xenoliths from the Valle de Santiago maar field, Michoacan-Guanajuato volcanic field, central Mexico, International Geology Review, 41(12), 1067-1081.&#x0d;
+Villaseca, C., H. Downes, C. Pin, and L. Barbero (1999), Nature and composition of the lower continental crust in central Spain and the granulite-granite linkage: Inferences from granulitic xenoliths, Journal of Petrology, 40(10), 1465-1496.&#x0d;
+Villaseca, C., D. Orejana, B. A. Paterson, K. Billstrom, and C. Perez-Soba (2007), Metaluminous pyroxene-bearing granulite xenoliths from the lower continental crust in central Spain: their role in the genesis of Hercynian I-type granites, European Journal of Mineralogy, 19(4), 463-477.&#x0d;
+Wan, Y. S., J. X. Zhang, J. S. Yang, and Z. Q. Xu (2006), Geochemistry of high-grade metamorphic rocks of the North Qaidam mountains and their geological significance, Journal of Asian Earth Sciences, 28(2-3), 174-184.&#x0d;
+Weaver, B. L. (1980), RARE-EARTH ELEMENT GEOCHEMISTRY OF MADRAS GRANULITES, Contributions to Mineralogy and Petrology, 71(3), 271-279.&#x0d;
+Weaver, B. L., and J. Tarney (1980), RARE-EARTH GEOCHEMISTRY OF LEWISIAN GRANULITE-FACIES GNEISSES, NORTHWEST SCOTLAND - IMPLICATIONS FOR THE PETROGENESIS OF THE ARCHEAN LOWER CONTINENTAL-CRUST, Earth and Planetary Science Letters, 51(2), 279-296.&#x0d;
+Weber, M. B. I., J. Tarney, P. D. Kempton, and R. W. Kent (2002), Crustal make-up of the northern Andes: evidence based on deep crustal xenolith suites, Mercaderes, SW Colombia, Tectonophysics, 345(1-4), 49-82.&#x0d;
+Wendlandt, E., D. J. Depaolo, and W. S. Baldridge (1993), ND AND SR ISOTOPE CHRONOSTRATIGRAPHY OF COLORADO PLATEAU LITHOSPHERE - IMPLICATIONS FOR MAGMATIC AND TECTONIC UNDERPLATING OF THE CONTINENTAL-CRUST, Earth and Planetary Science Letters, 116(1-4), 23-43.&#x0d;
+Whitney, P. R., and J. F. Olmsted (1988), GEOCHEMISTRY AND ORIGIN OF ALBITE GNEISSES, NORTHEASTERN ADIRONDACK MOUNTAINS, NEW-YORK, Contributions to Mineralogy and Petrology, 99(4), 476-484.&#x0d;
+Wilkinson, J. F. G., and S. R. Taylor (1980), TRACE-ELEMENT FRACTIONATION TRENDS OF THOLEIITIC MAGMA AT MODERATE PRESSURE - EVIDENCE FROM AN AL-SPINEL ULTRAMAFIC-MAFIC INCLUSION SUITE, Contributions to Mineralogy and Petrology, 75(3), 225-233.&#x0d;
+Windrim, D. P., M. T. McCulloch, B. W. Chappell, and W. E. Cameron (1984), ND ISOTOPIC SYSTEMATICS AND CHEMISTRY OF CENTRAL AUSTRALIAN SAPPHIRINE GRANULITES - AN EXAMPLE OF RARE-EARTH ELEMENT MOBILITY, Earth and Planetary Science Letters, 70(1), 27-39.&#x0d;
+Yu, J. H., X. S. Xu, S. Y. O'Reilly, W. L. Griffin, and M. Zhang (2003), Granulite xenoliths from Cenozoic Basalts in SE China provide geochemical fingerprints to distinguish lower crust terranes from the North and South China tectonic blocks, Lithos, 67(1-2), 77-102.&#x0d;
+Zheng, J. P., M. Sun, F. X. Lu, and N. Pearson (2003), Mesozoic lower crustal xenoliths and their significance in lithospheric evolution beneath the Sino-Korean Craton, Tectonophysics, 361(1-2), 37-60.&#x0d;
+Zheng, J. P., W. L. Griffin, S. Y. O'Reilly, M. Zhang, J. G. Liou, and N. Pearson (2006), Granulite xenoliths and their zircons, Tuoyun, NW China: Insights into southwestern Tianshan lower crust, Precambrian Research, 145(3-4), 159-181.&#x0d;
+Zheng, J. P., Z. H. Luo, C. M. Yu, X. L. Yu, R. S. Zhang, F. X. Lu, and H. M. Li (2005), Geochemistry and zircon U-Pb ages of granulite xenolith from Tuoyun basalts, Xinjiang: Implications for the petrogenesis and the lower crustal nature beneath the southwestern Tianshan, Chinese Science Bulletin, 50(12), 1242-1251.&#x0d;
+Zheng, J. P., et al. (2009), Age and composition of granulite and pyroxenite xenoliths in Hannuoba basalts reflect Paleogene underplating beneath the North China Craton, Chemical Geology, 264(1-4), 266-280.&#x0d;
+Zhou, X. H., M. Sun, G. H. Zhang, and S. H. Chen (2002), Continental crust and lithospheric mantle interaction beneath North China: isotopic evidence from granulite xenoliths in Hannuoba, Sino-Korean craton, Lithos, 62(3-4), 111-124.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

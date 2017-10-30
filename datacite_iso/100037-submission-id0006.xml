@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100037</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Seewald,Jeffrey</creatorName>
+			<givenName>Jeffrey</givenName>
+			<familyName>Seewald</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Wheat,Geoffrey C.</creatorName>
+			<givenName>Geoffrey C.</givenName>
+			<familyName>Wheat</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:3</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Tivey,Margaret K.</creatorName>
+			<givenName>Margaret K.</givenName>
+			<familyName>Tivey</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:4</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Proskurowski,Giora</creatorName>
+			<givenName>Giora</givenName>
+			<familyName>Proskurowski</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:5</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Reeves,Eoghan</creatorName>
+			<givenName>Eoghan</givenName>
+			<familyName>Reeves</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:6</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sharkey,Jessica</creatorName>
+			<givenName>Jessica</givenName>
+			<familyName>Sharkey</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:7</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>You,Chen-Feng</creatorName>
+			<givenName>Chen-Feng</givenName>
+			<familyName>You</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:8</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chan,Lui-Hueng</creatorName>
+			<givenName>Lui-Hueng</givenName>
+			<familyName>Chan</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7403540481</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:9</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pichler,Thomas</creatorName>
+			<givenName>Thomas</givenName>
+			<familyName>Pichler</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:10</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Michael,Peter J.</creatorName>
+			<givenName>Peter J.</givenName>
+			<familyName>Michael</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:pjm@utulsa.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2829-9502</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35581532500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:11</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>LauBasin_TUIM05MV_Mottl</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2010</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Back Arc Basin</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">TUIM05MV</subject>
+		<subject subjectScheme="Feature Instance">Eastern Lau Basin Spreading Center</subject>
+		<subject subjectScheme="place">Lau Basin</subject>
+		<subject subjectScheme="place">Lau Basin</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2010-01-13 19:12:22</date>
+		<date dateType="Available">2010-10-01</date>
+		<date dateType="Created">2010-01-13T19:10:09</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:6</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=6</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.gca.2010.12.008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/904048</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from  the Eastern Lau Spreading Center. This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”). For more information about this compilation, please see "Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library" (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Mottl, M.J. et al., (2011), Chemistry of hot springs along the Eastern Lau Spreading Center, Geochimica et Cosmochimica Acta, 75(4), 1013-1038.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Lau Basin, Pacific</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-176.6085</westBoundLongitude>
+				<eastBoundLongitude>-176.1334</eastBoundLongitude>
+				<southBoundLatitude>-22.2157</southBoundLatitude>
+				<northBoundLatitude>-20.0526</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

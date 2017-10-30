@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100489</identifier>
+	<creators>
+		<creator>
+			<creatorName>Andersen,Morten B.</creatorName>
+			<givenName>Morten B.</givenName>
+			<familyName>Andersen</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:morten.andersen@erdw.ethz.ch</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:533</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Elliott,Tim R.</creatorName>
+			<givenName>Tim R.</givenName>
+			<familyName>Elliott</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">22940400900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:540</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Freymuth,Heye</creatorName>
+			<givenName>Heye</givenName>
+			<familyName>Freymuth</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56007972900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:541</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sims,Kenneth W.</creatorName>
+			<givenName>Kenneth W.</givenName>
+			<familyName>Sims</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005926904</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:542</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Niu,Yaoling W.W.</creatorName>
+			<givenName>Yaoling W.W.</givenName>
+			<familyName>Niu</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9488-2304</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7202225353</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7409689989</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:543</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kelley,Katherine A.</creatorName>
+			<givenName>Katherine A.</givenName>
+			<familyName>Kelley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:kelley@gso.uri.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35229996900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:47</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>U isotopic compositions of volcanic rocks, altered oceanic crust, and detrital sediments</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Sediment</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Ocean Island/Plateau</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">OIB</subject>
+		<subject subjectScheme="material">MORB</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">Indian Ocean</subject>
+		<subject subjectScheme="place">Mariana arc</subject>
+		<subject subjectScheme="place">Atlantic Ocean</subject>
+		<subject subjectScheme="subject">Altered oceanic crust</subject>
+		<subject subjectScheme="topic detail">subduction</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-10-30 17:20:28.770272</date>
+		<date dateType="Available">2014-12-15</date>
+		<date dateType="Created">2014-10-30T17:20:28.770272</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:802</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=802</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/nature14062</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0003</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0004</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0005</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0006</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0009</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000L</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000M</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000N</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000R</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000S</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0010</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0011</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0012</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0013</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0014</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0016</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0017</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0018</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0019</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0001</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0007</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000O</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000T</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA000Z</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA0015</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:IEMBA001A</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Compilation consists of 235U/238U and 234U/238U compositions of a range of samples including Ocean Island Basalts, Mid-Ocean ridge basalt glasses, ocean-floor volcaniclastics and altered oceanic crust. These samples provide a data-set to constrain the U isotopic composition in different materials on Earth.</description>
+		<description descriptionType="Other">Related publications: Andersen, Morten; Elliott, Tim; Freymuth, Heye; Sims, Kenneth; Niu, Yaoling; Kelley, Katherine (2015) The terrestrial U isotope cycle. Nature 517, pgs. 356-359. doi: 10.1038/nature14062.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Pacific Ocean, Indian Ocean, Atlantic Ocean, Mariana arc</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100452</identifier>
+	<creators>
+		<creator>
+			<creatorName>Graham,David W.</creatorName>
+			<givenName>David W.</givenName>
+			<familyName>Graham</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:dgraham@coas.oregonstate.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-7411-1905</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55704314500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56954123500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:285</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Michael,Peter J.</creatorName>
+			<givenName>Peter J.</givenName>
+			<familyName>Michael</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:pjm@utulsa.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2829-9502</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35581532500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:11</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rubin,Kenneth H.</creatorName>
+			<givenName>Kenneth H.</givenName>
+			<familyName>Rubin</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:krubin@hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-8554-1337</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7101685371</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:337</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Helium and Carbon Isotopes in 2005-06 EPR Basalts</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">carbon isotopes</subject>
+		<subject subjectScheme="isotopes">helium isotopes</subject>
+		<subject subjectScheme="material">Carbon dioxide</subject>
+		<subject subjectScheme="material">MORB</subject>
+		<subject subjectScheme="place">EPR RIDGE 2000 Integrated Study Site</subject>
+		<subject subjectScheme="place">East Pacific Rise</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+		<subject subjectScheme="subject">vesicles</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-05-30 11:49:51.667858</date>
+		<date dateType="Available">2016-05-31</date>
+		<date dateType="Created">2014-05-30T11:49:51.667858</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:765</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=765</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900033</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900794</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900078</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900404</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900231</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906699</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00006P</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00006Q</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00006V</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00006Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000071</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000074</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000075</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000077</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000078</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007U</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007W</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007X</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007Y</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:MGD0002V8</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000070</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000079</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00007K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:MGD0001Y6</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Helium and carbon isotope compositions, and He and CO2 concentrations were measured in the vesicles of basalt glasses from the 1991-1992 and 2005-2006 eruptions at the RIDGE 2000 Integrated Study Site on the East Pacific Rise near 9°50’N. The sampling of the recent eruptions at the ISS offered a unique opportunity to study magma recharge along the mid-ocean ridge, to quantify the amount of degassing that occurred prior to and during eruption, and ultimately to evaluate the extent to which mantle carbon is incorporated into hydrothermal fluids and ultimately into seafloor ecosystems. The selected samples cover all stages of the 2005-2006 eruption as discerned from the 210Po-210Pb dating by K Rubin (U Hawaii), and also cover the spatial extent of what was collected via submersible and dredging. The same lava samples have been characterized by P Michael (U Tulsa) for vesicle abundances and size distributions, and for dissolved CO2 and H2O concentrations by FTIR.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Pacific Rise, EPR RIDGE 2000 Integrated Study Site</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-104.302255</westBoundLongitude>
+				<eastBoundLongitude>-104.279875</eastBoundLongitude>
+				<southBoundLatitude>9.606068</southBoundLatitude>
+				<northBoundLatitude>9.9087</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

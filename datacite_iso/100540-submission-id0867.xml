@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100540</identifier>
+	<creators>
+		<creator>
+			<creatorName>Weiss,Yaakov</creatorName>
+			<givenName>Yaakov</givenName>
+			<familyName>Weiss</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yweiss@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">24170384400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:739</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McNeill,John C.R.</creatorName>
+			<givenName>John C.R.</givenName>
+			<familyName>McNeill</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35095521000</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:752</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pearson,Graham D.</creatorName>
+			<givenName>Graham D.</givenName>
+			<familyName>Pearson</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56450115900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35248991300</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55667758400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">8160131800</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:753</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Nowell,Geoff M.</creatorName>
+			<givenName>Geoff M.</givenName>
+			<familyName>Nowell</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6701896478</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:754</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Ottley,Chris J.</creatorName>
+			<givenName>Chris J.</givenName>
+			<familyName>Ottley</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6701859383</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:755</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>High-density fluid microinclusions in diamonds from the Ekati mine and the Diavik Mine (Canada)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Craton</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Carbonatitic</subject>
+		<subject subjectScheme="material">Diamonds</subject>
+		<subject subjectScheme="material">High-density fluid</subject>
+		<subject subjectScheme="place">Slave Craton</subject>
+		<subject subjectScheme="place">Canada</subject>
+		<subject subjectScheme="place">Northwest Territories</subject>
+		<subject subjectScheme="topic detail">Saline</subject>
+		<subject subjectScheme="topic detail">Silicic</subject>
+		<subject subjectScheme="topic detail">subduction</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-06-17 13:16:48.29469</date>
+		<date dateType="Available">2015-08-28</date>
+		<date dateType="Created">2015-06-17T13:16:48.29469</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:867</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=867</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/nature14857</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Eleven microinclusion-bearing fibrous diamonds from the Fox kimberlite, Ekati mine, Northwest Territories, with either coated or cubic-like morphologies were analyzed for their major and trace element and Sr isotopic compositions.  High-density fluid (HDF) microinclusions of saline compositions were found in 9 of the diamonds and silicic compositions in 2 diamonds.  Some of the saline diamonds encapsulate also micro-mineral inclusions of their peridotite host rock (olivine, orthopyroxene, Cr-diopside and chromite); the silicic diamonds contain microinclusions of omphacitic clinopyroxene and are related to eclogite host.  Both saline and silicic HDFs are enriched in incompatible elements; they have fractionated REE patterns with elevated Ba, U, Th and LREE but depleted Nb, Ta and alkalis (K, Rb, and Cs).  The fractionated nature of these patterns are more pronounced in the saline HDFs, which are also characterized with positive Eu- and Sr-anomalies versus no Eu anomaly and negative Sr anomalies in the silicic fluids.  87Sr/86Sri in the saline HDFs are 0.7039-0.7090 compared to 0.7064 and 0.7111 in the two diamonds with silicic fluids.                            Also provided, the trace element composition of one diamonds from the Diavik mine, Canada.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Slave Craton, Northwest Territories, Canada</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-110.6194</westBoundLongitude>
+				<eastBoundLongitude>-110.2733</eastBoundLongitude>
+				<southBoundLatitude>64.4961</southBoundLatitude>
+				<northBoundLatitude>64.7136</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

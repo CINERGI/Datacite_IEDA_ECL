@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100444</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rubin,Kenneth H.</creatorName>
+			<givenName>Kenneth H.</givenName>
+			<familyName>Rubin</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:krubin@hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-8554-1337</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7101685371</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:337</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>210Po-210Pb Time series Isotopic Data and Eruption Ages for West Mata Boninite Lavas, 2008-2010</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Back Arc Basin</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="geochronology">Eruption Age</subject>
+		<subject subjectScheme="geochronology">210Po-210Pb dating</subject>
+		<subject subjectScheme="initiative">Rapid Response Expedition</subject>
+		<subject subjectScheme="place">Lau Basin</subject>
+		<subject subjectScheme="place">Kingdom of Tonga</subject>
+		<subject subjectScheme="place">NE Lau Basin</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="program">Ridge 2000 Time Critical Studies</subject>
+		<subject subjectScheme="program">Margins funded</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) related</subject>
+		<subject subjectScheme="topic detail">Submarine Volcanism</subject>
+		<subject subjectScheme="topic detail">Boninite Eruption</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-05-20 23:58:48.630626</date>
+		<date dateType="Available">2014-11-01</date>
+		<date dateType="Created">2014-05-20T23:58:48.630626</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:764</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=764</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/2014GC005387</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/903953</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/903993</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000018</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00001I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000020</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000021</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000022</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR00000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:KHR000109</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.zip  Zip Archive Compression</format>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">These are the data used to calculate eruption ages for lava samples collected at West Mata submarine volcano (NE Lau Basin) on the NE Lau Event Response Cruise (NELRC) in May 2009, which was sponsored by Ridge 2000 and Margins NSF programs.  One additional sample collected in 2012 has also been dated.</description>
+		<description descriptionType="Other">Related publications: Robert W. Embley, Susan G. Merle, Edward T. Baker, Kenneth H. Rubin, John E. Lupton, Joseph A. Resing, Robert P. Dziak ,Marvin D. Lilley, William W. Chadwick Jr., T. Shank, Ron Greene, Sharon L. Walker, Joseph Haxel, Eric Olson and Tamara Baumberger (2014) "Eruptive modes and hiatus of volcanism at West Mata seamount, NE Lau basin: 1996-2012." Geochem, Geophys, Geosys, 15(10): 4093-4115.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Kingdom of Tonga, NE Lau Basin, Pacific Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-173.7499427</westBoundLongitude>
+				<eastBoundLongitude>-173.747782</eastBoundLongitude>
+				<southBoundLatitude>-15.09546895</southBoundLatitude>
+				<northBoundLatitude>-15.093964</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100611</identifier>
+	<creators>
+		<creator>
+			<creatorName>Brantley,Susan L.</creatorName>
+			<givenName>Susan L.</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:sxb7@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Hoagland,Beth</creatorName>
+			<givenName>Beth</givenName>
+			<familyName>Hoagland</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1171</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sullivan,Pamela L.</creatorName>
+			<givenName>Pamela L.</givenName>
+			<familyName>Sullivan</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:155</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Cain,Molly</creatorName>
+			<givenName>Molly</givenName>
+			<familyName>Cain</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1173</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Neal,Andrew</creatorName>
+			<givenName>Andrew</givenName>
+			<familyName>Neal</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1174</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fisher,Jessica</creatorName>
+			<givenName>Jessica</givenName>
+			<familyName>Fisher</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1175</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Russo,Tess</creatorName>
+			<givenName>Tess</givenName>
+			<familyName>Russo</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1176</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory - Shaver's Creek Watershed Stream Chemistry (2014)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2018</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">DOC</subject>
+		<subject subjectScheme="constituent">major ions</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="place">Shaver's Creek Watershed</subject>
+		<subject subjectScheme="subject">Solute chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-08-09 10:21:10.347146</date>
+		<date dateType="Available">2018-08-15</date>
+		<date dateType="Created">2016-08-09T10:21:10.347146</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:966</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=966</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.5194/esurf-4-211-2016</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Chemistry for water samples collected from the Shaver's Creek Watershed are presented as part of Shale Hills Critical Zone Observatory research. Water samples were collected from 2 subcatchments in the watershed: Shale Hills (SH) and Garner Run (GR). Samples were also collected from three sites along the mainstem of Shaver's Creek: above Lake Perez (SCAL), below Lake Perez (SCBL), and near the stream outlet (SCO).  Grab samples were collected from the stream sites on a bi-weekly to monthly basis during 2014. Samples were processed for major cations, anions, and general physiochemical parameters as soon as possible following collection. This work was funded by NSF Critical Zone Observatory program grants to C. Duffy (EAR 07-25019) and S. L. Brantley (EAR 12-39285, EAR 13-31726). &#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Brantley, S. L., DiBiase, R. A., Russo, T. A., Shi, Y., Lin, H., Davis, K. J., Kaye, M., Hill, L., Kaye, J., Eissenstat, D. M., Hoagland, B., Dere, A. L., Neal, A. L., Brubaker, K. M., and Arthur, D. K (2016): Designing a suite of measurements to understand the critical zone. Earth Surface Dynamics 4: 211-235</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Shaver's Creek Watershed, Pennsylvania &#x0d;
+			</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

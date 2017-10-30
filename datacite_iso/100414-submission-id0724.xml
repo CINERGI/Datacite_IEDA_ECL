@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100414</identifier>
+	<creators>
+		<creator>
+			<creatorName>Von Damm,Karen L.</creatorName>
+			<givenName>Karen L.</givenName>
+			<familyName>Von Damm</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6701353299</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56838007700</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:38</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Prado,M. Florencia</creatorName>
+			<givenName>M. Florencia</givenName>
+			<familyName>Prado</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:39</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bryce,Julie G.</creatorName>
+			<givenName>Julie G.</givenName>
+			<familyName>Bryce</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:julie.bryce@unh.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">36070490600</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005244765</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:20</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemistry of vents in the Seacliff and Escanaba Hydrothermal Fields (2000 and 2002)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="place">Escanaba</subject>
+		<subject subjectScheme="place">Gorda Ridge</subject>
+		<subject subjectScheme="place">Sea Cliff</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-12-19 14:32:12.324623</date>
+		<date dateType="Available">2014-01-01</date>
+		<date dateType="Created">2013-12-19T14:32:12.324623</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:724</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=724</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2005GC001034</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Chemical data on individual samples taken from hydrothermal vents at Escanaba and Sea Cliff, Gorda Ridge, during the 2000 and 2002 Tiburon cruises. Chemistry data is from the Von Damm archives. The errors on the measurements are according to the methods discussed in Von Damm (1985) and Von Damm (2000).</description>
+		<description descriptionType="Other">Related publications: Von Damm, K. L., C. M. Parker, M. D. Lilley, D. A. Clague, R. A. Zierenberg, E. J. Olson, and J. S. McClain (2006), Chemistry of vent fluids and its implications for subsurface conditions at Sea Cliff hydrothermal field, Gorda Ridge, Geochem. Geophys. Geosyst., 7, Q05005, doi:10.1029/2005GC001034.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Gorda Ridge, Escanaba, Sea Cliff</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

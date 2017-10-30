@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100566</identifier>
+	<creators>
+		<creator>
+			<creatorName>Sauvage,Justine F.</creatorName>
+			<givenName>Justine F.</givenName>
+			<familyName>Sauvage</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:justine_sauvage@my.uri.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:624</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>DHondt,Steven</creatorName>
+			<givenName>Steven</givenName>
+			<familyName>DHondt</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56878711900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:635</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pockalny,Robert</creatorName>
+			<givenName>Robert</givenName>
+			<familyName>Pockalny</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:874</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Sulfate anomaly (dissolved) measurements of marine sediment from Long Core Expedition KN195-03</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Marine Sediments</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">Dissolved Sulfate Anomaly</subject>
+		<subject subjectScheme="cruise">KN195-03</subject>
+		<subject subjectScheme="Feature Instance">Long Core</subject>
+		<subject subjectScheme="material">pore water</subject>
+		<subject subjectScheme="place">Equatorial and North Pacific</subject>
+		<subject subjectScheme="platform">RV Knorr</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-10-09 13:15:12.097506</date>
+		<date dateType="Available">2015-10-15</date>
+		<date dateType="Created">2015-10-09T13:13:29.261155</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:902</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=902</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900496</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The KN195-03 research cruise on board the R/V Knorr (Chief scientist Steven D’Hondt) took place in January-February 2009 and had as primary objective to test and refine quantitative models for the magnitude and geographic distribution of subseafloor biomass and organic-fueled subseafloor respiration. Sediment cores were taken at thirteen sites across the equatorial Pacific and the North Pacific Gyre. Knowledge of the chemical composition of the porewater throughout the collected cores is fundamental to answer the driving research questions of this scientific expedition. The shipboard geochemistry laboratory generated interstitial waters by squeezing 597 individual samples, and by extracting an additional 153 solutions by Rhizon sampling. Due to the time needed to analyze this very high number of samples, not all were analyzed for each dissolved constituent. We present here the shipboard porewater sulfate anomaly dataset (from which dissolved sulfate can be calculated) measured by ion chromatography.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Equatorial and North Pacific</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-157.871</westBoundLongitude>
+				<eastBoundLongitude>-86.189645</eastBoundLongitude>
+				<southBoundLatitude>-4.23900333333333</southBoundLatitude>
+				<northBoundLatitude>30.3548966666667</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

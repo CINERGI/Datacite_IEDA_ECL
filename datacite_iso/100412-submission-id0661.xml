@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100412</identifier>
+	<creators>
+		<creator>
+			<creatorName>Dick,Henry J.B.</creatorName>
+			<givenName>Henry J.B.</givenName>
+			<familyName>Dick</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hdick@whoi.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0225-1439</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7103029414</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57072840100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:21</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>A Field Guide to the Rough Description of Abyssal Dredge Hauls</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Text">Text</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Petrography</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="instrument">dredge</subject>
+		<subject subjectScheme="method">manual</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-07-11 16:59:42.939441</date>
+		<date dateType="Available">2014-01-01</date>
+		<date dateType="Created">2013-07-11T16:59:42.939441</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:661</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=661</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This document is a rough guide to the description of rock dredges developed over the course of many cruises. It is provided to allow uniform semiquantitative spreadsheet description of sea floor samples.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

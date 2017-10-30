@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100206</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: Galapagos Spreading Center 86W, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection. Edmond (1979a,b,c), Corliss (1979), Dymond (1983), Jenkins (1978), Johnson (1986), Krishnaswami and Turekian (1982), Lilley (1982), Lilley (1983), McDuff and Edmond (1982), Mortlock (1993), Von Damm (1990)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Galapagos Spreading Center 86W</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-10 15:36:11.719589</date>
+		<date dateType="Available">2012-09-21</date>
+		<date dateType="Created">2012-09-10T15:36:11.719589</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:309</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=309</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from Galapagos Spreading Center 86W – Raw and end-member data for major, minor, and trace species, transition metals, U, dissolved gases, nutrients, and isotopes of He, Rn, Ra, U, and Pb.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”). For more information about this compilation, please see "Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library" (M. Mottl), available at www.earthchem.org/library. </description>
+		<description descriptionType="Other">Related publications: Edmond, J.M., C. Measures, R.E. McDuff, L.H. Chan, R. Collier, B. Grant, L.I Gordon, and J.B. Corliss (1979a), Ridge crest hydrothermal activity and the balances of the major and minor elements in the ocean: the Galapagos data, Earth and Planetary Science Letters, 46, 1-18&#x0d;
+&#x0d;
+Corliss, J.B., J. Dymond, L.I. Gordon, J.M. Edmond, R.P Von Herzen, R.D. Ballard, K. Green, D. Williams, A. Bainbridge, K. Crane, and Tj.H. van Andel (1979), Submarine thermal springs on the Galapagos Rift, Science, 203, 1073-1083&#x0d;
+&#x0d;
+Dymond, J., R. Cobler, L. Gordon, P. Biscaye, and G. Mathieu (1983), 226Ra and 222Rn contents of Galapagos Rift hydrothermal waters--the importance of low-temperature interactions with crustal rocks, Earth and Planetary Science Letters, 64, 417-429&#x0d;
+&#x0d;
+Edmond, J.M., C. Measures, B. Mangum, B. Grant, F.R. Sclater, R. Collier, A. Hudson, L.I gordon, and J.B. Corliss (1979b), On the formation of metal-rich deposits at ridge crests, Earth and Planetary Science Letters, 46, 19-30&#x0d;
+&#x0d;
+Edmond, J.M, J. B. Corliss, and L. I. Gordon (1979c), “Ridge-crest hydrothermal metamorphism at the Galapagos spreading center and reverse weathering”,  Deep Drilling Results in the Atlantic Ocean: Ocean Crust, Maurice Ewing Series, 2, 383-390&#x0d;
+&#x0d;
+Jenkins, W.J., J.M. Edmond, and J.B. Corliss (1978), Excess 3He and 4He in Galapagos submarine hydrothermal waters, Nature, 272, 156-158&#x0d;
+&#x0d;
+Johnson, K.S., C.L Beehler, C.M. Sakamoto-arnold, and J.J. Childress (1986), In situ measurements of chemical distributions in a deep-sea hydrothermal vent field, Science, 231, 1139-1141&#x0d;
+&#x0d;
+Krishnaswami, S. and K.K. Turekian (1982), 238U, 226Ra, and 210Pb in some vent waters of the Galapagos spreading center, Geophysical Research Letters, 9, 827-830&#x0d;
+&#x0d;
+Lilley, M.D., M.A. de Angelis, and L.I. Gordon (1982), Methane, hydrogen, carbon monoxide and nitrous oxide in submarine hydrothermal vent waters, Nature, 300, 48-50&#x0d;
+&#x0d;
+Lilley, M.D., J.A. Baross, and L.I. Gordon (1983), Reduced gases and bacteria in hydrothermal fluids: the Galapagos spreading center and 21°N East Pacific Rise, Hydrothermal Processes at Seafloor Spreading Centers (eds. P.A. Rona, K. Bostrom, L. Laubier, and K.L. Smith, Jr.), NATO Conference Series IV: Marine Sciences, Vol. 12, 411-449&#x0d;
+&#x0d;
+McDuff, R.E. and J.M. Edmond (1982), On the fate of sulfate during hydrothermal circulation at mid-ocean ridges, Earth and Planetary Science Letters, 57, 117-132&#x0d;
+&#x0d;
+Mortlock, R.A., P.N. Froelich, R.A. Feely, G.J. Massoth, D.A. Butterfield, and J.E. Lupton (1993), Silica and germanium in Pacific Ocean hydrothermal vents and plumes, Earth and Planetary Science Letters, 119, 365-378&#x0d;
+&#x0d;
+Von Damm, K.L. (1990), Seafloor hydrothermal activity: black smoker chemistry and chimneys, Annual Reviews of Earth and Planetary Science, 18, 173-204&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Galapagos Spreading Center 86W, Pacific Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-86.232</westBoundLongitude>
+				<eastBoundLongitude>-86.023</eastBoundLongitude>
+				<southBoundLatitude>0.787</southBoundLatitude>
+				<northBoundLatitude>0.808</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

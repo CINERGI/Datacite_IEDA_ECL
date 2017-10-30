@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100280</identifier>
+	<creators>
+		<creator>
+			<creatorName>Friedrich,Ronny</creatorName>
+			<givenName>Ronny</givenName>
+			<familyName>Friedrich</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:friedrich@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:94</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Schlosser,Peter</creatorName>
+			<givenName>Peter</givenName>
+			<familyName>Schlosser</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:schlosser@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:92</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Data Report Stable Isotope Analysis: HLY1003</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="cruise">HLY1003</subject>
+		<subject subjectScheme="isotopes">delta 18O</subject>
+		<subject subjectScheme="isotopes">delta D</subject>
+		<subject subjectScheme="isotopes">stable isotope</subject>
+		<subject subjectScheme="organization">ldeo</subject>
+		<subject subjectScheme="place">Arctic Ocean</subject>
+		<subject subjectScheme="place">Beaufort Sea</subject>
+		<subject subjectScheme="platform">RV Healy</subject>
+		<subject subjectScheme="topic detail">etg</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-06-18 12:41:57.878804</date>
+		<date dateType="Available">2013-07-01</date>
+		<date dateType="Created">2013-06-18T12:41:57.878804</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:656</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=656</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/902408</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Delta-18O and Delta-D ratio measurements of water from the "HLY1003" project.  155 samples collected in September 2009 on the research vessel Healy in the Beaufort Sea/Arctic Ocean.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Beaufort Sea, Arctic Ocean</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

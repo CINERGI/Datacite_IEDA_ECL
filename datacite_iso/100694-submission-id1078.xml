@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100694</identifier>
+	<creators>
+		<creator>
+			<creatorName>Garrison,Jennifer M.</creatorName>
+			<givenName>Jennifer M.</givenName>
+			<familyName>Garrison</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jgarris@calstatela.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2024</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sims,Kenneth W.W.</creatorName>
+			<givenName>Kenneth W.W.</givenName>
+			<familyName>Sims</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2040</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Yogodzinski,Gene</creatorName>
+			<givenName>Gene</givenName>
+			<familyName>Yogodzinski</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2041</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mothes,Patricia</creatorName>
+			<givenName>Patricia</givenName>
+			<familyName>Mothes</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2042</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Hall,Minard</creatorName>
+			<givenName>Minard</givenName>
+			<familyName>Hall</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2043</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Scott,Sean S.</creatorName>
+			<givenName>Sean S.</givenName>
+			<familyName>Scott</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2044</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Escobar,Ricardo</creatorName>
+			<givenName>Ricardo</givenName>
+			<familyName>Escobar</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2045</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Ramon,Patricio</creatorName>
+			<givenName>Patricio</givenName>
+			<familyName>Ramon</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2046</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Isotope analyses of volcanic rocks from Sumaco Volcano, Ecuador</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">isotope</subject>
+		<subject subjectScheme="material">phonolite</subject>
+		<subject subjectScheme="place">Sumaco</subject>
+		<subject subjectScheme="place">Ecuador</subject>
+		<subject subjectScheme="subject">rear-arc</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-21 10:43:22.317936</date>
+		<date dateType="Available">2017-07-01</date>
+		<date dateType="Created">2017-06-21T10:43:22.317936</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1078</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1078</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">87Sr/86Sr and 143Nd/144Nd isotope data from alkaline lavas and basement samples from Sumaco Volcano, Ecuador. Collected during a 2010 field season, analyzed at the University of Wyoming HR-ICP-MS lab.</description>
+		<description descriptionType="Other">Related publications: Escobar RD, Garrison JM, Sims KWW, Matthews TP, Yogodzinski GM (2012) Geochemistry and petrogenetic history of lavas from Sumaco Volcano, Northern Volcanic Zone, Ecuador. AGU Fall meeting</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Ecuador</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.729063</westBoundLongitude>
+				<eastBoundLongitude>-77.562345</eastBoundLongitude>
+				<southBoundLatitude>-0.721992</southBoundLatitude>
+				<northBoundLatitude>-0.54212</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

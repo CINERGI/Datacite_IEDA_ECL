@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100538</identifier>
+	<creators>
+		<creator>
+			<creatorName>de Leeuw,G. A.M.</creatorName>
+			<givenName>G. A.M.</givenName>
+			<familyName>de Leeuw</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">11939793500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:701</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Hilton,David R.</creatorName>
+			<givenName>David R.</givenName>
+			<familyName>Hilton</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0322-7051</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7102093325</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56462241100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:722</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fischer,Tobias P.</creatorName>
+			<givenName>Tobias P.</givenName>
+			<familyName>Fischer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:fischer@unm.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7402051549</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:723</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>The He–CO2 isotope and relative abundance characteristics of geothermal fluids in El Salvador and Honduras: New constraints on volatile mass balance of the Central American Volcanic Arc</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">helium</subject>
+		<subject subjectScheme="constituent">carbon</subject>
+		<subject subjectScheme="IEDA Feature of Interest">subduction zone</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Central America</subject>
+		<subject subjectScheme="place">El Salvador</subject>
+		<subject subjectScheme="place">Honduras</subject>
+		<subject subjectScheme="subject">geothermal</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-04-16 19:39:33.334618</date>
+		<date dateType="Available">2015-05-15</date>
+		<date dateType="Created">2015-04-16T19:39:33.334618</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:861</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=861</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.epsl.2007.03.028</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This data set contains helium and carbon isotope data collected from fumaroles, hot springs, water springs, mud-pots and geothermal wells from El Salvador and Honduras from 2002-2003.</description>
+		<description descriptionType="Other">Related publications: G. A. M.  de Leeuw,  D. R. Hilton, T. P. Fischer, and J. A. Walker (2007), “The He-CO2 isotope and relative abundance characteristics of geothermal fluids in El Salvador and Honduras: new constraints on volatile mass balance of the Central American Volcanic Arc.”, Earth and Planet. Sci. Let., 158:132-146.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Central America, Honduras, El Salvador</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-92.108</westBoundLongitude>
+				<eastBoundLongitude>-84.231</eastBoundLongitude>
+				<southBoundLatitude>10.198</southBoundLatitude>
+				<northBoundLatitude>15.78305</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

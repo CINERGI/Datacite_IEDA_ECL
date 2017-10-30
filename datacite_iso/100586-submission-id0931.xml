@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100586</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rose,Cassaundra</creatorName>
+			<givenName>Cassaundra</givenName>
+			<familyName>Rose</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:rose.cassaundra@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1029</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Polissar,Pratigya J.</creatorName>
+			<givenName>Pratigya J.</givenName>
+			<familyName>Polissar</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1030</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Tierney,Jessica E.</creatorName>
+			<givenName>Jessica E.</givenName>
+			<familyName>Tierney</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1031</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Filley,Tim</creatorName>
+			<givenName>Tim</givenName>
+			<familyName>Filley</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1032</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>deMenocal,Peter B.</creatorName>
+			<givenName>Peter B.</givenName>
+			<familyName>deMenocal</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1033</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Changes in northeast African hydrology and vegetation associated with Pliocene-Pleistocene sapropel cycles (ODP Leg 160)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Sediment</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">ODP Leg 160</subject>
+		<subject subjectScheme="isotopes">carbon isotopes</subject>
+		<subject subjectScheme="isotopes">hydrogen isotopes</subject>
+		<subject subjectScheme="material">sapropel</subject>
+		<subject subjectScheme="material">plant wax</subject>
+		<subject subjectScheme="place">Mediterranean Sea</subject>
+		<subject subjectScheme="platform">RV Joides Resolution</subject>
+		<subject subjectScheme="topic detail">biomarker</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-05-03 05:49:33.541849</date>
+		<date dateType="Available">2016-05-15</date>
+		<date dateType="Created">2016-05-03T05:48:14.12699</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:931</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=931</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1098/rstb.2015.0243</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">East African climate change since the late Miocene consisted of persistent shorter-term, orbital-scale wet-dry cycles superimposed upon a long-term trend towards more open, grassy landscapes. Either or both of these modes of paleoclimate variability may have influenced East African mammalian evolution, yet the interrelationship between these secular and orbital paleoclimate signals remains poorly understood.  Here, we explore whether the long-term secular climate change was accompanied by significant changes at the orbital-scale as well. We develop Northeast African hydroclimate and vegetation proxy data for two 100 kyr-duration windows near 3.05 Ma and 1.75 Ma at ODP Site 967 in the eastern Mediterranean basin where sedimentation is dominated by eastern Sahara dust input and Nile River runoff. These two windows were selected because they have comparable orbital configurations and bracket an important increase in East African C4 grasslands.  We conducted high-resolution (2.5 kyr sampling) multiproxy biomarker, H- and C-isotopic analyses of plant waxes and lignin phenols to document orbital-scale changes in hydrology, vegetation, and woody cover for these to intervals. Both intervals are dominated by large-amplitude, precession-scale (~20-kyr) changes in Northeast African vegetation and rainfall/runoff.  The δ13Cwax values and lignin phenol composition record a variable but consistently C4 grass-dominated ecosystem for both intervals (50-80% C4). Precessional δDwax cycles were approximately 20-30‰ in peak-to-peak amplitude, comparable to other δDwax records of the early Holocene African humid period.  There were no significant differences in the means or variances of the δDwax or δ13Cwax data for the 3.05 Ma and 1.75 Ma intervals studied, suggesting that the paleohydrology and paleovegetation responses to precessional forcing were similar for these two periods. These results suggest that the eastern Sahara did not experience the significant increase in C4 vegetation that has been observed in East Africa over this time period. This observation is consistent with a proposed mechanism of East African climate change whereby regional precipitation was reduced in response to the emergence of modern zonal tropical SST gradients between 3-2 Ma. </description>
+		<description descriptionType="Other">Related publications: Rose, C., P.J. Polissar, J.E. Tierney, T. Filley and P.B. deMenocal, 2016. Changes in Northeast African Hydrology and Vegetation Associated with Pliocene-Pleistocene Sapropel Cycles&#x0d;
+Philosophical Transactions of the Royal Society B. in press</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mediterranean Sea</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>32.725383</westBoundLongitude>
+				<eastBoundLongitude>32.725517</eastBoundLongitude>
+				<southBoundLatitude>34.0682333</southBoundLatitude>
+				<northBoundLatitude>34.0711667</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

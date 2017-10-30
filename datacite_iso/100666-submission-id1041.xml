@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100666</identifier>
+	<creators>
+		<creator>
+			<creatorName>Chorover,Jon</creatorName>
+			<givenName>Jon</givenName>
+			<familyName>Chorover</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:chorover@email.arizona.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1748</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Perdrial,Julia</creatorName>
+			<givenName>Julia</givenName>
+			<familyName>Perdrial</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1762</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Troch,Peter</creatorName>
+			<givenName>Peter</givenName>
+			<familyName>Troch</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1763</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Heidbuechel,Ingo</creatorName>
+			<givenName>Ingo</givenName>
+			<familyName>Heidbuechel</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1764</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Abramson,Nate</creatorName>
+			<givenName>Nate</givenName>
+			<familyName>Abramson</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1765</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Amistadi,Mary K.</creatorName>
+			<givenName>Mary K.</givenName>
+			<familyName>Amistadi</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1766</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pedron,Shawn A.</creatorName>
+			<givenName>Shawn A.</givenName>
+			<familyName>Pedron</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1767</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Santa Catalina Mountains - Marshall Gulch Soil Solution Chemistry 2009-2010 (Arizona, USA)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Soil</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Terrestrial Hydrosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">Aluminum</subject>
+		<subject subjectScheme="constituent">potassium</subject>
+		<subject subjectScheme="constituent">Praseodymium</subject>
+		<subject subjectScheme="constituent">Samarium</subject>
+		<subject subjectScheme="constituent">Silicon</subject>
+		<subject subjectScheme="constituent">Sodium</subject>
+		<subject subjectScheme="constituent">sulfate</subject>
+		<subject subjectScheme="constituent">Terbium</subject>
+		<subject subjectScheme="constituent">Thulium</subject>
+		<subject subjectScheme="constituent">Ytterbium</subject>
+		<subject subjectScheme="constituent">Yttrium</subject>
+		<subject subjectScheme="constituent">Zinc</subject>
+		<subject subjectScheme="constituent">Cadmium</subject>
+		<subject subjectScheme="constituent">Calcium</subject>
+		<subject subjectScheme="constituent">carbon</subject>
+		<subject subjectScheme="constituent">Cations</subject>
+		<subject subjectScheme="constituent">Cerium</subject>
+		<subject subjectScheme="constituent">Chloride</subject>
+		<subject subjectScheme="constituent">Chromium</subject>
+		<subject subjectScheme="constituent">Cobalt</subject>
+		<subject subjectScheme="constituent">Copper</subject>
+		<subject subjectScheme="constituent">Dysprosium</subject>
+		<subject subjectScheme="constituent">Erbium</subject>
+		<subject subjectScheme="constituent">Europium</subject>
+		<subject subjectScheme="constituent">Fluoride</subject>
+		<subject subjectScheme="constituent">Gadolinium</subject>
+		<subject subjectScheme="constituent">Holmium</subject>
+		<subject subjectScheme="constituent">iron</subject>
+		<subject subjectScheme="constituent">Lanthanum</subject>
+		<subject subjectScheme="constituent">Lead</subject>
+		<subject subjectScheme="constituent">Lutetium</subject>
+		<subject subjectScheme="constituent">Magnesium</subject>
+		<subject subjectScheme="constituent">Manganese</subject>
+		<subject subjectScheme="constituent">Neodymium</subject>
+		<subject subjectScheme="constituent">Nickel</subject>
+		<subject subjectScheme="constituent">Nitrate</subject>
+		<subject subjectScheme="constituent">Nitrite</subject>
+		<subject subjectScheme="constituent">nitrogen</subject>
+		<subject subjectScheme="constituent">NO2</subject>
+		<subject subjectScheme="constituent">NO3</subject>
+		<subject subjectScheme="constituent">Phosphorus</subject>
+		<subject subjectScheme="material">pore water</subject>
+		<subject subjectScheme="material">Soil Water</subject>
+		<subject subjectScheme="material">Metals</subject>
+		<subject subjectScheme="method">Soil solution</subject>
+		<subject subjectScheme="parameter">Electrical conductivity</subject>
+		<subject subjectScheme="parameter">pH</subject>
+		<subject subjectScheme="place">Santa Catalina Mountains</subject>
+		<subject subjectScheme="place">Arizona</subject>
+		<subject subjectScheme="place">Marshall Gulch</subject>
+		<subject subjectScheme="subject">water chemistry</subject>
+		<subject subjectScheme="topic detail">Anions</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-03-23 19:34:51.368712</date>
+		<date dateType="Available">2017-04-01</date>
+		<date dateType="Created">2017-03-23T19:34:51.368712</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1041</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1041</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">In the Marshall Gulch of the Catalina-Jemez Critical Zone Observatory (CZO) there are installed 8 Soil Moisture suction cups in the schist site and 7 in the granite site in both convergent and divergent landscape positions. These soil solution samplers are co-located with piezometers measuring water table depth within the soil profile. Soil Moisture suction cups (SoilMoisture Equipment Corp., Santa Barbara, CA) are sampled with a suction of 70-80kpa and optimized for all chemistry analyses with the exception of dissolved organic matter in the case of the Soil Moisture ones (due to potential sorption of DOM on the porous ceramic material).&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Marshall Gulch, Santa Catalina Mountains, Arizona</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-110.770095</westBoundLongitude>
+				<eastBoundLongitude>-110.760722</eastBoundLongitude>
+				<southBoundLatitude>32.425384</southBoundLatitude>
+				<northBoundLatitude>32.429611</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100598</identifier>
+	<creators>
+		<creator>
+			<creatorName>Lopez,Taryn M.</creatorName>
+			<givenName>Taryn M.</givenName>
+			<familyName>Lopez</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tmlopez@alaska.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1073</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Tassi,Franco</creatorName>
+			<givenName>Franco</givenName>
+			<familyName>Tassi</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1079</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Capecchiacci,Francesco</creatorName>
+			<givenName>Francesco</givenName>
+			<familyName>Capecchiacci</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1080</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Fiebig,Jens</creatorName>
+			<givenName>Jens</givenName>
+			<familyName>Fiebig</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1081</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rizzo,Andrea L.</creatorName>
+			<givenName>Andrea L.</givenName>
+			<familyName>Rizzo</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2225-3781</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35222119400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1082</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Caliro,Stefano</creatorName>
+			<givenName>Stefano</givenName>
+			<familyName>Caliro</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1083</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Fumarole Composition of Mount Mageik and Trident Volcano, July 2013</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="Feature Instance">Katmai Volcanic Cluster</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="place">Trident volcano</subject>
+		<subject subjectScheme="place">Mount Mageik</subject>
+		<subject subjectScheme="place">Alaska Peninsula</subject>
+		<subject subjectScheme="place">Aleutian Arc</subject>
+		<subject subjectScheme="place">Katmai Volcanic Cluster</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-05-24 20:31:05.217937</date>
+		<date dateType="Available">2017-06-01</date>
+		<date dateType="Created">2016-05-24T20:30:24.362047</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:950</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=950</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.jvolgeores.2017.09.001</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Fumarole and steam condensate samples were collected from Mount Mageik and Trident volcano, Katmai Volcanic Cluster, Alaska in July 2013. Specifically, samples were collected from the northeast wall of the summit crater of Mount Mageik on 12 July 2013 (local time), and within the southeast flank fumarole field of Trident I on 16 July 2013. At each site, the following samples were collected: (1) total gas composition using a modified version of the Giggenbach method where samples were collected in 50 mL evacuated bottles containing 20 mL of a 0.15 M Cd(OH)2 and 4 M NaOH solution, (2) dry gas, and (3) steam condensate. The integrated analyses of these three samples from two locations at each of the two volcanoes are presented here.</description>
+		<description descriptionType="Other">Related publications: T. Lopez, F. Tassi, A. Aiuppa, B. Galle, A.L. Rizzo, J. Fiebig, F. Capecchiacci, G. Giudice, S. Caliro, G. Tamburello, Geochemical constraints on volatile sources and subsurface conditions at Mount Martin, Mount Mageik, and Trident Volcanoes, Katmai Volcanic Cluster, Alaska, Journal of Volcanology and Geothermal Research, Available online 9 September 2017, ISSN 0377-0273, https://doi.org/10.1016/j.jvolgeores.2017.09.001.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Alaska Peninsula, Aleutian Arc, Katmai Volcanic Cluster</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-155.24684</westBoundLongitude>
+				<eastBoundLongitude>-155.08412</eastBoundLongitude>
+				<southBoundLatitude>58.19316</southBoundLatitude>
+				<northBoundLatitude>58.231411</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

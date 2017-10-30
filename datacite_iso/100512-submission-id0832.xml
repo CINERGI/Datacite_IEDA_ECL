@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100512</identifier>
+	<creators>
+		<creator>
+			<creatorName>Menyailov,I. A.</creatorName>
+			<givenName>I. A.</givenName>
+			<familyName>Menyailov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:604</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Fumarolic Gases of Pyroclastic Flows of Bezymianny and Katmai (USA and Russia).</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Bezymianny volcano</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Katmai volcano</subject>
+		<subject subjectScheme="place">Kodiak Island Alaska</subject>
+		<subject subjectScheme="place">Mt. Katmai</subject>
+		<subject subjectScheme="place">Russia</subject>
+		<subject subjectScheme="place">United States</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-12-31 13:19:25.934168</date>
+		<date dateType="Available">2015-01-15</date>
+		<date dateType="Created">2014-12-31T13:19:25.934168</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:832</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=832</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This is a summary of chemical analyses of fumarole gases collected from Bezymianny volcano (Russia) from 1956 and 1965, in addition to chemical analyses of fumarole gases collected from Mt. Katmai, Kodiak Island Alaska in 1917 (Lovering, 1957). Analyses from 1917 and 1965 represent an average of fumarole samples from the respective volcano and year. Bezymianny samples from 1956 were collected by Dubika and Menyailov, 1965 samples were collected  by Borisov in 1966. All Bezymianny samples were analyzed by I. A. Menyailov of the USSR Science Academy.</description>
+		<description descriptionType="Other">Related publications: Menyailov, I.A., (1968), "Fumarolic Gases of Pyroclastic Flows of Bezymianny and Katmai." Volcanoes and Eruptions, Moscow, USSR Science Academy Publication, pp 78-81</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, USA, Kamchatka, Kodiak Island Alaska, Mt. Katmai, Bezymianny volcano, Katmai volcano</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>154.951667</westBoundLongitude>
+				<eastBoundLongitude>160.635811</eastBoundLongitude>
+				<southBoundLatitude>55.959475</southBoundLatitude>
+				<northBoundLatitude>58.279444</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100695</identifier>
+	<creators>
+		<creator>
+			<creatorName>Graham,David W.</creatorName>
+			<givenName>David W.</givenName>
+			<familyName>Graham</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:dgraham@coas.oregonstate.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-7411-1905</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55704314500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56954123500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:285</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Johnson,Kevin</creatorName>
+			<givenName>Kevin</givenName>
+			<familyName>Johnson</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2038</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Douglas-Priebe,Louise</creatorName>
+			<givenName>Louise</givenName>
+			<familyName>Douglas-Priebe</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2039</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major and Trace Element Analyses of Boomerang 06 Basalt Glasses (Southeast Indian Ridge)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="place">Southeast Indian Ridge</subject>
+		<subject subjectScheme="place">Amsterdam-St. Paul Plateau</subject>
+		<subject subjectScheme="place">Indian Ocean</subject>
+		<subject subjectScheme="subject">mid-ocean ridge</subject>
+		<subject subjectScheme="topic detail">partial melting</subject>
+		<subject subjectScheme="topic detail">hotspot-ridge interaction</subject>
+		<subject subjectScheme="topic detail">mantle heterogeneity</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-21 11:27:29.241915</date>
+		<date dateType="Available">2019-06-21</date>
+		<date dateType="Created">2017-06-21T11:24:16.755425</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1079</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1079</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2006GC001540</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major and Trace Elements in Basalt Glasses from the Boomerang 06 Expedition to the Southeast Indian Ridge (BMRG06MV). Major elements by electron microprobe analysis and trace elements by laser ablation ICP-MS.</description>
+		<description descriptionType="Other">Related publications: Graham, D. W., K. T. M Johnson, L. M. Douglas Priebe and J. E. Lupton (1999) Hotspot-ridge interaction along the Southeast Indian Ridge near Amsterdam and St. Paul islands: helium isotope evidence. Earth Planet. Sci. Lett. 167, 297-310.&#x0d;
+&#x0d;
+Scheirer, D. S., D. W. Forsyth, J. A. Conder, M. A. Eberle, S.-H. Hung, K. T. M. Johnson and D. W. Graham (2000) Anomalous seafloor spreading of the Southeast Indian Ridge near the Amsterdam-St. Paul Plateau. J. Geophys. Res. 105, 8243-8262.&#x0d;
+&#x0d;
+Johnson, K. T. M., D. W. Graham, K. H. Rubin, K. Nicolaysen, D. S. Scheirer, D. W. Forsyth, E. T. Baker and L. M. Douglas Priebe (2000) Boomerang Seamount: the active expression of the Amsterdam-St. Paul hotspot, Southeast Indian Ridge.  Earth Planet. Sci. Lett. 183, 245-259.&#x0d;
+&#x0d;
+Burnard, P. G., D. W. Graham and K. A. Farley (2002) Mechanisms of magmatic gas loss along the Southeast Indian Ridge and the Amsterdam-St. Paul Plateau. Earth Planet. Sci. Lett. 203, 131-148.&#x0d;
+&#x0d;
+Graham, D. W., J. Blichert-Toft, C. J. Russo, K. A. Rubin and F. Albarède (2006) Cryptic striations in the upper mantle revealed by hafnium isotopes in Southeast Indian Ridge basalts. Nature, 440, 199-202.&#x0d;
+&#x0d;
+Nicolaysen, K. E., F. A. Frey, J. J. Mahoney, K. T. M. Johnson and D. W. Graham (2007) Influence of the Amsterdam/St. Paul hotspot along the Southeast Indian Ridge between 77° and 88°E: correlations of Sr, Nd, Pb and He isotopic variations with ridge segmentation. Geochem. Geophys. Geosys. 7. doi:10.1029/2006GC001540.&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Southeast Indian Ridge, Amsterdam-St. Paul Plateau, Indian Ocean </geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>77.535</westBoundLongitude>
+				<eastBoundLongitude>88.042</eastBoundLongitude>
+				<southBoundLatitude>-42.863</southBoundLatitude>
+				<northBoundLatitude>-32.763</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

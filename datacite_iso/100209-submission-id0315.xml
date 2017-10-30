@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100209</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: EPR Guaymas, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection. Von Damm (1983), Bourles (1991), Campbell (1988), Campbell and Edmond (1989), Campbell (1994), Chan (1994), Chen (1986), Klinkhammer (1994), Pearson (2005), Piepgras (1985), Spivack (1987), Von Damm (1985)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">rare earth elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">EPR Guaymas</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-21 12:21:01.583668</date>
+		<date dateType="Available">2012-09-22</date>
+		<date dateType="Created">2012-09-21T12:21:01.583668</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:315</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=315</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from EPR Guaymas - Raw and end-member data for major, minor, and trace species, transition metals, U, rare earth elements, nutrients, and isotopes of Li, Be, B, C, Sr, and Pb.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”).  For more information about this compilation, please see “Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library” (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Von Damm, K.L. (1983), Chemistry of submarine hydrothermal solutions at 21°N, East Pacific Rise and Guaymas Basin, Gulf of California, Ph.D. thesis, WHOI-MIT Joint Program in Oceanography, 240 pp&#x0d;
+&#x0d;
+Bourles, D.L., G.M. Taisbeck, E.T. Brown, F. Yiou, and J.M. Edmond (1991), Beryllium isotope systematics of submarine hydrothermal systems, Earth and Planetary Science Letters, 105, 534-542&#x0d;
+&#x0d;
+Campbell, A.C., and J.M. Edmond (1989), Halide systematics of submarine hydrothermal vents, Nature, 342, 168-170&#x0d;
+&#x0d;
+Campbell, A.C., C.R. German, M.R. Palmer, T. Gamo, and J.M. Edmond (1994), Chemistry of hydrothermal fluids from Escanaba Trough, Gorda Ridge, U.S. Geological Survey Bulletin, 2022, 201-221&#x0d;
+&#x0d;
+Campbell, A.C., T.S. Bowers, C.I. Measures, K.Kl. Falkner, M. Khadem, and J.M. Edmond (1988), A time series of vent fluid compositions from 21oN, East Pacific Rise (1979, 1981, 1985), and the Guaymas Basin, Gulf of California (1982, 1985), Journal of Geophysical Research, 93, 4537-4549&#x0d;
+&#x0d;
+Chan, L.-H., J.M. Gieskes, C.-F. You, and J.M. Edmond (1994), Lithium isotope geochemistry of sediments and hydrothermal fluids of the Guaymas Basin, Gulf of California, Geochimica et Cosmochimica Acta, 58, 4443-4454&#x0d;
+&#x0d;
+Chen, J.H., G.J. Wasserburg, K.L. Von Damm, and J.M. Edmond (1986), The U-Th-Pb systematics in hot springs on the East Pacific Rise at 21°N and Guaymas Basin, Geochimica et Cosmochimica Acta, 50, 2467-2479&#x0d;
+&#x0d;
+Klinkhammer, G.P., H. Elderfield, J.M. Edmond, and A. Mitra (1994), Geochemical implications of rare earth element patterns in hydrothermal fluids from mid-ocean ridges, Geochimica et Cosmochimica Acta, 58, 5105-5113&#x0d;
+&#x0d;
+Pearson, A., J.S. Seewald, and T.I. Eglinton (2005), Bacterial incorporation of relict carbon in the hydrothermal environment of Guaymas Basin, Geochimica et Cosmochimica Acta, 69, 5477-5486&#x0d;
+&#x0d;
+Piepgras, D.J., and G.J. Wasserburg (1985), Strontium and neodymium isotopes in hot springs on the East Pacific Rise and Guaymas Basin, Earth and Planetary Science Letters, 72, 341-356&#x0d;
+&#x0d;
+Spivack, A.J., M.R. Palmer, and J.M. Edmond (1987), The sedimentary cycle of the boron isotopes, Geochimica et Cosmochimica Acta, 51, 1939-1949&#x0d;
+&#x0d;
+Von Damm, K.L., J.M. Edmond, C.I. Measures, and B. Grant (1985), Chemistry of submarine hydrothermal solutions at Guaymas Basin, Gulf of California, Geochmica et Cosmochimica Acta, 49, 2221-2237&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>EPR Guaymas, Pacific Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-111.5</westBoundLongitude>
+				<eastBoundLongitude>-111.372</eastBoundLongitude>
+				<southBoundLatitude>27</southBoundLatitude>
+				<northBoundLatitude>27.048</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

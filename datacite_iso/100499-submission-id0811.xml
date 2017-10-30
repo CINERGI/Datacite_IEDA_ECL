@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100499</identifier>
+	<creators>
+		<creator>
+			<creatorName>Naboko,C. I.</creatorName>
+			<givenName>C. I.</givenName>
+			<familyName>Naboko</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:570</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Summary of gas analyses and elemental spectral analyses of sublimates from Biloikai crater, a subsidiary volcano of Klyuchevskoy (Kamchatka, Russia), 1938-1939</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">rendered gas by-products</subject>
+		<subject subjectScheme="material">sublimates</subject>
+		<subject subjectScheme="material">vapor condensates</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="place">Russia</subject>
+		<subject subjectScheme="place">Klyuchevskaya</subject>
+		<subject subjectScheme="place">Klyuchevskoy</subject>
+		<subject subjectScheme="place">Biloikai Crater</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Klyuchev</subject>
+		<subject subjectScheme="subject">volcano</subject>
+		<subject subjectScheme="subject">lavaflow deposits</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-11-17 15:39:08.073667</date>
+		<date dateType="Available">2014-12-15</date>
+		<date dateType="Created">2014-11-17T15:39:08.073667</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:811</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=811</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This is a summary of geochemical analyses of fumarole gases and rendered gas by-products from lavaflows from Biloikai crater, a subsidiary crater of Klyuchevskvoy, by CI. Naboko of Kamachatka Volcanology Station 1938-1939. Spectral analyses of rendered gas by-products from a lava flow from Biloikai crater are non-quantitative and reported as detects only. Fumarole gas analyses are also from Biloikai crater and consist of H2O and HCl only. </description>
+		<description descriptionType="Other">Related publications: Naboko, C.I. (1948), "Concerning Water with Gas Products, Biloikai (Klyuchevskoy subsidiary crater)". Kamchatka Volcanology Station Bulletin, 12</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, Kamchatka, Klyuchevskaya, Klyuchev, Klyuchevskoy, Biloikai Crater</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>160.639006</pointLongitude>
+				<pointLatitude>56.057094</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

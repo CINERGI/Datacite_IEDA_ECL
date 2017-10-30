@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100703</identifier>
+	<creators>
+		<creator>
+			<creatorName>Salters,Vincent J.M.</creatorName>
+			<givenName>Vincent J.M.</givenName>
+			<familyName>Salters</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:salters@magnet.fsu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6603770775</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:30</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Zhou,Huaiyang</creatorName>
+			<givenName>Huaiyang</givenName>
+			<familyName>Zhou</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:salters@magnet.fsu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2110</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Isotope data for abyssal peridotites from the Southwest Indian Ridge along the Marion Rise</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Marion Rise</subject>
+		<subject subjectScheme="place">Marion Rise</subject>
+		<subject subjectScheme="place">Southwest Indian Ridge</subject>
+		<subject subjectScheme="subject">slow-spreading ridge</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-29 16:13:35.628588</date>
+		<date dateType="Available">2019-06-30</date>
+		<date dateType="Created">2017-06-29T16:13:35.628588</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1087</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1087</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Hf-Nd isotopic compositions and trace elements on abyssal peridotites and basalts.  Hf and Nd isotope  are done on hand-picked clinopyroxene separates. </description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>southwest Indian Ridge, Marion Rise</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>25.3266666666667</westBoundLongitude>
+				<eastBoundLongitude>46.2883333333333</eastBoundLongitude>
+				<southBoundLatitude>-63.93576</southBoundLatitude>
+				<northBoundLatitude>-39.715</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

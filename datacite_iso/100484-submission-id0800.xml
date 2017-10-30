@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100484</identifier>
+	<creators>
+		<creator>
+			<creatorName>De Boever,Maarten</creatorName>
+			<givenName>Maarten</givenName>
+			<familyName>De Boever</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:Maarten.DeBoever@UGent.be</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:525</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Meteorological and soil water/temperature dataset for Bou Hedma National Park (central Tunisia)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="environment">arid lands</subject>
+		<subject subjectScheme="environment">below-canopy</subject>
+		<subject subjectScheme="living thing">Acacia raddiana</subject>
+		<subject subjectScheme="place">National Park Bou Hedma (34° 39’ N and 9° 48’ E)</subject>
+		<subject subjectScheme="place">Tunisia</subject>
+		<subject subjectScheme="place">central Tunisia</subject>
+		<subject subjectScheme="topic detail">soil water balance</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-10-08 11:32:45.425476</date>
+		<date dateType="Available">2014-10-15</date>
+		<date dateType="Created">2014-10-08T11:32:45.425476</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:800</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=800</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Meteorological data (air temperature, relative humidity, solar radiation, wind speed and rainfall) underneath and outside the canopy of a Acacia raddiana tree recorded on a daily basis from 16 December 2012 till 31 May 2014. In addition, the dataset contains daily values of soil moisture content (at depths of 5, 15, 25 and 35 cm) and soil temperature (at 5 cm depth) for microsites M1, M2, M3, M4 (respectively at 25%, 75%, 125% and 175% of the canopy radius in the northern direction) and for microsite M5 (at least 10m away from the canopy) for the same monitoring period.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>National Park Bou Hedma (34° 39’ N and 9° 48’ E), central Tunisia&#x0d;
+			</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

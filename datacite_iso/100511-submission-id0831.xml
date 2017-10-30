@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100511</identifier>
+	<creators>
+		<creator>
+			<creatorName>Borisov,O. G.</creatorName>
+			<givenName>O. G.</givenName>
+			<familyName>Borisov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:583</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>State of fumaroles at Klyuchevskoy group and Shiveluch volcanoes from the period from August 1957 to October 1958 (Russia)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Bezymianny volcano</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Karan Dome</subject>
+		<subject subjectScheme="place">Klyuchev volcanic group</subject>
+		<subject subjectScheme="place">Klyuchevaya</subject>
+		<subject subjectScheme="place">Klyuchevskoy Volcano</subject>
+		<subject subjectScheme="place">Russia</subject>
+		<subject subjectScheme="place">Shiveluch Volcano</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-12-30 12:31:03.515284</date>
+		<date dateType="Available">2015-01-15</date>
+		<date dateType="Created">2014-12-30T12:31:03.515284</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:831</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=831</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This is a summary of fumarole gas analyses from Klyuchevskoy group volcanoes and Shiveluch volcano from August 1957 through October 1958. Fumarole gases and gas condesates were collected and analyzed by O.G. Kirsanov of the USSR Science Academy. </description>
+		<description descriptionType="Other">Related publications: Borisov, O.G., (1960), "State of fumaroles at Kluchevskoy group and Shiveluch volcanoes from the period from August 1957 to October 1958." USSR Volcaology Station Bulletin, 33:3-19</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, Kamchatka, Klyuchevskoy volcano, Klyuchevaya, Klyuchev volcanic group, Shiveluch volcano, Karan Dome, Bezymianny volcano</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>160.36</westBoundLongitude>
+				<eastBoundLongitude>160.639006</eastBoundLongitude>
+				<southBoundLatitude>55.959475</southBoundLatitude>
+				<northBoundLatitude>56.65</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

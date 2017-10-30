@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100715</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kim,Hyojin</creatorName>
+			<givenName>Hyojin</givenName>
+			<familyName>Kim</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hyojin820.kim@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2229</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Brantley,Susan L</creatorName>
+			<givenName>Susan L</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hyojin820.kim@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2230</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory - 2015 high-frequency water chemistry of the Shale Hills catchment</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Topic">Terrestrial Hydrosphere</subject>
+		<subject subjectScheme="constituent">major and minor cations</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="place">Shale Hills Catchment</subject>
+		<subject subjectScheme="subject">Solute chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-09-14 12:05:16.458365</date>
+		<date dateType="Available">2019-09-01</date>
+		<date dateType="Created">2017-09-14T12:05:16.458365</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1100</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1100</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Streamwater and groundwater samples were collected at relatively high frequencies using ISCO water samplers in the Shale Hills catchment in the Shale Hills Critical Zone Observatory.  The ISCO samplers were equipped with a gravitational filtration system, which filters water upon sampling by gravity.  All the samples were acidified using ultra-pure nitric acid (2% v/v).  This work was funded by NSF Critical Zone Observatory program grants to C. Duffy (EAR 07-25019) and S. L. Brantley (EAR 12-39285, EAR 13-31726). &#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Shale Hills Catchment, Pennsylvania&#x0d;
+			</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.9072458</westBoundLongitude>
+				<eastBoundLongitude>-77.9069969</eastBoundLongitude>
+				<southBoundLatitude>40.664761</southBoundLatitude>
+				<northBoundLatitude>40.6648488</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

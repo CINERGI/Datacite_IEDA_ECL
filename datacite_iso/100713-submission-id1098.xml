@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100713</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hin,Remco C.</creatorName>
+			<givenName>Remco C.</givenName>
+			<familyName>Hin</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:remco.hin@bristol.ac.uk</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2199</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Coath,Christopher D.</creatorName>
+			<givenName>Christopher D.</givenName>
+			<familyName>Coath</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2218</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Carter,Philip J.</creatorName>
+			<givenName>Philip J.</givenName>
+			<familyName>Carter</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2219</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Nimmo,Francis</creatorName>
+			<givenName>Francis</givenName>
+			<familyName>Nimmo</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2220</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Lai,Yi-Jen</creatorName>
+			<givenName>Yi-Jen</givenName>
+			<familyName>Lai</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2221</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Pogge von Strandmann,Philip A.E.</creatorName>
+			<givenName>Philip A.E.</givenName>
+			<familyName>Pogge von Strandmann</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2222</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Willbold,Matthias</creatorName>
+			<givenName>Matthias</givenName>
+			<familyName>Willbold</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2223</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Leinhardt,Zoë M.</creatorName>
+			<givenName>Zoë M.</givenName>
+			<familyName>Leinhardt</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2224</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Walter,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Walter</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2225</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Elliott,Tim</creatorName>
+			<givenName>Tim</givenName>
+			<familyName>Elliott</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2226</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Mass-dependent magnesium isotope compositions of Solar System material</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Space/Planetary</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Ocean Island/Plateau</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Meteorite</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Topic">Cosmos</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="data type">mass-dependent magnesium isotope compositions</subject>
+		<subject subjectScheme="material">achondrites</subject>
+		<subject subjectScheme="material">chondrites</subject>
+		<subject subjectScheme="material">terrestrial (ultra-)mafics</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-09-07 00:56:33.951623</date>
+		<date dateType="Available">2017-09-28</date>
+		<date dateType="Created">2017-09-07T00:56:33.951623</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1098</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1098</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/nature23899</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This data set contains bulk rock, mass-dependent magnesium isotope compositions of chondrites (carbonaceous, ordinary and enstatite) as well as (ultra-)mafic terrestrial rocks, Martian meteorites, diogenite meteorites, and an angrite. They were analysed to investigate Solar System heterogeneity and planet formation processes. All data were produced by wet chemical analysis on a multi-collector inductively coupled plasma mass spectrometer following separation of magnesium from its matrix through ion exchange chromatography in a clean laboratory. A 26Mg-25Mg double spike was added prior to analysis to overcome matrix effects during mass spectrometric analysis, ensuring the highest accuracy (&lt;0.005‰/amu) and precision (2 s.e.m. 0.010‰ or better). Terrestrial samples include two ocean island basalt geological reference materials (BHVO-2 and BIR-1), three mid-ocean ridge basalts,  a variety of lherzolites and harzburgites, and Japanese dunite reference material JP-1.</description>
+		<description descriptionType="Other">Related publications: Hin, R.C., Coath, C.D., Carter, P.J., Nimmo, F., Lai, Y-J., Pogge von Strandman, P.A.E., Willbold, M., Leinhardt, Z.M., Walter, M., Elliott, T., accepted. Implications of non-chondritic Mg isotope compositions of differentiated planetary bodies. Accepted for publication in Nature. </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+			<geoLocationBox>
+				<westBoundLongitude>-104.28368</westBoundLongitude>
+				<eastBoundLongitude>57</eastBoundLongitude>
+				<southBoundLatitude>-29</southBoundLatitude>
+				<northBoundLatitude>9.79243333</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

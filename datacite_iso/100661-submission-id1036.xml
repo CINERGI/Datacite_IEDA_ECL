@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100661</identifier>
+	<creators>
+		<creator>
+			<creatorName>Ludin,Andrea</creatorName>
+			<givenName>Andrea</givenName>
+			<familyName>Ludin</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:aludin@enotrac.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1703</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Weppernig,Ralf</creatorName>
+			<givenName>Ralf</givenName>
+			<familyName>Weppernig</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1735</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Boenisch,Gerhard</creatorName>
+			<givenName>Gerhard</givenName>
+			<familyName>Boenisch</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1736</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Schlosser,Peter</creatorName>
+			<givenName>Peter</givenName>
+			<familyName>Schlosser</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:schlosser@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:92</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Mass Spectrometric Measurement of Helium Isotopes and Tritium in Water Samples</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Text">Text</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="geochronology">Groundwater Age</subject>
+		<subject subjectScheme="instrument">Mass spectrometry</subject>
+		<subject subjectScheme="isotopes">Neon Isotopes</subject>
+		<subject subjectScheme="isotopes">Tritium</subject>
+		<subject subjectScheme="isotopes">helium isotopes</subject>
+		<subject subjectScheme="subject">hydrology</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+		<subject subjectScheme="subject">limnology</subject>
+		<subject subjectScheme="subject">Oceanography</subject>
+		<subject subjectScheme="topic detail">environmental tracers</subject>
+		<subject subjectScheme="topic detail">Air-Water Gas Exchange</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-03-03 16:44:05.99943</date>
+		<date dateType="Available">2017-03-15</date>
+		<date dateType="Created">2017-02-24T13:52:13.020264</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1036</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1036</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The design, setup and routine performance of systems for mass spectrometric measurement of Helium isotopes and Tritium of water samples by the He-3 ingrowth method are described using two systems operated in the noble gas laboratory of the Lamont-Doherty Earth Observatory as examples.</description>
+		<description descriptionType="Other">Related publications: SELECTED PUBLICATIONS: OCEANOGRAPHY &#x0d;
+&#x0d;
+1.	Schlosser, P., Bayer, R., Boenisch, G., Cooper, L., Ekwurzel, B., Jenkins, W.J., Khatiwala, S., Pfirman, S., and Smethie, W.M., Jr., (1999), "Pathways and mean residence times of dissolved pollutants in the ocean derived from transient tracers and stable isotopes." Science of the Total Environment, 237/238: 15-30&#x0d;
+&#x0d;
+2.	Ekwurzel, B., Schlosser, P., Swift, J.H., Mortlock, R.A., and Fairbanks, R.F., (2001), "River runoff, sea ice meltwater, and Pacific water distribution and mean residence times in the Arctic Ocean." Journal of Geophysical Research, 106: 9075-9092&#x0d;
+&#x0d;
+3.	Khatiwala, S., Visbeck, M., and Schlosser, P., (2001), "Age tracers in an ocean GCM." Deep-Sea Research, 48: 1423-1441&#x0d;
+&#x0d;
+4.	Hohmann, R., Schlosser, P., Jacobs, S.S., Ludin, A., and Weppernig, R., (2002), "Excess helium and neon in the Southeast Pacific: tracers for glacial meltwater." Journal of Geophysical Research, 107(C11)&#x0d;
+&#x0d;
+5.	Hohmann, R., Schlosser, P., and Huber, B., (2003), "He-3 and dissolved oxygen balances in the upper waters of the Weddell Sea: implications for oceanic heat fluxes." Journal of Geophysical Research-Oceans, 108(C3087) &#x0d;
+&#x0d;
+6.	Srinivasan, A., Top, Z., Schlosser, P., Hohmann, R., Iskandarani, M., Olson, D.B., Lupton, J.L., and Jenkins, W.J., (2004), "Mantle He-3 distribution and deep circulation in the Indian Ocean." Journal of Geophysical Research, 109(C6)&#x0d;
+&#x0d;
+7.	Loose, B., Schlosser, P., Smethie, W.M., Jr., and Jacobs, S., (2009), "An optimized estimate of glacial melt from the Ross Ice Shelf, using noble gases, stable isotopes and CFC transient tracers." Journal of Geophysical Research-Oceans, 114(C08007)&#x0d;
+&#x0d;
+8.	Bianchi, D., Jorge L. Sarmiento, J.L., Gnanadesikan, A., Key, R., Schlosser, P., Newton, R., (2010), "Simulations of oceanic He-3 distribution suggest low rates of mantle degassing." Earth and Planetary Science Letters, 297: 379-386&#x0d;
+&#x0d;
+9.	Mauldin, A., P. Schlosser, R. Newton, W. M. Smethie Jr., R. Bayer, M. Rhein, P.E. Jones, (2010), "The velocity and mixing timescale of the Arctic Ocean Boundary Current estimated with transient tracers." Journal of Geophysical Research Oceans, 115(C08002)&#x0d;
+&#x0d;
+10.	Winckler, G., R. Newton, P. Schlosser, and T. J. Crone, (2010), "Mantle helium reveals Southern Ocean hydrothermal venting." Geophys. Res. Lett., 37(L05601)&#x0d;
+&#x0d;
+11.	Loose, B., and P. Schlosser, (2011), "Sea ice and its effect on CO2 transport between the atmosphere and the Southern Ocean interior." Journal of Geophysical Research, 116(C11019)&#x0d;
+&#x0d;
+&#x0d;
+SELECTED PUBLICATIONS: HYDROLOGY/AIR-WATER EXCHANGE&#x0d;
+&#x0d;
+1.	Rowe, G.L., Dunkle Shapiro, S., and Schlosser, P., (1999), "Use of environmental tracers to evaluate ground-water age and water quality trends in a buried-valley aquifer, Dayton, Ohio." Water-Resources Investigations Report 99-4113, U.S. Geological Survey, 81 pp.&#x0d;
+&#x0d;
+2.	Zheng, Y., Stute, M., van Geen, A., Gavrieli, I., Dhar, R., Simpson, H.J., Schlosser, P., and Ahmed, K.M., (2004), "Redox control of arsenic mobilization in Bangladesh groundwater." Applied Geochemistry, 19 (2): 201-214&#x0d;
+&#x0d;
+3.	Ho, D.T., R. Wanninkhof, P. Schlosser, D.S. Ullman, D. Hebert, K.F. Sullivan, (2011), "Towards a universal relationship between wind speed and gas exchange: Gas transfer velocities measured with He-3/SF-6 during the Southern Ocean Gas Exchange Experiment." Journal of Geophysical Research, 116(C00F04) &#x0d;
+&#x0d;
+4.	Yager, R., Plummer, N., Kauffman, L., Doctor, D., Nelms, D., and Schlosser, P., (2013), "Comparison of Age Distributions Estimated From Environmental Tracer Concentrations and Numerical Simulation in Fractured and Folded Karst: Shenandoah Valley of Virginia and West Virginia." Hydrogeology Journal, 21 (6): 1193-1217&#x0d;
+&#x0d;
+5.	Arslan, S., H. Yazicigil, M. Stute, P. Schlosser, and W. M. Smethie, Jr., (2014), "Analysis of groundwater dynamics in the complex aquifer system of Kazan Trona, Turkey, using environmental tracers and noble gases." Hydrogeology Journal, 23(1): 175-194&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

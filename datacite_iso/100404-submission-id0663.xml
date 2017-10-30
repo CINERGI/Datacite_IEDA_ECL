@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100404</identifier>
+	<creators>
+		<creator>
+			<creatorName>Carr,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Carr</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:carr@rutgers.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7202321014</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:89</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Central America Volcanoes: Cerro Negro, Ilopango, Irazu, Telica, and Turrialba</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Text">Text</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="place">Nicaragua</subject>
+		<subject subjectScheme="place">Guatemala</subject>
+		<subject subjectScheme="place">Honduras</subject>
+		<subject subjectScheme="place">Central America</subject>
+		<subject subjectScheme="place">Costa Rica</subject>
+		<subject subjectScheme="place">El Salvador</subject>
+		<subject subjectScheme="subject">volcano</subject>
+		<subject subjectScheme="subject">education</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-07-24 12:35:19.740417</date>
+		<date dateType="Available">2013-08-15</date>
+		<date dateType="Created">2013-07-24T12:35:19.740417</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:663</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=663</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementedTo">doi:10.1594/IEDA/100409</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+		<format>.kml  Keyhole Markup Language</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Short write-ups and KML files of five volcanoes from the RU_CAGeoChem (Rutgers University Central America Geochemistry) database. The write-ups are general descriptions, aimed at the undergraduate level. They are background material for a MARGINS mini-lesson being created by Bob Stern and others. The KML files, when opened in Google Earth, show the sample locations. The volcanoes were selected to cover a range of compositions from basalt at Cerro Negro and Irazu, to rhyodacite at Ilopango. There is also a very large volcano, Irazu, a very small one, Cerro Negro, an intermediate size one, Telica, and a caldera, IIlopango. Turrialba has returned to activity after a long quiescence and so the Rutgers sample locations were placed in a kml file as well as a short description.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Central America, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

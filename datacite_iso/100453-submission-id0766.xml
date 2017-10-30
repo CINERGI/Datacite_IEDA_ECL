@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100453</identifier>
+	<creators>
+		<creator>
+			<creatorName>Katsev,Sergei</creatorName>
+			<givenName>Sergei</givenName>
+			<familyName>Katsev</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:skatsev@d.umn.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:345</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Water isotopes from Lake Kivu</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="isotopes">water isotopes</subject>
+		<subject subjectScheme="place">DRC</subject>
+		<subject subjectScheme="place">Lake Kivu</subject>
+		<subject subjectScheme="place">Rwanda</subject>
+		<subject subjectScheme="subject">hydrology</subject>
+		<subject subjectScheme="topic detail">meromixis</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-06-10 12:24:14.223123</date>
+		<date dateType="Available">2014-06-15</date>
+		<date dateType="Created">2014-06-10T12:24:14.223123</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:766</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=766</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">18O and 2H Isotopic analyses of water from main basin of Lake Kivu (Rwanda), Kabuno Bay (Democratic Republic of the Congo), inflowing river, rain, and hydrothermal hot spring. The purpose is to identify the sources of deep inflow into the lake and the lake mixing dynamics.</description>
+		<description descriptionType="Other">Related publications: Katsev S., A.A. Aaberg, S.A. Crowe, R.E. Hecky, Recent warming of Lake Kivu, PLOS ONE, submitted (2014).</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Lake Kivu, Rwanda, DRC</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>29.07</westBoundLongitude>
+				<eastBoundLongitude>29.276</eastBoundLongitude>
+				<southBoundLatitude>-1.78</southBoundLatitude>
+				<northBoundLatitude>-1.61</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

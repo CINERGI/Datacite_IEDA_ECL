@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100696</identifier>
+	<creators>
+		<creator>
+			<creatorName>Barker,Abigail K.</creatorName>
+			<givenName>Abigail K.</givenName>
+			<familyName>Barker</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:abigail.barker@geo.uu.se</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2047</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Muir,Duncan D.</creatorName>
+			<givenName>Duncan D.</givenName>
+			<familyName>Muir</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2054</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Majka,Jaroslaw M.</creatorName>
+			<givenName>Jaroslaw M.</givenName>
+			<familyName>Majka</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2055</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Troll,Valentin R.</creatorName>
+			<givenName>Valentin R.</givenName>
+			<familyName>Troll</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2056</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Precision and accuracy of glass analyses by electron microprobe (EMP) at Uppsala University</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">glass analyses</subject>
+		<subject subjectScheme="instrument">FEG-EMP</subject>
+		<subject subjectScheme="place">experimental glass</subject>
+		<subject subjectScheme="topic detail">accuracy</subject>
+		<subject subjectScheme="topic detail">precision</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-06-22 04:33:35.462968</date>
+		<date dateType="Available">2017-07-01</date>
+		<date dateType="Created">2017-06-22T04:26:53.688214</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1080</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1080</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2005GC001060</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.docx  Microsoft Word Document XML</format>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">In situ analysis of glass requires matrix-matched standards for timely assessment of the accuracy and precision of the results. We provide data to constrain the precision and accuracy of glass analyses by FEG-EMP at Uppsala University. Seven of the DING glasses that represent a broad spectrum of compositions were used to test for accuracy and precision (Jochum et al., 2006). Multiple analyses were performed on each glass; ML3B (n=30), STHs 6/80 (n=43), ATHO (n=54), KL2 (n=30), GOR-132 (n=30), GOR-128 (n=38) and T1 (n=36).&#x0d;
+Glass analysis was performed using a field emission gun JEOL JXA-8530F Hyperprobe electron probe microanalyser at Uppsala University. The analytical conditions were 15 kV accelerating voltage and 4 nA probe current with a defocused beam of 5 to 10 micron diameter. Measurements were conducted with counting times of 10 s on peak and 5 s on lower and upper background and the PRZ correction method was applied to the data. Detection limits are typically ≤150 ppm. &#x0d;
+Despite different volatile contents, the DING glasses gave totals of 97.2±2.4 (2s.d.; n=241) and have been normalized to further assess the data quality. The precision of the analyses is reported as uncertainties at the 95% confidence level for major element oxides. When concentrations are &gt;30 wt% the uncertainties are 0.7 to 1.6% (2s.d.), for concentrations of 5 to 30 wt% uncertainties are &lt;7% (2s.d.) and at contents of 1 to 5 wt% uncertainties are &lt;10% (2s.d.). Comparison to the preferred values reported by Jochum et al. (2006) reveals a correlation of 1.0079.</description>
+		<description descriptionType="Other">Related publications: Jochum et al., (2006) MPI-DING reference glasses for in situ microanalysis: New reference values for element concentrations and isotopes ratios. Geochemistry, Geophysics, Geosystems Q02008, doi: 10.1029/2005GC001060</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>experimental glass</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100216</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: Juan de Fuca Ridge, N Cleft, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection.  Butterfield (1994), Metz (2000), Mortlock (1993), Sharma (2000), Sharma (2001), Trefry (1994)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">Juan de Fuca Ridge</subject>
+		<subject subjectScheme="place">N Cleft</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-21 12:47:52.736601</date>
+		<date dateType="Available">2012-09-22</date>
+		<date dateType="Created">2012-09-21T12:47:52.736601</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:322</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=322</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from Juan de Fuca Ridge, N Cleft - End-member data for major, minor, and trace species, transition metals, and isotopes of Fe and Os.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”).  For more information about this compilation, please see “Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library” (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Butterfield, D.A., and G.J. Massoth (1994), Geochemistry of north Cleft segment vent fluids: temporal changes in chlorinity and their possible relation to recent volcanism, Journal of Geophysical Research, 99, 4951-4968&#x0d;
+&#x0d;
+Metz, S., and J.H. Trefry (2000), Chemical and mineralogical influences on concentrations of trace metals in hydrothermal fluids, Geochimica et Cosmochimica Acta, 64, 2267-2279&#x0d;
+&#x0d;
+Mortlock, R.A., P.N. Froelich, R.A. Feely, G.J. Massoth, D.A. Butterfield, and J.E. Lupton (1993), Silica and germanium in Pacific Ocean hydrothermal vents and plumes, Earth and Planetary Science Letters, 119, 365-378&#x0d;
+&#x0d;
+Sharma, M., G.J. Wasserburg, A.W. Hofmann, and D.A. Butterfield (2000), Osmium isotopes in hydrothermal fluids from the Juan de Fuca Ridge, Earth and Planetary Science Letters, 179, 139-152&#x0d;
+&#x0d;
+Sharma, M., M. Polizzotto, and .D. Anbar (2001), Iron isotopes in hot springs along the Juan de Fuca Ridge, Earth and Planetary Science Letters, 194, 39-51&#x0d;
+&#x0d;
+Trefry, J.H., D.B. Butterfield, S. Metz, G.J. Massoth, R.P. Trocine, and R.A. Feely (1994), Trace metals in hydrothermal solutions from Cleft segment on the southern Juan de Fuca Ridge, Journal of Geophysical Research, 99, 4925-4935&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Juan de Fuca Ridge, N Cleft, Pacific Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-130.29</westBoundLongitude>
+				<eastBoundLongitude>-130.1523</eastBoundLongitude>
+				<southBoundLatitude>44.8342</southBoundLatitude>
+				<northBoundLatitude>45.1105</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

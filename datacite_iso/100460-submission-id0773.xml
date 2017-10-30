@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100460</identifier>
+	<creators>
+		<creator>
+			<creatorName>Brantley,Susan L.</creatorName>
+			<givenName>Susan L.</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:sxb7@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Dere,Ashlee L.</creatorName>
+			<givenName>Ashlee L.</givenName>
+			<familyName>Dere</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:429</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>White,Tim S.</creatorName>
+			<givenName>Tim S.</givenName>
+			<familyName>White</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:154</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>April,Rich</creatorName>
+			<givenName>Rich</givenName>
+			<familyName>April</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:431</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Keller,Di</creatorName>
+			<givenName>Di</givenName>
+			<familyName>Keller</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:432</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Duffy,Collin</creatorName>
+			<givenName>Collin</givenName>
+			<familyName>Duffy</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:433</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>New York Weather Station Data (2011)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Meteorology</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="material">soil moisture</subject>
+		<subject subjectScheme="organization">CZO</subject>
+		<subject subjectScheme="parameter">air temperature</subject>
+		<subject subjectScheme="parameter">relative humidity</subject>
+		<subject subjectScheme="parameter">soil electrical conductivity</subject>
+		<subject subjectScheme="parameter">soil temperature</subject>
+		<subject subjectScheme="parameter">wind speed</subject>
+		<subject subjectScheme="place">New York</subject>
+		<subject subjectScheme="project">Shale Transect</subject>
+		<subject subjectScheme="subject">weather</subject>
+		<subject subjectScheme="topic detail">solar radiation</subject>
+		<subject subjectScheme="topic detail">precipitation</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-07-15 17:10:51.693158</date>
+		<date dateType="Available">2014-08-01</date>
+		<date dateType="Created">2014-07-15T17:10:51.693158</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:773</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=773</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Weather stations deployed across the Critical Zone Observatory (CZO) Shale Transect, including sites in New York, Virginia, Tennessee, Alabama and Puerto Rico, provide continuous measurements of climatic conditions influencing shale weathering. Measurements are recorded every two hours and include precipitation, air temperature, relative humidity, solar radiation, wind speed, soil temperature, soil moisture and soil electrical conductivity. &#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Ashlee Dere, (2014), Rates and mechanisms of shale weathering across a latitudinal climosequence, Ph.D. Dissertation, The Pennsylvania State University</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>New York</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-75.276067</pointLongitude>
+				<pointLatitude>43.031717</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

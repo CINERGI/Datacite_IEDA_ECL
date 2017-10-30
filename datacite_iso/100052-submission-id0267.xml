@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100052</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kraus,Stefan</creatorName>
+			<givenName>Stefan</givenName>
+			<familyName>Kraus</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:stefan.kraus@sernageomin.cl</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:83</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kurbatov,Andrei V.</creatorName>
+			<givenName>Andrei V.</givenName>
+			<familyName>Kurbatov</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:akurbatov@maine.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:84</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Yates,Martin G.</creatorName>
+			<givenName>Martin G.</givenName>
+			<familyName>Yates</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:85</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Geochemical signatures of tephras from Quaternary Antarctic Peninsula volcanoes</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Antarctica</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">tephra</subject>
+		<subject subjectScheme="place">Antarctic Peninsula</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+		<subject subjectScheme="subject">volcano</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-04-02 13:57:52.085376</date>
+		<date dateType="Available">2012-04-15</date>
+		<date dateType="Created">2012-04-02T13:57:52.085376</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:267</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=267</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.5027/andgeoV40n1-a01</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Geochemical data for ten northern Antarctic Peninsula area volcanoes. The download is a zip that contains the following files:  1-All Geochemistry Data (compact version).xlsx; 2-ActLabs ICP-MS Data Processed.xlsx; 3-Microprobe Data Processed.xlsx; 4-ActLabs Isotope Data Processed.xlsx; 5-Literature Isotope Data.xlsx; 6-Location Data.xlsx.</description>
+		<description descriptionType="Other">Related publications: [1] Kraus S. &amp; Kurbatov A. (2010): Chapter 5: Chemical fingerprint of bulk tephra from Late Pleistocene / Holocene volcanoes in the northern Antarctic Peninsula area. In: Mulder, T.J. (ed.): Antarctica: Global, Environmental and Economic Issues. Nova Publishers, New York, USA: 193-215 (https://www.novapublishers.com/catalog/product_info.php?products_id=18211).&#x0d;
+&#x0d;
+[2] Kraus S., Kurbatov A. &amp; Yates M. (2013): Geochemical signatures of tephras from Quaternary Antarctic Peninsula volcanoes. Andean Geology, 40 (1): 1-40. doi: 10.5027/andgeoV40n1-a01.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Antarctic Peninsula</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-60.95883</westBoundLongitude>
+				<eastBoundLongitude>-55.77779</eastBoundLongitude>
+				<southBoundLatitude>-64.96667</southBoundLatitude>
+				<northBoundLatitude>-62.0197</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100669</identifier>
+	<creators>
+		<creator>
+			<creatorName>den Hartog,Sabine A.M.</creatorName>
+			<givenName>Sabine A.M.</givenName>
+			<familyName>den Hartog</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:shartog@liverpool.ac.uk</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1775</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Saffer,Demian M.</creatorName>
+			<givenName>Demian M.</givenName>
+			<familyName>Saffer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:shartog@liverpool.ac.uk</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1776</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Marone,Chris J.</creatorName>
+			<givenName>Chris J.</givenName>
+			<familyName>Marone</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:shartog@liverpool.ac.uk</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1777</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Niemeijer,André R.</creatorName>
+			<givenName>André R.</givenName>
+			<familyName>Niemeijer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:shartog@liverpool.ac.uk</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1778</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Frictional properties of megathrust gouges</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Physical Properties</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">fault gouges</subject>
+		<subject subjectScheme="place">Shikoku Island Japan</subject>
+		<subject subjectScheme="program">GeoPRISMS funded</subject>
+		<subject subjectScheme="subject">megathrust</subject>
+		<subject subjectScheme="topic detail">frictional behaviour</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-03-28 04:11:35.925114</date>
+		<date dateType="Available">2019-03-29</date>
+		<date dateType="Created">2017-03-28T04:11:35.925114</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1044</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1044</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.zip  Zip Archive Compression</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">To better understand and more reliably model subduction zone seismogenesis, we determined the frictional properties of previously obtained natural megathrust fault gouges from exhumed subduction zone sediments exposed on Shikoku Island, Japan. These gouges correspond to peak paleo-temperatures of 105°C to 470°C, representing different stages in the diagenetic and metamorphic evolution of the subducted sediments and covering the aseismic zones as well as the seismogenic zone. We determined the frictional characteristics of these materials at the sample-specific, approximate peak in-situ PT conditions, i.e. the PT conditions corresponding to the maximum burial depth of these samples, applying pore fluid overpressure ratios of 0.65 or 0.90. The experiments were performed using the ring shear machine at Utrecht University.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Shikoku Island Japan</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

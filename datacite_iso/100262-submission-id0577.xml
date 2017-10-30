@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100262</identifier>
+	<creators>
+		<creator>
+			<creatorName>Liu,Xiao-Ming</creatorName>
+			<givenName>Xiao-Ming</givenName>
+			<familyName>Liu</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:xliu@gl.ciw.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:196</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rudnick,Roberta L.</creatorName>
+			<givenName>Roberta L.</givenName>
+			<familyName>Rudnick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1559-7463</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003986769</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:172</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McDonough,William F.</creatorName>
+			<givenName>William F.</givenName>
+			<familyName>McDonough</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9154-3673</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005259221</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:173</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Cummings,Michael L.</creatorName>
+			<givenName>Michael L.</givenName>
+			<familyName>Cummings</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:199</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Influence of chemical weathering on the composition of the continental crust: Insights from Li and Nd isotopes in bauxite profiles developed on Columbia River Basalts</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="Feature Instance">Columbia River Basalt</subject>
+		<subject subjectScheme="isotopes">Li isotopes</subject>
+		<subject subjectScheme="isotopes">Nd isotopes</subject>
+		<subject subjectScheme="material">Columbia River Basalts</subject>
+		<subject subjectScheme="subject">continental crust</subject>
+		<subject subjectScheme="topic detail">chemical weathering</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-03-27 14:39:18.456344</date>
+		<date dateType="Available">2013-05-01</date>
+		<date dateType="Created">2013-03-27T14:39:18.456344</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:577</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=577</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.gca.2013.03.043</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Fresh Columbia River Basalts, bauxites (weathered basalts), eolian dust samples were analyzed for major and trace elements, mineralogy, lithium and Nd isotopes to investigate chemical weathering of basalts and its influence on the composition of the continental crust.</description>
+		<description descriptionType="Other">Related publications: The related publication is in press and the Primary Publication DOI below will resolve when the online version is published.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Columbia River Basalts</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-123.233516666667</westBoundLongitude>
+				<eastBoundLongitude>-117.936516666667</eastBoundLongitude>
+				<southBoundLatitude>44.8381333333333</southBoundLatitude>
+				<northBoundLatitude>46.5877666666667</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

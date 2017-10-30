@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100675</identifier>
+	<creators>
+		<creator>
+			<creatorName>Galle,Bo</creatorName>
+			<givenName>Bo</givenName>
+			<familyName>Galle</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bo.galle@chalmers.se</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1853</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Arellano,Santiago</creatorName>
+			<givenName>Santiago</givenName>
+			<familyName>Arellano</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1859</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Conde,Vladimir</creatorName>
+			<givenName>Vladimir</givenName>
+			<familyName>Conde</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1860</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>De Moor,Maarteen</creatorName>
+			<givenName>Maarteen</givenName>
+			<familyName>De Moor</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1861</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Avard,Geofroy</creatorName>
+			<givenName>Geofroy</givenName>
+			<familyName>Avard</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1862</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Duarte,Eliecer</creatorName>
+			<givenName>Eliecer</givenName>
+			<familyName>Duarte</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1863</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Network for Observation of Volcanic and Atmospheric Change (NOVAC): SO2 flux from Turrialba Volcano (Costa Rica)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="initiative">NOVAC</subject>
+		<subject subjectScheme="parameter">SO2 flux</subject>
+		<subject subjectScheme="place">Costa Rica</subject>
+		<subject subjectScheme="place">Turrialba volcano</subject>
+		<subject subjectScheme="program">DECADE</subject>
+		<subject subjectScheme="program">Network for Observation of Volcanic and Atmospheric Change</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-04-06 08:58:06.196786</date>
+		<date dateType="Available">2017-05-01</date>
+		<date dateType="Created">2017-04-06T08:57:39.202724</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1054</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1054</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2009JD011823</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Emission rate of SO2 from Turrialba volcano for the period 2014-01-01 to 2016-09-30. This dataset contains individual SO2 flux measurements obtained from scanning DOAS instruments part of the NOVAC network, operated by OVSICORI (Costa Rica), and daily statistics. Data has been processed with the NOVAC batch processing software, using meteorological data from the ECMWF ERA interim analysis database (0.125/0.125 deg, 6 h) interpolated at the volcano summit coordinates for the time of each measurement. Plume height and direction is obtained by triangulation of two scan measurements when possible. It also includes daily statistics. This file has been prepared within the DECADE/DCO project. Raw data can be accessed by contacting the authors.</description>
+		<description descriptionType="Other">Related publications: Galle, B., M. Johansson, C. Rivera, Y. Zhang, M. Kihlman, C. Kern, T. Lehmann, U. Platt, S. Arellano, and S. Hidalgo, (2010), "Network for Observation of Volcanic and Atmospheric Change (NOVAC)—A global network for volcanic gas monitoring: Network layout and instrument description.", Journal of Geophysical Research, 115(D05304), doi:10.1029/2009JD011823&#x0d;
+&#x0d;
+Johansson, M., B. Galle, Y. Zhang, C. Rivera, D. Chen, K. Wyser, (2009), "The dual-beam mini-DOAS technique—measurements of volcanic gas emission, plume height and plume speed with a single instrument.", Bulletin of Volcanology, 71(747), doi:10.1007/s00445-008-0260-8&#x0d;
+&#x0d;
+de Moor, J M., A. Aiuppa, G. Avard, H. Wehrmann, N. Dunbar, C. Muller, G. Tamburello, G. Giudice, M. Liuzzo, R. Moretti, V. Conde , B. Galle, (2016), "Turmoil at Turrialba Volcano (Costa Rica): Degassing and eruptive processes inferred from high-frequency gas monitoring.", Journal of Geophysical Research-Solid Earth, 121:5761-5775, doi:10.1002/2016JB013150</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Turrialba volcano (Costa Rica)</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-83.78444</westBoundLongitude>
+				<eastBoundLongitude>-83.77931</eastBoundLongitude>
+				<southBoundLatitude>10.003641</southBoundLatitude>
+				<northBoundLatitude>10.013558</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

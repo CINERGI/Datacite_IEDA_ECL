@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100271</identifier>
+	<creators>
+		<creator>
+			<creatorName>Clague,David A.</creatorName>
+			<givenName>David A.</givenName>
+			<familyName>Clague</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:clague@mbari.org</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-2432-8786</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004813904</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:24</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Dreyer,Brian M.</creatorName>
+			<givenName>Brian M.</givenName>
+			<familyName>Dreyer</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bdreyer@ucsc.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0992-6929</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">14017575900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:243</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Paduan,Jennifer B.</creatorName>
+			<givenName>Jennifer B.</givenName>
+			<familyName>Paduan</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004018027</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:244</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Martin,Julie F.</creatorName>
+			<givenName>Julie F.</givenName>
+			<familyName>Martin</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55279881600</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:245</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chadwick,William W.</creatorName>
+			<givenName>William W.</givenName>
+			<familyName>Chadwick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-5129-4569</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003284523</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:246</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Caress,David W.</creatorName>
+			<givenName>David W.</givenName>
+			<familyName>Caress</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-6596-9133</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6603594692</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:247</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Portner,Ryan A.</creatorName>
+			<givenName>Ryan A.</givenName>
+			<familyName>Portner</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">26423236200</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:248</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Guilderson,Thomas P.</creatorName>
+			<givenName>Thomas P.</givenName>
+			<familyName>Guilderson</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004165030</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:249</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McGann,Mary L.</creatorName>
+			<givenName>Mary L.</givenName>
+			<familyName>McGann</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003972215</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:250</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Thomas,Hans J.</creatorName>
+			<givenName>Hans J.</givenName>
+			<familyName>Thomas</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35415993100</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:251</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Butterfield,David A.</creatorName>
+			<givenName>David A.</givenName>
+			<familyName>Butterfield</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">48960970400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:252</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Embley,Robert W.</creatorName>
+			<givenName>Robert W.</givenName>
+			<familyName>Embley</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003610383</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:253</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Glass compositions for Axial Seamount samples</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Petrography</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Feature of Interest">spreading center</subject>
+		<subject subjectScheme="material">basaltic glass</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">Axial Seamount</subject>
+		<subject subjectScheme="place">Juan de Fuca Ridge</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">seamount</subject>
+		<subject subjectScheme="subject">submarine volcano</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-06-18 11:56:37.694875</date>
+		<date dateType="Available">2013-12-31</date>
+		<date dateType="Created">2013-06-18T11:56:37.694875</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:647</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=647</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/ggge.20240</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPreviousVersionOf">doi:10.1594/IEDA/100428</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">***There is a newer version of this file that updates the Primary Method Metadata tab.*** Major element compositions of glass from lava samples from Axial Seamount, Juan de Fuca Ridge, determined by electron microprobe. Samples were collected between 2005 and 2011 by ROVs and wax-tipped rock corer. The data were used in conjunction with high-resolution AUV bathymetry, ROV observations, and age dating of foraminifera in sediment cores to develop a geologic history of Axial Seamount.</description>
+		<description descriptionType="Other">Related publications: Clague, D.A., B.M. Dreyer, J.B. Paduan, J.F. Martin, W.W. Chadwick Jr., D.W. Caress, R.A. Portner, T.P. Guilderson, M.L. McGann, H. Thomas, D.A. Butterfield, and R.W. Embley (in revision) "Geologic History of the Summit of Axial Seamount, Juan de Fuca Ridge", Geochem. Geophys. Geosyst.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Axial Seamount, Axial Volcano, Juan de Fuca Ridge, Pacific Ocean</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

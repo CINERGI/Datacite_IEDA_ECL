@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100676</identifier>
+	<creators>
+		<creator>
+			<creatorName>Sephton,Michael G.</creatorName>
+			<givenName>Michael G.</givenName>
+			<familyName>Sephton</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:msephton81@hotmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1897</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Leachate analysis from leaching column experiment to test the application of Portland cement to control acid mine drainage generation from waste rocks</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Portland cement slurries</subject>
+		<subject subjectScheme="place">Brukunga</subject>
+		<subject subjectScheme="place">South Australia</subject>
+		<subject subjectScheme="topic detail">Acid mine drainage control</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-04-18 03:01:54.228957</date>
+		<date dateType="Available">2017-05-01</date>
+		<date dateType="Created">2017-04-18T03:00:40.326789</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1056</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1056</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.apgeochem.2017.03.017</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset includes measurements on leachate samples including mass sample collected, pH, Redox potential (Eh), Acidity, Alkalinity, Flame photometer analyses of Na and K, ICP-OES analyses of Ca, Mg, Al, Fe, S as SO4(2-), Si, Cu, Mn, Zn, IC analyses of SO4(2-) and S2O3(2-), and charge balance error. Leachate samples were obtained from leach columns accommodated in laboratories at La Trobe University, Melbourne, Australia, using waste rocks from Brukunga, South Australia. The purpose of this dataset is to provide the raw data discussed in the related publication that test the application of Portland cement to control acid mine drainage generation from waste rocks.</description>
+		<description descriptionType="Other">Related publications: Sephton, M.G., Webb, J.A., Application of Portland cement to control acid mine drainage generation from waste rocks, Applied Geochemistry</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Brukunga, South Australia</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>145.047909</pointLongitude>
+				<pointLatitude>-37.72179</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

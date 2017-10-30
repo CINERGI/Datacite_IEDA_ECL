@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100576</identifier>
+	<creators>
+		<creator>
+			<creatorName>Quan,Tracy M.</creatorName>
+			<givenName>Tracy M.</givenName>
+			<familyName>Quan</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tracy.quan@okstate.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:606</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Total organic carbon, total nitrogen, and stable organic carbon isotope analyses of samples from ODP Leg 174AX Bass River Site</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Sediment</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">ODP Leg 174AX</subject>
+		<subject subjectScheme="isotopes">organic carbon isotopes</subject>
+		<subject subjectScheme="parameter">total organic carbon</subject>
+		<subject subjectScheme="parameter">total nitrogen</subject>
+		<subject subjectScheme="place">Bass River</subject>
+		<subject subjectScheme="platform">RV Joides Resolution</subject>
+		<subject subjectScheme="subject">Cretaceous-Paleogene boundary</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-12-21 18:35:20.827488</date>
+		<date dateType="Available">2016-01-15</date>
+		<date dateType="Created">2015-12-21T18:35:20.827488</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:915</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=915</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/2014PA002724</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset contains geochemical analyses of samples from ODP Leg 174AX Bass River Site from across the Cretaceous-Paleogene Boundary. The dataset contains values for total organic carbon, total nitrogen, and organic carbon isotopes. The purpose of the dataset is to provide elemental data for carbon and nitrogen and organic carbon isotopic data at the Bass River site through the Cretaceous-Paleogene Boundary interval.</description>
+		<description descriptionType="Other">Related publications: Esmeray-Senlet, S., Wright, J. D., Olsson, R. K., Miller, K. G., Browning, J. V., and Quan, T. M.,  (2015), "Evidence for reduced export productivity following the Cretaceous/Paleogene mass extinction." Paleoceanography, 30: 718-738.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+			<geoLocationPoint>
+				<pointLongitude>-74.436667</pointLongitude>
+				<pointLatitude>39.611667</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

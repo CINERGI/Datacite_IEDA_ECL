@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100497</identifier>
+	<creators>
+		<creator>
+			<creatorName>Ivanov,I. Z.</creatorName>
+			<givenName>I. Z.</givenName>
+			<familyName>Ivanov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:527</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Volcanic fumarole gas anlayses from Klyuchevskoy, Tolbachik and  Shiveluch Volcanoes (Kamchatka, Russia), 1936-1937</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">vapor condensates</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Klyuchevskaya</subject>
+		<subject subjectScheme="place">Klyuchevskoy</subject>
+		<subject subjectScheme="place">Russia</subject>
+		<subject subjectScheme="place">Shiveluch Volcano</subject>
+		<subject subjectScheme="place">Tolbachik Volcano</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Kirgurich Volcano</subject>
+		<subject subjectScheme="place">Klyuchev Crater</subject>
+		<subject subjectScheme="subject">volcano</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-11-17 15:13:08.928126</date>
+		<date dateType="Available">2014-12-15</date>
+		<date dateType="Created">2014-11-17T15:13:08.928126</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:809</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=809</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset is a summary of fumarole gas analyses from Kamachatka region volcanoes from 1936-1937 by I.Z. Ivanov. These analyses were presented in the USSR Science Academy Kamchatka Volcanology Station Bulletin, No. 4. Gas samples are from fumaroles from Klyuchevskoy volcano (Tuyla and Kirgurich craters) and Shiveluch volcano, with one analysis from Tolvachik volcano. Shiveluch samples were collected by Ivanov and geologist A.A. Menyalnov.</description>
+		<description descriptionType="Other">Related publications: Ivanov, I.V. (1938),"Volcanic fumarole gas analyses from Klyuchevskoy and  Shiveluch volcanoes (Kamchatka, Russia), 1936-1937."USSR Science Academy Kamchatka Volcanology Station Bulletin, 4:13-18</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, Kamchatka, Klyuchevskoy, Klyuchevskaya, Klyuchev Crater, Tolbachik Volcano, Shiveluch Volcano, Kirgurich Volcano</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

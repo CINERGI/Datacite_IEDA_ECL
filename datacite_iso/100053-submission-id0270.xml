@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100053</identifier>
+	<creators>
+		<creator>
+			<creatorName>Jordan,Erika K.</creatorName>
+			<givenName>Erika K.</givenName>
+			<familyName>Jordan</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:kiki@utdallas.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:86</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Lieu,Warren</creatorName>
+			<givenName>Warren</givenName>
+			<familyName>Lieu</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:87</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Stern,Robert J.</creatorName>
+			<givenName>Robert J.</givenName>
+			<familyName>Stern</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35202032500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:46</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Carr,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Carr</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:carr@rutgers.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7202321014</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:89</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Feigenson,Mark D.</creatorName>
+			<givenName>Mark D.</givenName>
+			<familyName>Feigenson</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:90</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gill,James B.</creatorName>
+			<givenName>James B.</givenName>
+			<familyName>Gill</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:gillord@ucsc.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2584-9687</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7401976182</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55535845900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57189212794</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:75</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>CentAm &amp; IBM Geochem Database version 1.02</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="IEDA Feature of Interest">subduction zone</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="material">lavas</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">Western</subject>
+		<subject subjectScheme="place">CAVA</subject>
+		<subject subjectScheme="place">Central America</subject>
+		<subject subjectScheme="place">IBM</subject>
+		<subject subjectScheme="place">Izu-Bonin-Mariana</subject>
+		<subject subjectScheme="subject">geochemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-04-06 15:27:07.140543</date>
+		<date dateType="Available">2012-04-07</date>
+		<date dateType="Created">2012-04-06T15:27:07.140543</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:270</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=270</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.txt  Plain Text</format>
+		<format>.xlsx  Microsoft Excel XML</format>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">The CentAm &amp; IBM Geochem Database version 1.02 consists of high-quality geochemical data collected over the last two decades from the magmatic arcs of the two NSF MARGINS Subduction Factory focus sites: 1) the Central America (CentAm) arc system, including Costa Rica, Nicaragua, El Salvador, and Guatemala; 2) and the Izu-Bonin-Mariana (IBM) arc system, extending from Japan to Guam. The CentAm and IBM arc systems were chosen for this project because they represent two end members of subduction factories. CentAm has a high sediment input and a young, hot, dry subducting slab.  The IBM system has a low sediment input and an old, cold, wet subducting slab. This data was filtered and compiled to explore the magma characteristics of the respective arcs and to interpret their magmagenetic conditions such as sediment input, fluid-flux, and mantle and altered oceanic crustal components. To create the database, volcanic geochemical data for whole rock samples was downloaded from the EarthChem data portal (www.earthchem.org) (managed by the Lamont-Doherty Earth Observatory of Columbia University). Four datasets are included in separate worksheets within the Excel® workbook, which include separate major and trace element datasets for CentAm and IBM.  Each dataset contains metadata for each sample and major and trace element, isotope, and calculated normative mineral compositions.  The workbook also contains an explanation of methods and a list of data references.  Supplemental documents include a detailed explanation of the datasets and filter processes and an EndNote® library text file.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Izu-Bonin-Mariana, Central America, IBM, CAVA, Western, Pacific, Subduction Zone</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>139.42</westBoundLongitude>
+				<eastBoundLongitude>145.863</eastBoundLongitude>
+				<southBoundLatitude>13.64</southBoundLatitude>
+				<northBoundLatitude>34.75</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100510</identifier>
+	<creators>
+		<creator>
+			<creatorName>Serafimova,E. K.</creatorName>
+			<givenName>E. K.</givenName>
+			<familyName>Serafimova</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:590</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>On the Chemical Composition of Fumarole Gases from Mutnovsky Volcano (Russia)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Arc</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">fumarole gas</subject>
+		<subject subjectScheme="material">Sublimate Water</subject>
+		<subject subjectScheme="material">sublimates</subject>
+		<subject subjectScheme="material">vapor condensates</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="material">Water</subject>
+		<subject subjectScheme="place">Kamchatka</subject>
+		<subject subjectScheme="place">Mutnovsky volcano</subject>
+		<subject subjectScheme="place">Russia</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-12-11 12:34:48.260043</date>
+		<date dateType="Available">2015-01-15</date>
+		<date dateType="Created">2014-12-11T12:34:48.260043</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:829</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=829</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This is summary of the chemical analyses of fumarole gases, water, sublimates, and water extracted from sublimates from Mutnovsky volcano, 1963-64, as documented and analyzed by E.K. Serafimova of the USSR Science Academy. Spectral analyses of the sublimates was conducted by G. I. Arsanova of the USSR Science Academy. </description>
+		<description descriptionType="Other">Related publications: Serafimova, E.K., (1966), "On the Chemical Composition of Fumarole Gases from Mutnovsky Volcano." USSR Science Academy Volcanology Station Bulletin, (42):21-28</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Russia, Kamchatka, Mutnovsky Volcano</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>158.194989</pointLongitude>
+				<pointLatitude>52.453114</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

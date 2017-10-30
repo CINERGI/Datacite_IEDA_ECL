@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100537</identifier>
+	<creators>
+		<creator>
+			<creatorName>Malinverno,Alberto</creatorName>
+			<givenName>Alberto</givenName>
+			<familyName>Malinverno</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:alberto@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:714</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Martinez,Ernesto A.</creatorName>
+			<givenName>Ernesto A.</givenName>
+			<familyName>Martinez</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:716</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Organic Carbon, in situ Temperature, Age Data, and Age Models in Scientific Ocean Drilling Holes (Deep Sea Drilling Project, Ocean Drilling Program, and Integrated Ocean Drilling Program)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Sediment</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="geochronology">age models</subject>
+		<subject subjectScheme="geochronology">sediment age</subject>
+		<subject subjectScheme="parameter">in situ temperature</subject>
+		<subject subjectScheme="subject">sediment geochemistry</subject>
+		<subject subjectScheme="topic detail">organic carbon decomposition</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-04-23 10:51:41.279556</date>
+		<date dateType="Available">2015-05-01</date>
+		<date dateType="Created">2015-04-23T10:51:41.279556</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:864</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=864</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/srep17861</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.txt  Plain Text</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Measurements of particulate organic carbon (POC), in situ sediment temperature, age data, and age models in scientific ocean drilling holes (Deep Sea Drilling Project, Ocean Drilling Program, and Integrated Ocean Drilling Program).  The data are from drill holes in global areas of high POC deposition (continental margins and upwelling areas). The variation in POC content with temperature and age in the sediment column is used to study the process of organic matter decomposition.</description>
+		<description descriptionType="Other">Related publications: Malinverno, A. and Martinez, E. A. The effect of temperature on organic carbon degradation in marine sediments. Sci. Rep. 5, 17861; doi: 10.1038/srep17861 (2015).</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>

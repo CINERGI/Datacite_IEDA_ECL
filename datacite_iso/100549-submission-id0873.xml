@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100549</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rivera,Tiffany A.</creatorName>
+			<givenName>Tiffany A.</givenName>
+			<familyName>Rivera</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:trivera@westminstercollege.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:788</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Jicha,Brian R.</creatorName>
+			<givenName>Brian R.</givenName>
+			<familyName>Jicha</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6508194965</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:795</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>40Ar/39Ar single crystal sanidine dates for the Lava Creek Tuff (member B)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2015</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">IntraContinental Magmatism</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">argon</subject>
+		<subject subjectScheme="material">sanidine</subject>
+		<subject subjectScheme="place">Wyoming</subject>
+		<subject subjectScheme="place">Yellowstone</subject>
+		<subject subjectScheme="subject">geochronology</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-07-09 17:08:46.393522</date>
+		<date dateType="Available">2015-08-01</date>
+		<date dateType="Created">2015-07-09T17:08:46.393522</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:873</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=873</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">40Ar/39Ar data collected with a Nu Instruments Noblesse multi-collector noble gas mass spectrometer equipped with four ETP ion counters and 60W CO2 laser at the University of Wisconsin-Madison. Ages are calculated relative to the Alder Creek Rhyolite sanidine with an age of 1.1860 ± 0.0016 Ma (Rivera et al., 2013). Samples were irradiated for five hours at the Oregon State University CLICIT facility.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Yellowstone, Wyoming</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-111.2901</pointLongitude>
+				<pointLatitude>44.1408</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

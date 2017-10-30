@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100722</identifier>
+	<creators>
+		<creator>
+			<creatorName>Solomon,Evan A</creatorName>
+			<givenName>Evan A</givenName>
+			<familyName>Solomon</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:esolomn@uw.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2271</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Berg,Richard D</creatorName>
+			<givenName>Richard D</givenName>
+			<familyName>Berg</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2273</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Culling,Daniel P</creatorName>
+			<givenName>Daniel P</givenName>
+			<familyName>Culling</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2274</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Sediment pore water chemistry measurements from the continental margin offshore Washington State, USA</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-10-08 19:53:26.235325</date>
+		<date dateType="Available">2017-10-15</date>
+		<date dateType="Created">2017-10-08T19:53:26.235325</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1109</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1109</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset includes sediment pore water chemistry measurements from the continental margin offshore Washington State, USA. Samples were collected during Atlantis expedition AT26-04 (Cruise DOI: 10.7284/900417). Push core and multi-core samples were collected adjacent to heat flow and porosity measurement locations along a transect from the upper slope to the incoming plate, including seep sites. The study was designed to evaluate the heat flow, fluid flow, and chemical flux distribution across the convergent margin.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Cascadia margin, Pacific Ocean, North Pacific, Washington margin</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-125.862445</westBoundLongitude>
+				<eastBoundLongitude>-124.94612</eastBoundLongitude>
+				<southBoundLatitude>46.716727</southBoundLatitude>
+				<northBoundLatitude>46.85241</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

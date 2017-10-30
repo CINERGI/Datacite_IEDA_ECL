@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100517</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kaye,Margot W.</creatorName>
+			<givenName>Margot W.</givenName>
+			<familyName>Kaye</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mwk12@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:608</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Smith,Lauren</creatorName>
+			<givenName>Lauren</givenName>
+			<familyName>Smith</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:615</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Eissenstat,David</creatorName>
+			<givenName>David</givenName>
+			<familyName>Eissenstat</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:dme9@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:232</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Litter and Dendroband Data</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Biology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="living thing">species</subject>
+		<subject subjectScheme="living thing">trees</subject>
+		<subject subjectScheme="material">leaf litter</subject>
+		<subject subjectScheme="parameter">diameter</subject>
+		<subject subjectScheme="place">Susquehanna Shale Hills</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="topic detail">biomass</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2015-01-05 16:08:58.072058</date>
+		<date dateType="Available">2016-01-01</date>
+		<date dateType="Created">2015-01-05T16:08:58.072058</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:837</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=837</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Litter in the Shale Hills watershed was collected from litter traps, massed, and sorted by species on a weekly basis during the 2011 and 2012 season. Litter from the forest floor was collected next to the litter traps, massed, and sorted by species on a biweekly basis during the 2012 season. Tree radial growth was measured by use of dendrobands on 109 trees throughout the watershed on a biweekly basis during 2012.  This work was funded by NSF EAR 12-39285.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: Smith, L (2013) Aboveground Carbon Distribution across a Temperate Watershed, Master of Science, Pennsylvania State University&#x0d;
+&#x0d;
+&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Susquehanna Shale Hills, Pennsylvania &#x0d;
+			</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

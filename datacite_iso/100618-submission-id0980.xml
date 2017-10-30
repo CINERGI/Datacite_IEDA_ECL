@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100618</identifier>
+	<creators>
+		<creator>
+			<creatorName>Szymanski,Eugene</creatorName>
+			<givenName>Eugene</givenName>
+			<familyName>Szymanski</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1225</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Stockli,Daniel F.</creatorName>
+			<givenName>Daniel F.</givenName>
+			<familyName>Stockli</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6603484808</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:630</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Szymanski et al., 2016, Central Arabian Margin, Red Sea Rift (Tectonics) Geochronology - 2016-11-11</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Rift</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="Feature Instance">Red Sea Rift</subject>
+		<subject subjectScheme="Feature Instance">Arabian-Nubian Shield</subject>
+		<subject subjectScheme="method">time-temperature modeling</subject>
+		<subject subjectScheme="place">Red Sea</subject>
+		<subject subjectScheme="place">Saudi Arabia</subject>
+		<subject subjectScheme="subject">Thermochronology</subject>
+		<subject subjectScheme="topic detail">continental rifting</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-11-11 19:46:04.610388</date>
+		<date dateType="Available">2017-01-27</date>
+		<date dateType="Created">2016-11-11T19:46:04.610388</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:980</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=980</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1002/2016TC004336</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.zip  Zip Archive Compression</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Apatite and zircon (U-Th)/He cooling age data set that correlates to samples published in Szymanski, E., D. F. Stockli, P. R. Johnson, and C. Hager (2016), Thermochronometric Evidence for Diffuse Extension and Two-Phase Rifting within the Central Arabian Margin of the Red Sea Rift, Tectonics, 35, doi:10.1002/2016TC004336.</description>
+		<description descriptionType="Other">Related publications: Szymanski, E., D. F. Stockli, P. R. Johnson, and C. Hager (2016), Thermochronometric Evidence for Diffuse Extension and Two-Phase Rifting within the Central Arabian Margin of the Red Sea Rift, Tectonics, 35</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Saudi Arabia, Red Sea</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>37.2816</westBoundLongitude>
+				<eastBoundLongitude>43.3826</eastBoundLongitude>
+				<southBoundLatitude>24.145</southBoundLatitude>
+				<northBoundLatitude>26.0063</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

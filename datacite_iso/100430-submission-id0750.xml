@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100430</identifier>
+	<creators>
+		<creator>
+			<creatorName>Delano,John W.</creatorName>
+			<givenName>John W.</givenName>
+			<familyName>Delano</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jdelano@albany.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:269</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Electron microprobe analyses of Apollo 16 glasses from Lunar sample 64001</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Space/Planetary</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Moon</subject>
+		<subject subjectScheme="IEDA Topic">Cosmos</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">Apollo 16 landing site</subject>
+		<subject subjectScheme="place">Moon</subject>
+		<subject subjectScheme="platform">Apollo 16</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-03-21 13:52:27.804501</date>
+		<date dateType="Available">2014-04-01</date>
+		<date dateType="Created">2014-03-21T13:52:27.804501</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:750</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=750</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.grj.2015.02.012</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementedBy">doi:10.1594/IEDA/100456</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Electron microprobe analyses of Apollo 16 glasses from Lunar sample 64001</description>
+		<description descriptionType="Other">Related publications: Delano J.W. (1991)  Major-element compositions of impact glasses from lunar meteorites (ALHA81005; MAC88105) and Apollo 16 regolith (64001):  A comparison.  Geochimica et Cosmochimica Acta, 54, p. 3019-3029.&#x0d;
+&#x0d;
+Delano J. W., Zellner N. E. B., Barra F., Olson E., Swindle T. D., Tibbetts N. J., and Whittet D. C. B. (2007) An integrated approach to understanding Apollo 16 impact glasses: Chemistry, isotopes, and shape.  Meteoritics and Planetary Science, 42(6), p. 993-1004.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Moon, Apollo 16 landing site</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

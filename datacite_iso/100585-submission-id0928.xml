@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100585</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kimbrough,David L.</creatorName>
+			<givenName>David L.</givenName>
+			<familyName>Kimbrough</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:dkimbrough@mail.sdsu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1024</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Grove,Marty</creatorName>
+			<givenName>Marty</givenName>
+			<familyName>Grove</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1025</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Lonsdale,Peter F.</creatorName>
+			<givenName>Peter F.</givenName>
+			<familyName>Lonsdale</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003781791</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:67</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Zircon U-Pb Geochronology: Volcanic and Plutonic Activity Near the Gulf of California Rift</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Continental Rift</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="geochronology">zircon U-Pb ages</subject>
+		<subject subjectScheme="place">Baja California</subject>
+		<subject subjectScheme="place">Gulf of California</subject>
+		<subject subjectScheme="place">Gulf of California islands</subject>
+		<subject subjectScheme="platform">ROV Jason</subject>
+		<subject subjectScheme="topic detail">magmatism</subject>
+		<subject subjectScheme="topic detail">continental rifting</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-04-15 17:21:59.436858</date>
+		<date dateType="Available">2016-05-01</date>
+		<date dateType="Created">2016-04-15T17:21:59.436858</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:928</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=928</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset provides a large body of zircon U-Pb crystallization ages that provide a chronology of volcanic and plutonic activity essential to understanding the details of the Neogene Gulf of California rift history.  Samples were collected from submerged continental crust within the rift by dredging and by use of a remotely operated vehicle (JASON). The submarine samples were supplemented by samples collected from a series of islands in the Gulf as well as samples from the edge of the Baja California mainland immediately adjacent to the Gulf. </description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Gulf of California, Baja California, Gulf of California islands</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-113.001</westBoundLongitude>
+				<eastBoundLongitude>-106.631</eastBoundLongitude>
+				<southBoundLatitude>21.598</southBoundLatitude>
+				<northBoundLatitude>26.784</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

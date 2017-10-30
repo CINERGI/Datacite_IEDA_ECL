@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100268</identifier>
+	<creators>
+		<creator>
+			<creatorName>Eissenstat,David</creatorName>
+			<givenName>David</givenName>
+			<familyName>Eissenstat</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:dme9@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:232</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Wubbles,Jane</creatorName>
+			<givenName>Jane</givenName>
+			<familyName>Wubbles</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:233</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Adams,Tom</creatorName>
+			<givenName>Tom</givenName>
+			<familyName>Adams</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:234</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Osborne,J.</creatorName>
+			<givenName>J.</givenName>
+			<familyName>Osborne</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:235</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory Tree Survey (2008)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Biology</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="living thing">species</subject>
+		<subject subjectScheme="living thing">trees</subject>
+		<subject subjectScheme="method">survey</subject>
+		<subject subjectScheme="parameter">diameter</subject>
+		<subject subjectScheme="parameter">height</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="place">Susquehanna Shale Hills</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-05-02 11:18:47.716149</date>
+		<date dateType="Available">2013-06-01</date>
+		<date dateType="Created">2013-05-02T11:18:47.716149</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:635</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=635</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1371/journal.pone.0058704</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementedBy">doi:10.1594/IEDA/100478</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPreviousVersionOf">doi:10.1594/IEDA/100516</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Trees in the Shale Hills watershed were originally surveyed in 2008 , with the addition of a sample of tree height data and updated diameter measurements in 2010. Tree survey data includes an assigned tree number with associated data including species, diameter, height (when available), and GPS coordinates.</description>
+		<description descriptionType="Other">Related publications: Meinzer, F.C., D.R. Woodruff, D.M. Eissenstat, H.S. Lin, T. Adams, K.A. McCulloh (2013) Above- and belowground controls on water use by trees of different wood types in an eastern United States deciduous forest. Tree Physiology: 1-12.&#x0d;
+&#x0d;
+Naithani K.J., Baldwin D., Gaines K., Lin H. &amp; Eissenstat D.M. (2013) Spatial distribution of tree species governs the spatio-temporal interaction of leaf area index and soil moisture across a forested landscape. PLoS ONE&#x0d;
+&#x0d;
+Wubbles, J. (2010) Tree species distribution in relation to stem hydraulic traits and soil moisture in a mixed hardwood forest in central Pennsylvania. Master of Science, Pennsylvania State University, 39 p. </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Susquehanna Shale Hills, Pennsylvania </geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100673</identifier>
+	<creators>
+		<creator>
+			<creatorName>Galle,Bo</creatorName>
+			<givenName>Bo</givenName>
+			<familyName>Galle</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bo.galle@chalmers.se</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1827</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Arellano,Santiago</creatorName>
+			<givenName>Santiago</givenName>
+			<familyName>Arellano</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1834</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Garzón,Gustavo</creatorName>
+			<givenName>Gustavo</givenName>
+			<familyName>Garzón</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1835</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gómez,Diego</creatorName>
+			<givenName>Diego</givenName>
+			<familyName>Gómez</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1836</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Silva,Betty</creatorName>
+			<givenName>Betty</givenName>
+			<familyName>Silva</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1837</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Cortés,Patricia</creatorName>
+			<givenName>Patricia</givenName>
+			<familyName>Cortés</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1838</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Burbano,Viviana</creatorName>
+			<givenName>Viviana</givenName>
+			<familyName>Burbano</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1839</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Network for Observation of Volcanic and Atmospheric Change (NOVAC): SO2 flux from Galeras Volcano (Colombia)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="initiative">NOVAC</subject>
+		<subject subjectScheme="parameter">SO2 flux</subject>
+		<subject subjectScheme="place">Colombia</subject>
+		<subject subjectScheme="place">Galeras Volcano</subject>
+		<subject subjectScheme="program">DECADE</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-04-06 08:43:00.50486</date>
+		<date dateType="Available">2017-05-01</date>
+		<date dateType="Created">2017-04-06T08:42:12.103813</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1052</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1052</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2009JD011823</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Emission rate of SO2 from Galeras volcano for the period 2014-01-01 to 2016-09-30. This dataset contains individual SO2 flux measurements obtained from scanning DOAS instruments part of the NOVAC network, operated by SGC/OVSP (Colombia), and daily statistics. Data has been processed with the NOVAC batch processing software, using meteorological data from the ECMWF ERA interim analysis database (0.125/0.125 deg, 6 h) interpolated at the volcano summit coordinates for the time of each measurement. Plume height and direction is obtained by triangulation of two scan measurements when possible. It also includes daily statistics. The file was prepared within the DECADE/DCO project. Raw data can be accessed by contacting the authors.</description>
+		<description descriptionType="Other">Related publications: Galle, B., M. Johansson, C. Rivera, Y. Zhang, M. Kihlman, C. Kern, T. Lehmann, U. Platt, S. Arellano, and S. Hidalgo, (2010), "Network for Observation of Volcanic and Atmospheric Change (NOVAC)—A global network for volcanic gas monitoring: Network layout and instrument description.", Journal of Geophysical Research, 115(D05304), doi:10.1029/2009JD011823&#x0d;
+&#x0d;
+Johansson, M., B. Galle, Y. Zhang, C. Rivera, D. Chen, K. Wyser, (2009), "The dual-beam mini-DOAS technique—measurements of volcanic gas emission, plume height and plume speed with a single instrument.", Bulletin of Volcanology, 71(747), doi:10.1007/s00445-008-0260-8</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Galeras volcano, Colombia</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.482241</westBoundLongitude>
+				<eastBoundLongitude>-77.414098</eastBoundLongitude>
+				<southBoundLatitude>1.229131</southBoundLatitude>
+				<northBoundLatitude>1.270626</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

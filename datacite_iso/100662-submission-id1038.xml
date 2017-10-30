@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100662</identifier>
+	<creators>
+		<creator>
+			<creatorName>Liuzzo,Marco</creatorName>
+			<givenName>Marco</givenName>
+			<familyName>Liuzzo</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:marco.liuzzo@ingv.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1153</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Giudice,Gaetano</creatorName>
+			<givenName>Gaetano</givenName>
+			<familyName>Giudice</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Christenson,Bruce</creatorName>
+			<givenName>Bruce</givenName>
+			<familyName>Christenson</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1740</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Aiuppa,Alessandro</creatorName>
+			<givenName>Alessandro</givenName>
+			<familyName>Aiuppa</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:alessandro.aiuppa@unipa.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1150</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Volcanic gas plume data from White Island Volcano (New Zealand)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2018</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="instrument">Multi-GAS</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">New Zealand to Fiji</subject>
+		<subject subjectScheme="place">White Island</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-03-09 14:00:33.904342</date>
+		<date dateType="Available">2018-01-01</date>
+		<date dateType="Created">2017-03-09T14:00:33.904342</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1038</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1038</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+		<format>.csv  Comma Separated Values</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Volcanic gas ratios in the plume of White Island Volcano (New Zealand), acquired using a Multi-GAS of the DECADE network. Data are reported for the bulk plume released by the summit crater.  All ratios are expressed on molar basis. Note that this file includes only processed data showing ratios of gases. All raw data is available in a separate file entitled "Volcanic_gas_plume_data_from_White_Island_Volcano-Raw_data" that can be downloaded from the same web location as this file.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>New Zealand to Fiji, White Island</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>177.179572</pointLongitude>
+				<pointLatitude>-37.518578</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

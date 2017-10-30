@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100643</identifier>
+	<creators>
+		<creator>
+			<creatorName>Aiuppa,Alessandro</creatorName>
+			<givenName>Alessandro</givenName>
+			<familyName>Aiuppa</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:alessandro.aiuppa@unipa.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1150</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Giudice,Gaetano</creatorName>
+			<givenName>Gaetano</givenName>
+			<familyName>Giudice</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Liuzzo,Marco</creatorName>
+			<givenName>Marco</givenName>
+			<familyName>Liuzzo</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:marco.liuzzo@ingv.it</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1153</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Volcanic gas plume data from Etna Volcano (Italy)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Volcanic gas</subject>
+		<subject subjectScheme="place">Etna</subject>
+		<subject subjectScheme="place">Etna Volcano</subject>
+		<subject subjectScheme="place">Mediterranean Sea</subject>
+		<subject subjectScheme="place">Mt. Etna</subject>
+		<subject subjectScheme="place">Western Asia</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-02-03 06:37:12.583182</date>
+		<date dateType="Available">2017-02-15</date>
+		<date dateType="Created">2017-02-03T06:36:47.357704</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1012</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1012</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1130/G24149A.1</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Volcanic gas CO2/SO2 ratios in the plume of Etna Volcano (2006-2011 period), acquired using a Multi-GAS of the INGV-PA monitoring network. Data are reported for the bulk plume released by the Central Crater.  All ratios are expressed on molar basis. Note that this file includes only processed data showing ratios of gases (calculated using the Ratiocalc software).</description>
+		<description descriptionType="Other">Related publications: Aiuppa, A., Moretti, R., Federico, C., Giudice, G., Gurrieri, S., Liuzzo, M., Papale, P., Shinohara, H., Valenza, M.&#x0d;
+Forecasting Etna eruptions by real-time observation of volcanic gas composition (2007) Geology, 35 (12), pp. 1115-1118.&#x0d;
+Aiuppa, A., Cannata, A., Cannavò, F., Di Grazia, G., Ferrari, F., Giudice, G., Gurrieri, S., Liuzzo, M., Mattia, M., Montalto, P., Patan, D., Puglisi, G.&#x0d;
+Patterns in the recent 2007-2008 activity of Mount Etna volcano investigated by integrated geophysical and geochemical observations&#x0d;
+(2010) Geochemistry, Geophysics, Geosystems, 11 (9), art. no. Q09008&#x0d;
+Patanè, D., Aiuppa, A., Aloisi, M., Behncke, B., Cannata, A., Coltelli, M., Di Grazia, G., Gambino, S., Gurrieri, S., Mattia, M., Salerno, G.&#x0d;
+Insights into magma and fluid transfer at Mount Etna by a multiparametric approach: A model of the events leading to the 2011 eruptive cycle&#x0d;
+(2013) Journal of Geophysical Research: Solid Earth, 118 (7), pp. 3519-3539.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mediterranean, Western Asia, Etna Volcano, Mt. Etna&#x0d;
+			</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>14.99511111</pointLongitude>
+				<pointLatitude>37.7516583</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

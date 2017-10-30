@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100616</identifier>
+	<creators>
+		<creator>
+			<creatorName>Michael,Peter J.</creatorName>
+			<givenName>Peter J.</givenName>
+			<familyName>Michael</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:pjm@utulsa.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2829-9502</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35581532500</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:11</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Major element, trace element, and volatiles in basalt glasses from Ontong Java Plateau</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="cruise">ODP Leg 130</subject>
+		<subject subjectScheme="cruise">ODP Leg 192</subject>
+		<subject subjectScheme="material">basaltic glass</subject>
+		<subject subjectScheme="material">volatiles</subject>
+		<subject subjectScheme="place">Ontong Java Plateau</subject>
+		<subject subjectScheme="platform">RV Joides Resolution</subject>
+		<subject subjectScheme="subject">oceanic plateau</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-10-28 12:43:57.725158</date>
+		<date dateType="Available">2017-10-31</date>
+		<date dateType="Created">2016-10-28T12:43:57.725158</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:978</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=978</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">New, high precision analyses of basalt glasses from Ontong Java Plateau including major elements by electron microprobe plus Cl, F, S, K and Ti using long counting times by electron microprobe and new H2O and CO2 measurments by FTIR. Samples are from ODP Leg 130 and ODP Leg 192.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Ontong Java Plateau</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>156.624666</westBoundLongitude>
+				<eastBoundLongitude>161.667698</eastBoundLongitude>
+				<southBoundLatitude>-1.176981</southBoundLatitude>
+				<northBoundLatitude>3.6065</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

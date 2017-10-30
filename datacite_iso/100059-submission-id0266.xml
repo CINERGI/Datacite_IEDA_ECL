@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100059</identifier>
+	<creators>
+		<creator>
+			<creatorName>Todd,Erin</creatorName>
+			<givenName>Erin</givenName>
+			<familyName>Todd</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:erin.todd@uni-muenster.de</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35621269900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:74</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gill,James B.</creatorName>
+			<givenName>James B.</givenName>
+			<familyName>Gill</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:gillord@ucsc.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2584-9687</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7401976182</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55535845900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">57189212794</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:75</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Wysoczanski,Richard J.</creatorName>
+			<givenName>Richard J.</givenName>
+			<familyName>Wysoczanski</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6601943296</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:76</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Handler,Monica R.</creatorName>
+			<givenName>Monica R.</givenName>
+			<familyName>Handler</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-7095-0835</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003776242</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:81</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Wright,Ian C.</creatorName>
+			<givenName>Ian C.</givenName>
+			<familyName>Wright</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:78</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gamble,John A.</creatorName>
+			<givenName>John A.</givenName>
+			<familyName>Gamble</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7202222481</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:82</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Sources of constructional cross-chain volcanism in the southern Havre Trough: New insights from HFSE and REE concentration and isotope systematics</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Sample/Collection Description</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Subduction Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">hafnium</subject>
+		<subject subjectScheme="place">Havre Trough</subject>
+		<subject subjectScheme="place">Kermadec Arc</subject>
+		<subject subjectScheme="place">Rumble V Ridge</subject>
+		<subject subjectScheme="topic detail">subduction</subject>
+		<subject subjectScheme="topic detail">hafnium concentration anomaly</subject>
+		<subject subjectScheme="topic detail">sediment partial melting</subject>
+		<subject subjectScheme="topic detail">cross chain</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-03-15 16:11:49.496558</date>
+		<date dateType="Available">2012-05-16</date>
+		<date dateType="Created">2012-03-15T16:11:49.496558</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:266</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=266</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2009GC002888</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000001</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000003</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000005</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000006</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000007</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000009</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000G</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000H</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000I</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000J</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000K</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG000004</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000A</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000F</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JBG00000L</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major, Trace Element, and Isotope Data for Rumble V Ridge Lavas and Southern Kermadec Subducting Sediments, and other tables from Todd et al., 2010. The data download includes five tables in one .xls file. </description>
+		<description descriptionType="Other">Related publications: Todd, E., J. B. Gill, R. J. Wysoczanski, M. R. Handler, I. C. Wright, and J. A. Gamble (2010), Sources of constructional cross-chain volcanism in the southern Havre Trough: New insights from HFSE and REE concentration and isotope systematics, Geochem. Geophys. Geosyst., 11, Q04009.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Kermadec Arc, Rumble V Ridge, Havre Trough</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>177.55</westBoundLongitude>
+				<eastBoundLongitude>178.07</eastBoundLongitude>
+				<southBoundLatitude>-36</southBoundLatitude>
+				<northBoundLatitude>-35.7</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="Other">http://www.earthchem.org/library/browse/view?id=127</identifier>
+	<creators>
+		<creator>
+			<creatorName>Perfit,Michael R.</creatorName>
+			<givenName>Michael R.</givenName>
+			<familyName>Perfit</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mperfit@ufl.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0002-1399-8928</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003472978</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:25</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Basalt Glasses from the East Pacific Rise</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2011</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">East Pacific Rise</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+		<subject subjectScheme="program">Ridge funded</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2011-02-26 12:48:52.931856</date>
+		<date dateType="Available">2011-02-27</date>
+		<date dateType="Created">2011-02-26T12:48:52.931856</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:127</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=127</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906694</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906680</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906695</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906681</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906686</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906687</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906688</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906696</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906697</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906689</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/906698</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900415</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900119</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900056</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major element compositions of basalt glasses from the East Pacific Rise</description>
+		<description descriptionType="Other">Related publications: Goldstein, S.J., Perfit, M.R., Batiza, R., Fornari, D.J., and Murrell, M.T., (1994), Off-axis volcanism at the East Pacific Rise detected by uranium-series dating of basalts. Nature, 367, 157-159.&#x0d;
+&#x0d;
+Rubin, K.H., Macdougall, J.D., and Perfit, M.R., (1994). Eruption chronology and volatile loss from recently erupted MORB at 9°50'N EPR. Nature , 368, 841-844.&#x0d;
+&#x0d;
+Perfit, M.R., Fornari, D., Bender, J., Langmuir, C., and Haymon R., (1994). Small-scale spatial and temporal variations in mid-ocean ridge crest magmatic processes, Geology, 22, 375-379.&#x0d;
+ &#x0d;
+Mejia, V., Opdyke, N.D., and Perfit, M.R., (1996). Paleomagnetic field intensity study recorded in submarine basaltic glass from the East Pacific Rise, the last 69 Ka. Geophysical Research Lett., 23, no. 5., 475-478.&#x0d;
+ &#x0d;
+Gregg, T.K.P., Fornari, D.J., Perfit, M.R., Haymon, R.M., and Fink, J.H., (1997). Rapid emplacement of a mid-ocean ridge lava flow on the East Pacific Rise at 9° 46’-51'N, Earth Planet. Sci. Lett., 144, E1-E7.&#x0d;
+&#x0d;
+Perfit, M.R., and Chadwick, W.W. Jr., (1998). Magmatism at mid-ocean ridges: Constraints from volcanological and geochemical investigations. in Faulting and Magmatism at Mid-Ocean Ridges, ed. W.R. Buck, P. Delaney, and J.A. Karson. Geophys Monograph 92.,  Amer. Geophys Union, Washington D.C., 59-115.&#x0d;
+ &#x0d;
+Gregg, T.K.P., Fornari, D.J., Perfit, M.R., Ridley, W.I., and Kurz, M.D., 2000. Using submarine lava pillars to record mid-ocean ridge eruption dynamics. Earth Planet. Sci. Lett. 178, 195-214.&#x0d;
+&#x0d;
+Rubin, K., Smith, M.C., Bergmanis, E,. Perfit, M.R. Sinton, J., and Batiza, R. (2001). Geochemical heterogeneity with mid-ocean ridge lava flows: insights into eruption, emplacement and global variations in magma generation. 2001. Earth Planet Sci. Lett.; 188; 349-367.&#x0d;
+&#x0d;
+Smith, M.C., Perfit, M.R., Fornari, D.J, Ridley, W.I., Edwards, M.E., Kurras, G., Von Damm, K. (2001).  Magmatic Processes and Segmentation at a Fast Spreading Mid-Ocean Ridge: Detailed Geochemistry and Mapping of the East Pacific Rise Crest at 9° 37’N - a Small Overlapping Spreading Center.  Geochem. Geophys. Geosyst., 2, 2000GC000134, 32 p.&#x0d;
+&#x0d;
+Sims, K., Goldstein, S.J., Blicher-Toft, J., Perfit, M.R., Keleman, P., Fornari, D.J., Michael P., Murrell, M.T., Hart, S.R., DePaolo, D.J., Layne, G., Jull, M and Bender, J., (2002). Chemical and isotopic constraints on the generation and transport of melt beneath the East Pacific Rise. Geochim. Cosmochim. Acta. 66, 3481-3504.&#x0d;
+&#x0d;
+Sun W., Bennett, V.C., Eggins, S. M., and Arculus, R.J. and Perfit, M.R., (2003).  Rhenium systematics in submarine MORB and Back-arc basin glasses: Laser ablation ICP-MS results. Chemical Geology, 196, 259-281. &#x0d;
+&#x0d;
+Perfit, M.R., Cann, J.R., Fornari, D.J., Smith, D.K., Ridley, W.I.,  Engels, J., Edwards, M.E., (2003). Interaction of seawater and lava during submarine eruptions at mid-ocean ridges. Nature, 426, 62-64.&#x0d;
+&#x0d;
+Sims, K.W. W., J. Blichert-Toft, D. J. Fornari, M. R. Perfit, S. Goldstein, P. Johnson, D.J. DePaolo, S. R. Hart , M.T. Murrell, P. Michael, G. Layne, L. Ball, (2003).  Aberrant youth: Chemical and isotopic constraints on the origin of off-axis lavas from the East Pacific Rise, 9° – 10° N. Geochem. Geophys. Geosyst., 4, doi: 10:1029/2002GC000443, 27 p.&#x0d;
+&#x0d;
+Soule, S.A., Fornari, D.J., Perfit, M.R., Tivey, M.A., Ridley, W.I., and Schouten, H.; (2005). Channelized lava flows at the East Pacific Rise crest 9°-10°N: The importance of off-axis lava transport in developing crustal architecture, Geochem. Geophys. Geosyst., 6, Q08005, doi:10.1029/2005GC000912, 28 p.&#x0d;
+&#x0d;
+le Roux P.J., Shirey, S.B., Hauri, E.H., Perfit, M.R., Bender, J.F., (2006). The effects of variable sources, processes and contaminants on the composition of northern EPR MORB (8-10ºN &amp; 12-14ºN): evidence from volatiles (H2O, CO2, S) and halogens (F, Cl).  Earth Planet Sci. Lett., 251, 209-231. &#x0d;
+&#x0d;
+Bowles, J. Gee, J.S., Kent,  D.V., Perfit, M.R., Soule,  S.A., and Fornari, D.J. (2006) Paleointensity results from 9° - 10°N on the East Pacific Rise:  implications for timing and extent of eruptive activity. Geochem. Geophys. Geosyst., 7, QO6006, doi:10.1029/2005GC001141, 32 p.&#x0d;
+&#x0d;
+Ridley, W.I., Perfit, M.R., Fornari, D.J. and Smith, M. (2006) Magmatic processes in developing oceanic crust revealed in a cumulate xenolith collected at the East Pacific Rise, 9°50’N. Geochem. Geophys. Geosyst.; 7, Q12O04, doi:10.1029/2006GC001316, 25 p.&#x0d;
+&#x0d;
+Soule, S.A., Fornari, D.J., Perfit, M.R., Ridley, W.I., Reed, M.H., and Cann, J.R., (2006) Incorporation of seawater into mid-ocean ridge lavas during emplacement. Earth Planet. Sci. Lett., 252, 289-307.&#x0d;
+&#x0d;
+Soule, S.A., Fornari, D.J., Perfit, M.R., and Rubin, K.H., (2007) New insights into mid-ocean ridge volcanic processes from the 2005-2006 eruption of the East Pacific Rise 9° 46’ – 9° 56’N. Geology. v. 35; no. 12, doi: 10.1130/G23924A.1; 1079–1082.&#x0d;
+&#x0d;
+Goss, A.R., M R Perfit, G D Kamenov, K H Rubin, A T Fundis, S A Soule, D J Fornari, and W.I. Ridley (2010) Geochemical characterization of axial and off-axis lavas from the 2005-06 eruption along the East Pacific Rise (9° 47-53’ N): Implications for mantle composition over decadal time scales along fast spreading centers. Geochem. Geophys. Geosyst. doi:10.1029/2009GC002977, 35p.&#x0d;
+&#x0d;
+Zellmer, G.F., Rubin K.H., Dulski, P., Iizuka, Y., Goldstein S.L., Perfit M.R. (2011) Crystal growth during dike injection of MOR basaltic melts: evidence from preservation of local Sr disequilibria in plagioclase. Contributions to Mineralogy and Petrology 161, 153-173. DOI:10.1007/s00410-010-0518-y,&#x0d;
+&#x0d;
+Waters, C.L., Sims, K.W.W., Perfit M.R., Blichert-Toft, J., and Blusztajn, J., (2011) Perspectives on the genesis of E-MORB from chemical and isotopic heterogeneity at 9-10ºN East Pacific Rise. J. Petrology. 52, 565-602.&#x0d;
+&#x0d;
+Lewis, J.F., Mattietti, G.K., Perfit, M. and Kamenov, G. (2011). Geochemistry and petrology of three granitoid rock cores from the Nicaraguan Rise, Caribbean Sea: implications for its composition, structure and tectonic evolution. Geologica Acta, 9, 467-479, DOI: 10.1344/105.000001714.&#x0d;
+&#x0d;
+Perfit, M.R., Wanless, V.D., Ridley, W.I., Klein, E., Smith, M.C., Hinds, J.S., Kutza, S., and Fornari, D.J. (2012) EPR ISS Lava Geochemistry –2 decades of comprehensive sampling and 2 eruptions. Oceanography, 25-1, 89-93.&#x0d;
+&#x0d;
+Soule, S.A., Nakata, D.S., Fornari, D.J., Fundis, A.T., Perfit, M.R., and Kurz, M.D., (2012) CO2 variability in mid-ocean ridge basalts from syn-emplacement degassing: constraints on eruption dynamics. Earth Planet Sci. Lett., 327, 39-49&#x0d;
+&#x0d;
+Carbotte, S. M., Marjanović, M., Carton, H., Mutter, J. C., Canales, J. P., Nedimović, M. R., and Perfit, M. R. (2013). Fine-scale segmentation of the crustal magma reservoir beneath the East Pacific Rise. Nature Geoscience, 6(10), 866-870.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Pacific Rise</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-104.5355</westBoundLongitude>
+				<eastBoundLongitude>-104.1</eastBoundLongitude>
+				<southBoundLatitude>9.27115</southBoundLatitude>
+				<northBoundLatitude>10.04885</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

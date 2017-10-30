@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100714</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kim,Hyojin</creatorName>
+			<givenName>Hyojin</givenName>
+			<familyName>Kim</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hyojin820.kim@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2227</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Brantley,Susan L</creatorName>
+			<givenName>Susan L</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:hyojin820.kim@gmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:2228</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory - Sequential filtration of stream and groundwater of the Shale Hills catchment</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="IEDA Topic">Terrestrial Hydrosphere</subject>
+		<subject subjectScheme="constituent">major and minor cations</subject>
+		<subject subjectScheme="method">sequential filtration</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="place">Shale Hills Catchment</subject>
+		<subject subjectScheme="subject">Solute chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-09-14 11:48:15.383754</date>
+		<date dateType="Available">2019-09-01</date>
+		<date dateType="Created">2017-09-14T11:48:15.383754</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1099</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1099</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Stream and groundwater of the Shale Hills catchment in the Shale Hills Critical Zone Observatory in Pennsylvania were filtered through various pore-sized filters (5µm, 3µm, 1µm, 0.45µm, 0.2 µm, 100 Kda, 1 Kda).  Groundwater samples were collected at various depths from W7, W8, W11, CZMW1, CZMW2, and CZMW4).  All the filtrates were acidified to 2% (v/v) using nitric acid.  Major cations were analyzed using a ICP-AES and minor and trace elements were analyzed using a ICP-MS. This work was funded by NSF Critical Zone Observatory program grants to C. Duffy (EAR 07-25019) and S. L. Brantley (EAR 12-39285, EAR 13-31726). &#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Shale Hills Catchment, Pennsylvania</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.9072458</westBoundLongitude>
+				<eastBoundLongitude>-77.904123</eastBoundLongitude>
+				<southBoundLatitude>40.664476</southBoundLatitude>
+				<northBoundLatitude>40.6648488</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

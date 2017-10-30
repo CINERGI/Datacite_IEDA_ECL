@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100060</identifier>
+	<creators>
+		<creator>
+			<creatorName>Class,Conny</creatorName>
+			<givenName>Conny</givenName>
+			<familyName>Class</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:class@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:95</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Lehnert,Kerstin A.</creatorName>
+			<givenName>Kerstin A.</givenName>
+			<familyName>Lehnert</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:lehnert@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-7036-1977</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">24171247000</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:96</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>PetDB Expert MORB (Mid-Ocean Ridge Basalt) Compilation</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">MORB</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">Galapagos Archipelago</subject>
+		<subject subjectScheme="place">Indian</subject>
+		<subject subjectScheme="place">America-Antarctic</subject>
+		<subject subjectScheme="place">Arctic</subject>
+		<subject subjectScheme="place">Atlantic Ocean</subject>
+		<subject subjectScheme="place">Chile</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+		<subject subjectScheme="subject">mid-ocean ridge</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-07-03 16:10:45.305528</date>
+		<date dateType="Available">2012-07-11</date>
+		<date dateType="Created">2012-07-03T16:10:45.305528</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:274</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=274</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Expert data sheets extracted from the Petrological Data Base (PETDB http://www.petdb.org/) are presented that integrate isotopic and high quality trace element data on "zero-age" mid-ocean ridge basalts (MORB). These PETDB MORB data sheets make the global variability of upper mantle compositions beneath the different ocean basins as sampled by MORB accessible also for the non-geochemist.  The spreadsheet (.xls) includes separate tabs for Pacific, Chile, Galapagos, Atlantic, America-Antarctic, Arctic, and Indian regions, along with tabs listing the PetDB references used.</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Pacific, Chile, Galapagos, Atlantic, America-Antarctic, Arctic, Indian</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-173.75</westBoundLongitude>
+				<eastBoundLongitude>137.555</eastBoundLongitude>
+				<southBoundLatitude>-65.1</southBoundLatitude>
+				<northBoundLatitude>86.96</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

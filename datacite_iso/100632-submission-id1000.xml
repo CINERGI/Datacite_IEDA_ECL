@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100632</identifier>
+	<creators>
+		<creator>
+			<creatorName>Tyrrell,James P.</creatorName>
+			<givenName>James P.</givenName>
+			<familyName>Tyrrell</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:j155t133@ku.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1351</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bidgoli,Tandis S.</creatorName>
+			<givenName>Tandis S.</givenName>
+			<familyName>Bidgoli</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tandisb@hotmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:296</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Walker,J. Douglas</creatorName>
+			<givenName>J. Douglas</givenName>
+			<familyName>Walker</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jdwalker@ku.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56468420400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:295</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Möller,Andreas</creatorName>
+			<givenName>Andreas</givenName>
+			<familyName>Möller</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1363</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>	Collection of conodont SEM images from the Mormon Mountains, Tule Spring Hills, and Beaver Dam Mountains, southeastern Nevada and southwestern Utah</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2016</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Topic">Biosphere</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="living thing">Conodont</subject>
+		<subject subjectScheme="method">backscattered electron</subject>
+		<subject subjectScheme="method">backscatter scanning electron microscopy</subject>
+		<subject subjectScheme="place">Mormon Mountains</subject>
+		<subject subjectScheme="place">Tule Springs Hills</subject>
+		<subject subjectScheme="place">Basin and Range</subject>
+		<subject subjectScheme="place">Beaver Dam Mountains</subject>
+		<subject subjectScheme="topic detail">secondary electron</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-12-09 11:53:19.996701</date>
+		<date dateType="Available">2016-12-15</date>
+		<date dateType="Created">2016-12-05T17:33:56.816839</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1000</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1000</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.pdf  Portable Document Format</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of SEM images of conodonts in this study. Most images are secondary electron (SE) images, a few are backscattered electron (BSE) images. Images show conodont surface microstructure and some internal structure in laser ablation pit sidewalls.</description>
+		<description descriptionType="Other">Related publications: Tyrrell, J.P., Bidgoli, T.S., Walker, J.D., and Möller, A. (2016) Conodont (U-Th)/He thermochronology of the Mormon Mountains, Tule Spring Hills, and Beaver Dam Mountains, southeastern Nevada and southwestern Utah. M.S. Thesis, University of Kansas.&#x0d;
+&#x0d;
+Bidgoli, T.S., Stockli, D.F., and Walker, J.D. (2015) Low temperature thermochronologic constraints on the kinematic histories of the Castle Cliffs, Tule Spring, and Mormon Peak detachments, southwestern Utah and southeastern Nevada, Geosphere 11(3): 850-867. doi:10.1130/GES01083.1</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mormon Mountains, Tule Spring Hills, Beaver Dam Mountains, Basin and Range</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

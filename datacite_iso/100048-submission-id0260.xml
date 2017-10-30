@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100048</identifier>
+	<creators>
+		<creator>
+			<creatorName>Hinds,Jillian S.</creatorName>
+			<givenName>Jillian S.</givenName>
+			<familyName>Hinds</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55272236800</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:61</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Construction of the oceanic crustal layer 2A: A detailed petrographic and geochemical study of lavas from 9 degrees 30 minutes N and 9 degrees 50 minutes N, East Pacific Rise</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Data Type">Mineralogy</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="cruise">AT11-07</subject>
+		<subject subjectScheme="material">basalt</subject>
+		<subject subjectScheme="material">glass</subject>
+		<subject subjectScheme="place">East Pacific Rise</subject>
+		<subject subjectScheme="platform">RV Atlantis</subject>
+		<subject subjectScheme="program">R2K (Ridge 2000) funded</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-03-12 17:27:17.173555</date>
+		<date dateType="Available">2012-03-13</date>
+		<date dateType="Created">2012-03-12T17:27:17.173555</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:260</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=260</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.7284/900008</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Major and trace element analyses for basalt glasses and minerals from the East Pacific Rise collected on cruise AT11-7.</description>
+		<description descriptionType="Other">Related publications: Hinds, Jillian (2005), Construction of the oceanic crustal layer 2A: A detailed petrographic and geochemical study of lavas from 9 degrees 30 minutes N and 9 degrees 50 minutes N East Pacific Rise, MSc Thesis, University of Florida</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>East Pacific Rise</geoLocationPlace>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100210</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: EPR11-13N, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection.  Bowers (1988), Campbell (1989), Campbell (1994), Chan (1993), Klinkhammer (1994), Palmer (1989 a,b), Palmer (1992), Spivack (1987)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">rare earth elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Pacific Ocean</subject>
+		<subject subjectScheme="place">EPR11-13N</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-21 12:24:25.326633</date>
+		<date dateType="Available">2012-09-22</date>
+		<date dateType="Created">2012-09-21T12:24:25.326633</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:316</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=316</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from EPR11-13N - End-member data for major, minor, and trace species, transition metals, rare earth elements, and isotopes of Li, B, and Sr.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”).  For more information about this compilation, please see “Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library” (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Bowers, T.S., A.C. Campbell, C.I. Measures, A.J. Spivack, M. Khadem, and J.M. Edmond (1988), Chemical controls on the composition of vent fluids at 13o-11oN and 21oN, East Pacific Rise, Journal of Geophysical Research, 93, 4522-4536&#x0d;
+&#x0d;
+Campbell, A.C., and J.M. Edmond (1989), Halide systematics of submarine hydrothermal vents, Nature, 342, 168-170&#x0d;
+&#x0d;
+Campbell, A.C., C.R. German, M.R. Palmer, T. Gamo, and J.M. Edmond (1994), Chemistry of hydrothermal fluids from Escanaba Trough, Gorda Ridge, U.S. Geological Survey Bulletin, 2022, 201-221&#x0d;
+&#x0d;
+Chan, L.-H., J.M. Edmond, and G. Thompson (1993), A lithium isotope study of hot springs and metabasalts from mid-ocean ridge hydrothermal systems, Journal of Geophysical Research, 98, 9653-9659&#x0d;
+&#x0d;
+Klinkhammer, G.P., H. Elderfield, J.M. Edmond, and A. Mitra (1994), Geochemical implications of rare earth element patterns in hydrothermal fluids from mid-ocean ridges, Geochimica et Cosmochimica Acta, 58, 5105-5113&#x0d;
+&#x0d;
+Palmer, M.R. (1992), Controls over the chloride concentration of submarine hydrothermal vent fluids: evidence from Sr/Ca and 87Sr/86Sr ratios, Earth and Planetary Science Letters, 109, 37-46&#x0d;
+&#x0d;
+Palmer, M.R., and J.M. Edmond (1989a), The strontium isotope budget of the modern ocean, Earth and Planetary Science Letters, 92, 11-26&#x0d;
+&#x0d;
+Palmer, M.R., and J.M. Edmond (1989b), Cesium and rubidium in submarine hydrothermal fluids: evidence for recycling of alkali elements, Earth and Planetary Science Letters, 95, 8-14&#x0d;
+&#x0d;
+Spivack, A.J., and J.M. Edmond (1987), Boron isotope exchange between seawater and the oceanic crust, Geochimica et Cosmochimica Acta, 51, 1033-1043&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>EPR11-13N, Pacific Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-108.9028</westBoundLongitude>
+				<eastBoundLongitude>-102.0482</eastBoundLongitude>
+				<southBoundLatitude>10.95</southBoundLatitude>
+				<northBoundLatitude>20.8412</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

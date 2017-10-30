@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100233</identifier>
+	<creators>
+		<creator>
+			<creatorName>Brantley,Susan L.</creatorName>
+			<givenName>Susan L.</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:sxb7@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Ketchum,Blake</creatorName>
+			<givenName>Blake</givenName>
+			<familyName>Ketchum</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:153</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>White,Tim S.</creatorName>
+			<givenName>Tim S.</givenName>
+			<familyName>White</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:154</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sullivan,Pamela L.</creatorName>
+			<givenName>Pamela L.</givenName>
+			<familyName>Sullivan</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:155</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory Porewater Chemistry (2006) </title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Critical Zone</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">DOC</subject>
+		<subject subjectScheme="constituent">major ions</subject>
+		<subject subjectScheme="environment">catchment hillslopes</subject>
+		<subject subjectScheme="place">Susquehanna Shale Hills</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="subject">valley floor</subject>
+		<subject subjectScheme="subject">ridge top</subject>
+		<subject subjectScheme="subject">Soil water geochemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-22 12:38:39.605701</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-22T12:38:39.605701</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:512</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=512</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.2136/vzj2010.0133</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Soil water chemistry collected from nested-suction lysimeters (Soil water samplers, 1900 series, SoilMoisture Equipment Corp., Santa Barbara, CA)  along a South (S) Planar (P) hillsope transect in the Susquehanna Shale Hills Critical Zone Observatory in 2006.  Lysimeter nests were located at three different positions along the hillslope elevational gradient; with the most elevated site  located at the Ridge Top (RT) followed by the Mid Slope (MS) and lowest site at the Valley Floor (VF). As the lysimeters were installed to the depth of augering refusal, first lysimeters were installed at a depth 10 cm with subsequent lysimeters installed every 10 cm.</description>
+		<description descriptionType="Other">Related publications: Jin, L., Andrews, D.M., Holmes, G.H., Lin, H., and Brantley, S.L.(2011)."Opening the "Black Box": Water Chemistry Reveals Hydrological Controls on Weathering in the Susquehanna Shale Hills Critical Zone Observatory." Vadose Zone Journal, 10:928-942.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Susquehanna Shale Hills, Pennsylvania</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.9063721</westBoundLongitude>
+				<eastBoundLongitude>-77.9062619</eastBoundLongitude>
+				<southBoundLatitude>40.6638863</southBoundLatitude>
+				<northBoundLatitude>40.6644664</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

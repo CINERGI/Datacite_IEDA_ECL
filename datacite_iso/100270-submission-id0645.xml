@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100270</identifier>
+	<creators>
+		<creator>
+			<creatorName>Cottrell,Elizabeth</creatorName>
+			<givenName>Elizabeth</givenName>
+			<familyName>Cottrell</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:cottrelle@si.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">55881957900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:71</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Kelley,Katherine A.</creatorName>
+			<givenName>Katherine A.</givenName>
+			<familyName>Kelley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:kelley@gso.uri.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">35229996900</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:47</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Analytical geochemistry from "The oxidation state of Fe in MORB glasses and the oxygen fugacity of the upper mantle"</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">iron</subject>
+		<subject subjectScheme="material">MORB</subject>
+		<subject subjectScheme="method">XANES</subject>
+		<subject subjectScheme="parameter">oxygen fugacity</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">mantle</subject>
+		<subject subjectScheme="topic detail">oxidation state</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-05-21 16:43:40.058789</date>
+		<date dateType="Available">2013-06-01</date>
+		<date dateType="Created">2013-05-21T16:43:40.058789</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:645</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=645</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1016/j.epsl.2011.03.014</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Data tables from "The oxidation state of Fe in MORB glasses and the oxygen fugacity of the upper mantle" including Wet-chemical results (micro-colorimetry) compared to Mössbauer/XANES results; Physical and analytical data for samples in this study; Complete physical, microprobe, FTIR, and XANES data for samples in this study and their sources; and Modeled primary melt compositions of MORB with olivine only on the liquidus (measured MgO of glass &gt; 8.5 wt%).</description>
+		<description descriptionType="Other">Related publications: Elizabeth Cottrell, Katherine A. Kelley, (2011), "The oxidation state of Fe in MORB glasses and the oxygen fugacity of the upper mantle." Earth and Planetary Science Letters, Volume 305(3–4): 270–282, http://dx.doi.org/10.1016/j.epsl.2011.03.014.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+			<geoLocationBox>
+				<westBoundLongitude>-130.41</westBoundLongitude>
+				<eastBoundLongitude>124</eastBoundLongitude>
+				<southBoundLatitude>-58.65</southBoundLatitude>
+				<northBoundLatitude>71.89</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

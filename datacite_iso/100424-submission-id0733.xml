@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100424</identifier>
+	<creators>
+		<creator>
+			<creatorName>Walker,J. Douglas</creatorName>
+			<givenName>J. Douglas</givenName>
+			<familyName>Walker</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:jdwalker@ku.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">56468420400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:295</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bidgoli,Tandis S.</creatorName>
+			<givenName>Tandis S.</givenName>
+			<familyName>Bidgoli</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:tandisb@hotmail.com</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:296</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Slate Range Thermochronology - 2013-07-31</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Geochronology</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="place">California</subject>
+		<subject subjectScheme="place">Slate Range</subject>
+		<subject subjectScheme="subject">Thermochronology</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-01-21 15:29:20.926834</date>
+		<date dateType="Available">2014-02-15</date>
+		<date dateType="Created">2014-01-21T15:29:20.926834</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:733</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=733</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1130/GES00947.1</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000030</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000031</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000032</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000034</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000035</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000036</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000037</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000038</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000040</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000041</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000042</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000043</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000044</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000046</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000047</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000048</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000049</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000051</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000052</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000053</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000054</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000055</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000057</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000001</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000002</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000003</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000004</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000006</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000007</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000008</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000009</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB00000B</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB00000C</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB00000D</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB00000E</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000033</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000039</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000045</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000050</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:JDW000056</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB000005</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="IGSN" relationType="IsDerivedFrom">igsn:TSB00000A</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.zip  Zip Archive Compression</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">New mapping combined with fault-slip and thermochronological data show middle Miocene to recent extension and exhumation of the Slate Range, eastern California, is produced by the active Searles Valley fault system and the Slate Range detachment, an older middle Miocene low-angle normal fault.  Offset middle Miocene rocks record a combined ~9 km of west-directed extension over the last ~14 Ma for the fault zones.  (U-Th)/He apatite cooling ages of samples from the central and southern Slate Range indicate that footwall cooling began around 14 Ma; we interpret this as the age of initiation of motion on the Slate Range detachment.  This timing is consistent with inferences made using stratigraphic and structural criteria.  Data from the northern Slate range show rapid fault slip began along the Searles Valley fault at ~4 Ma; data from the central and southern Slate Range can be interpreted to present cooling at 5 to 6 Ma.  This timing correlates to the results of nearby studies, suggesting a strain transition in the surrounding area between ~6-3 Ma.  Data collected are most consistent with a westward migration in the locus of transtensional deformation, and show that the initiation of that deformation commonly lags the timing predicted by plate reconstructions by a few million years.</description>
+		<description descriptionType="Other">Related publications: Walker, J.D., Bidgoli, T.S., Didericksen, B.D., Stockli, D.F., Andrew, J.E, (2014). Middle Miocene to recent exhumation of the Slate Range, eastern California, and implications for the timing of extension and the transition to transtension, Geosphere, v. 10, p. 276-291.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Slate Range, California</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-117.2649</westBoundLongitude>
+				<eastBoundLongitude>-117.147245</eastBoundLongitude>
+				<southBoundLatitude>35.677784</southBoundLatitude>
+				<northBoundLatitude>35.8498</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

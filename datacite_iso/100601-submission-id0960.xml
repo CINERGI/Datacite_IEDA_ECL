@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100601</identifier>
+	<creators>
+		<creator>
+			<creatorName>Weiss,Yaakov</creatorName>
+			<givenName>Yaakov</givenName>
+			<familyName>Weiss</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yweiss@ldeo.columbia.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">24170384400</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:739</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Class,Cornelia</creatorName>
+			<givenName>Cornelia</givenName>
+			<familyName>Class</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">6603605244</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1122</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Goldstein,Steven</creatorName>
+			<givenName>Steven</givenName>
+			<familyName>Goldstein</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1123</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Hanyu,Takeshi</creatorName>
+			<givenName>Takeshi</givenName>
+			<familyName>Hanyu</familyName>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004531766</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1124</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Key new pieces to the HIMU (high U/Pb) puzzle from olivines and diamond inclusions (South Pacific and Indian Ocean)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2018</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Ocean Island/Plateau</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="material">Olivine</subject>
+		<subject subjectScheme="material">Carbonatite</subject>
+		<subject subjectScheme="place">South Pacific</subject>
+		<subject subjectScheme="place">Cook-Austral Islands</subject>
+		<subject subjectScheme="place">Grande Comore Island</subject>
+		<subject subjectScheme="place">Indian Ocean</subject>
+		<subject subjectScheme="subject">Subcontinental lithospheric mantle (SCLM)</subject>
+		<subject subjectScheme="topic detail">HIMU-EM1</subject>
+		<subject subjectScheme="topic detail">HIMU</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2016-07-05 10:04:25.329976</date>
+		<date dateType="Available">2018-07-01</date>
+		<date dateType="Created">2016-07-05T10:04:25.329976</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:960</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=960</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1038/nature19113</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">High-precision EMP analyses on olivine phenocrysts in HIMU (high U/Pb) lavas from Mangaia and Tubuai in the Cook-Austral Islands, South Pacific, and in lavas from Karthala, Grande Comore Island, Indian Ocean, which shows intermediate Nd-Sr-Pb isotope ratios between the HIMU and EM1 (enriched mantle) mantle end-members.</description>
+		<description descriptionType="Other">Related publications: Weiss, Y.; Class, C.; Goldstein, S.L; Hanyu, T. (2016) Key new pieces of the HIMU puzzle from olivines and diamond inclusions, Nature.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Cook-Austral Islands, South Pacific, Grande Comore Island, Indian Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-157.925</westBoundLongitude>
+				<eastBoundLongitude>43.3</eastBoundLongitude>
+				<southBoundLatitude>-23.3766667</southBoundLatitude>
+				<northBoundLatitude>-11.7</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100458</identifier>
+	<creators>
+		<creator>
+			<creatorName>Brantley,Susan L.</creatorName>
+			<givenName>Susan L.</givenName>
+			<familyName>Brantley</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:sxb7@psu.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:152</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Sullivan,Pamela L.</creatorName>
+			<givenName>Pamela L.</givenName>
+			<familyName>Sullivan</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:155</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Susquehanna Shale Hills Critical Zone Observatory Porewater Chemistry (2011)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2014</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Near Surface Environment</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">DOC</subject>
+		<subject subjectScheme="constituent">major ions</subject>
+		<subject subjectScheme="environment">catchment hillslopes</subject>
+		<subject subjectScheme="place">Susquehanna Shale Hills</subject>
+		<subject subjectScheme="place">Pennsylvania</subject>
+		<subject subjectScheme="subject">valley floor</subject>
+		<subject subjectScheme="subject">ridge top</subject>
+		<subject subjectScheme="subject">Soil water geochemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2014-06-18 17:05:15.011197</date>
+		<date dateType="Available">2014-06-30</date>
+		<date dateType="Created">2014-06-18T17:05:15.011197</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:771</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=771</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Soil water chemistry collected from nested-suction lysimeters (Soil water samplers, 1900 series, SoilMoisture Equipment Corp., Santa Barbara, CA)  along two South (S) and two North (N) transects with one Planar (P) and Swale (S) hillsope within each group in the Susquehanna Shale Hills Critical Zone Observatory in 2011.  Lysimeter nests were located at three different positions along the hillslope elevational gradient; with the most elevated site  located at the Ridge Top (RT) followed by the Mid Slope (MS) and lowest site at the Valley Floor (VF). As the lysimeters were installed to the depth of auguring refusal, first lysimeter was installed at a depth 10 cm with subsequent lysimeters installed every 10 cm.&#x0d;
+		</description>
+		<description descriptionType="Other">Related publications: </description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Susquehanna Shale Hills, Pennsylvania</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-77.9063721</westBoundLongitude>
+				<eastBoundLongitude>-77.904242</eastBoundLongitude>
+				<southBoundLatitude>40.6637476</southBoundLatitude>
+				<northBoundLatitude>40.6656859</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

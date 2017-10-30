@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100671</identifier>
+	<creators>
+		<creator>
+			<creatorName>Galle,Bo</creatorName>
+			<givenName>Bo</givenName>
+			<familyName>Galle</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:bo.galle@chalmers.se</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1799</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Arellano,Santiago</creatorName>
+			<givenName>Santiago</givenName>
+			<familyName>Arellano</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1865</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Conde,Vladimir</creatorName>
+			<givenName>Vladimir</givenName>
+			<familyName>Conde</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1866</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Giacomozzi,Roxana</creatorName>
+			<givenName>Roxana</givenName>
+			<familyName>Giacomozzi</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1867</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bucarey,Claudia</creatorName>
+			<givenName>Claudia</givenName>
+			<familyName>Bucarey</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1868</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Velásquez,Gabriela</creatorName>
+			<givenName>Gabriela</givenName>
+			<familyName>Velásquez</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1869</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Gil,Fernando</creatorName>
+			<givenName>Fernando</givenName>
+			<familyName>Gil</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1870</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Bredemeyer,Stefan</creatorName>
+			<givenName>Stefan</givenName>
+			<familyName>Bredemeyer</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1871</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Hansteen,Thor</creatorName>
+			<givenName>Thor</givenName>
+			<familyName>Hansteen</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1872</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Network for Observation of Volcanic and Atmospheric Change (NOVAC): SO2 flux from Villarrica Volcano (Chile)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2017</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Other</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="initiative">NOVAC</subject>
+		<subject subjectScheme="organization">SERNAGEOMIN</subject>
+		<subject subjectScheme="parameter">SO2 flux</subject>
+		<subject subjectScheme="place">Chile</subject>
+		<subject subjectScheme="place">Villarrica volcano</subject>
+		<subject subjectScheme="program">Network for Observation of Volcanic and Atmospheric Change</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2017-04-06 06:21:21.82846</date>
+		<date dateType="Available">2017-06-01</date>
+		<date dateType="Created">2017-04-06T06:12:02.214708</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:1050</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=1050</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">doi:10.1029/2009JD011823</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Emission rate of SO2 from Villarrica volcano for the period 2014-11-24 to 2016-02-11. This dataset contains individual SO2 flux measurements obtained from scanning DOAS instruments part of the NOVAC network, operated by SERNAGEOMIN (Chile), and daily statistics. Data has been processed with the NOVAC batch processing software, using meteorological data from the ECMWF ERA interim analysis database (0.125/0.125 deg, 6 h) interpolated at the volcano summit coordinates for the time of each measurement. Plume height and direction is obtained by triangulation of two scan measurements when possible. Also including daily statistics. Raw data can be accessed by contacting the authors. Data submitted within the DECADE/DCO project.</description>
+		<description descriptionType="Other">Related publications: Galle, B., M. Johansson, C. Rivera, Y. Zhang, M. Kihlman, C. Kern, T. Lehmann, U. Platt, S. Arellano, and S. Hidalgo, (2010), "Network for Observation of Volcanic and Atmospheric Change (NOVAC)—A global network for volcanic gas monitoring: Network layout and instrument description.", Journal of Geophysical Research, 115(D05304).&#x0d;
+doi:10.1029/2009JD011823&#x0d;
+&#x0d;
+Johansson, M., B. Galle, Y. Zhang, C. Rivera, D. Chen, K. Wyser, (2009), "The dual-beam mini-DOAS technique—measurements of volcanic gas emission, plume height and plume speed with a single instrument.", Bulletin of Volcanology, 71(747), doi:10.1007/s00445-008-0260-8&#x0d;
+&#x0d;
+Giacomozzi R., L. Lara, D. Coppola, M. Laiolo, T. Hansteen, S. Bredemeyer, G. Garzón, P. Peña, (submitted to the Journal of Volcanology and Geothermal Research), "SO2 emissions from the Villarrica volcano (2009-2016): relationships with its lava lake dynamics."</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Villarrica volcano (Chile)</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-71.884808</westBoundLongitude>
+				<eastBoundLongitude>-71.8276</eastBoundLongitude>
+				<southBoundLatitude>-39.451285</southBoundLatitude>
+				<northBoundLatitude>-39.379824</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

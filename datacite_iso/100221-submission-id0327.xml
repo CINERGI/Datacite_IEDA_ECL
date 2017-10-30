@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100221</identifier>
+	<creators>
+		<creator>
+			<creatorName>Mottl,Michael J.</creatorName>
+			<givenName>Michael J.</givenName>
+			<familyName>Mottl</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:mmottl@soest.hawaii.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7004195161</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:1</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>VentDB: Mid-Atlantic Ridge, Lucky Strike, Mid-Ocean Ridge Hydrothermal Vent Chemistry Data Collection.  Von Damm (1998), Charlou (2000), Klinkhammer (1995), Douville (1999), Bach (1999)</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2012</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Regional (Continents, Oceans)</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Fluid</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal Vent</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Spreading Center</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Marine Geoscience</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="constituent">trace elements</subject>
+		<subject subjectScheme="constituent">major elements</subject>
+		<subject subjectScheme="constituent">rare earth elements</subject>
+		<subject subjectScheme="database">VentDB</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Hydrothermal vent</subject>
+		<subject subjectScheme="isotopes">isotopes</subject>
+		<subject subjectScheme="place">Atlantic Ocean</subject>
+		<subject subjectScheme="place">Mid-Atlantic Ridge</subject>
+		<subject subjectScheme="place">Lucky Strike</subject>
+		<subject subjectScheme="program">Ridge related</subject>
+		<subject subjectScheme="subject">Chemistry</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2012-09-21 13:04:48.174456</date>
+		<date dateType="Available">2012-09-22</date>
+		<date dateType="Created">2012-09-21T13:04:48.174456</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:327</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=327</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xls  Microsoft Excel Worksheet</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">Collection of hydrothermal vent fluid chemistry data from Mid-Atlantic Ridge, Lucky Strike - Mainly end-member data for major, minor, and trace species, transition metals, rare earth elements, dissolved gases, and isotopes of He, C, and Sr.  This file is just one part of a much larger effort (VentDB) to make available to the scientific community as much hydrothermal ridge vent chemistry data as possible (for a list of all the VentDB related data collections available, search the EarthChem Library for the term “VentDB”).  For more information about this compilation, please see “Explanatory Notes and Master Chemical Item Spreadsheet for the VentDB Data Collections housed in the EarthChem Library” (M. Mottl), available at www.earthchem.org/library.</description>
+		<description descriptionType="Other">Related publications: Von Damm, K.L., A,M. Bray, L.G. Buttermore, and S.E. Oosting (1998), The geochemical controls on vent fluids from the Lucky Strike vent field, Mid-Atlantic Ridge, Earth and Planetary Science Letters, 160, 521-536&#x0d;
+&#x0d;
+Charlou, J.L., J.P. Donval, E. Douville, P. Jean-Baptiste, R. Radford-Knoery, Y. Fouquet, A. Dapoigny, and M. Stievenard (2000), Compared geochemical signatures and the evolution of Menez Gwen (37°50'N) and Lucky Strike (37°17'N) hydrothermal fluids, south of the Azores triple junction on the Mid-Atlantic Ridge, Chemical Geology, 171, 49-75&#x0d;
+&#x0d;
+Klinkhammer, G.P., C.S. Chin, C. Wilson, and C.R. German (1995), Venting from the Mid-Atlantic Ridge at 37°17'N: the Lucky Strike hydrothermal site, Parson,  L.M., C.L. Walker, and D.R. Dixon (eds.), Hydrothermal Vents and Processes, Geological Society Special Publication No. 87, 87, 87-96&#x0d;
+&#x0d;
+Douville, E., P. Bienvenue, J.L. Charlou, J.P.Donval, Y. Fouquet, P. Appriou, and T. Gamo (1999), Yttrium and rare earth elements in fluids fom various deep-sea hydrothermal systems, Geochimica et Cosmochimica Acta, 63, 627-643&#x0d;
+&#x0d;
+Bach, W., and S.E. Humphris (1999), Relationship between the Sr and O isotope compositions of hydrothermal fluids and the spreading and magma-supply rates at oceanic spreading centers, Geology, 27, 1067-1070&#x0d;
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mid-Atlantic Ridge, Lucky Strike, Atlantic Ocean</geoLocationPlace>
+			<geoLocationBox>
+				<westBoundLongitude>-32.2827</westBoundLongitude>
+				<eastBoundLongitude>-32.2745</eastBoundLongitude>
+				<southBoundLatitude>37.28703</southBoundLatitude>
+				<northBoundLatitude>37.29382</northBoundLatitude>
+			</geoLocationBox>
+		</geoLocation>
+	</geoLocations>
+</resource>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="DOI">10.1594/IEDA/100245</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang,Yu</creatorName>
+			<givenName>Yu</givenName>
+			<familyName>Huang</familyName>
+			<nameIdentifier nameIdentifierScheme="e-mail address">mailto:yuhuang@umd.edu</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:169</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Chubakov,Viacheslav</creatorName>
+			<givenName>Viacheslav</givenName>
+			<familyName>Chubakov</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:170</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Mantovani,Fabio</creatorName>
+			<givenName>Fabio</givenName>
+			<familyName>Mantovani</familyName>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:171</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>Rudnick,Roberta L.</creatorName>
+			<givenName>Roberta L.</givenName>
+			<familyName>Rudnick</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1559-7463</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7003986769</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:172</nameIdentifier>
+		</creator>
+		<creator>
+			<creatorName>McDonough,William F.</creatorName>
+			<givenName>William F.</givenName>
+			<familyName>McDonough</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9154-3673</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="SCOPUS">7005259221</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="grl person_num">urn:grl:person:173</nameIdentifier>
+		</creator>
+	</creators>
+	<titles>
+		<title>Amphibolite-facies rock composition, Appendix B data for "A reference Earth model for the heat producing elements and associated geoneutrino flux"</title>
+	</titles>
+	<publisher>EarthChem Library(ECL) | Interdisciplinary Earth Data Alliance (IEDA) | Columbia University; doi:10.17616/R3V644</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+	<subjects>
+		<subject subjectScheme="coverage scope">Global</subject>
+		<subject subjectScheme="IEDA Data Type">Chemistry:Rock</subject>
+		<subject subjectScheme="IEDA Feature of Interest">Global</subject>
+		<subject subjectScheme="IEDA Topic">Geochemistry</subject>
+		<subject subjectScheme="IEDA Topic">Solid Earth</subject>
+		<subject subjectScheme="data type">chemical composition</subject>
+		<subject subjectScheme="material">amphibolite-facies rocks</subject>
+		<subject subjectScheme="material">meta-sedimentary</subject>
+		<subject subjectScheme="topic detail">meta-igneous</subject>
+	</subjects>
+	<dates>
+		<date dateType="Updated">metadata update:2013-01-23 13:48:53.543573</date>
+		<date dateType="Available">2013-02-05</date>
+		<date dateType="Created">2013-01-23T13:48:53.543573</date>
+	</dates>
+	<language>eng</language>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="IEDA submission_ID">urn:grl:submission:525</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="URL">http://www.earthchem.org/library/browse/view?id=525</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers/>
+	<formats>
+		<format>.xlsx  Microsoft Excel XML</format>
+	</formats>
+	<rightsList>
+		<rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-Share Alike 3.0 United States [CC BY-NC-SA 3.0]</rights>
+	</rightsList>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset is a compilation of chemical composition of global distributed amphibolite-facies rocks. Both meta-igneous and meta-sedimentary rocks are included. The goal of this compilation is to estimate the average composition of middle continental crust, where the temperature and pressure is close to amphibolite-facies metamorphism condition.</description>
+		<description descriptionType="Other">Related publications: Abu El-Enen, M. M. (2008), Geochemistry and metamorphism of the Pan-African back-arc Malhaq volcano-sedimentary Neoproterozoic association, W. Kid area, SE Sinai, Egypt, Journal of African Earth Sciences, 51(4), 189-206, doi: 10.1016/j.jafrearsci.2008.01.004.&#x0d;
+Andersson, U. B., W. Ghebreab, and M. Teklay (2006), Crustal evolution and metamorphism in east-central Eritrea, south-east Arabian-Nubian Shield, Journal of African Earth Sciences, 44(1), 45-65, doi: 10.1016/j.jafrearsci.2005.11.006.&#x0d;
+Arakawa, Y., K. H. Park, N. H. Kim, Y. S. Song, and H. Amakawa (2003), Geochemistry and tectonic implications of Proterozoic amphibolites in the northeastern part of the Yeongnam massif, South Korea, Island Arc, 12, 180-189.&#x0d;
+Bauernhofer, A. H., C. A. Hauzenberger, E. Wallbrecher, S. Muhongo, G. Hoinkes, A. Mogessie, N. Opiyo-Akech, and V. Tenczer (2008), Geochemistry of basement rocks from SE Kenya and NE Tanzania: indications for rifting and early Pan-African subduction, International Journal of Earth Sciences, 98(8), 1809-1834, doi: 10.1007/s00531-008-0345-9.&#x0d;
+Bettucci, L. S., M. Cosarinsky, and V. A. Ramos (2001), Tectonic Setting of the Late Proterozoic Lavalleja Group (Dom Feliciano Belt), Uruguay, Gondwana Research, 4(3), 395-407, doi: 10.1016/s1342-937x(05)70339-7.&#x0d;
+Bonev, N., R. Moritz, I. Marton, M. Chiaradia, and P. Marchev (2010), Geochemistry, tectonics, and crustal evolution of basement rocks in the Eastern Rhodope Massif, Bulgaria, International Geology Review, 52(2), 269-297, doi: 10.1080/00206810802674493.&#x0d;
+Cai, K. D., C. Yuan, M. Sun, W. J. Xiao, H. L. Chen, X. P. Long, Y. J. Zhao, and J. L. Li (2007), Geochemical characteristics and Ar40-Ar39 ages of the amphibolites and gabbros in Tarlang area: implications for tectonic evolution of the Chinese Altai, Acta Petrologica Sinica, 23, 877-888.&#x0d;
+Cates, N. L., and S. J. Mojzsis (2006), Chemical and isotopic evidence for widespread Eoarchean metasedimentary enclaves in southern West Greenland, Geochimica et Cosmochimica Acta, 70(16), 4229-4257, doi: 10.1016/j.gca.2006.05.014.&#x0d;
+Chen, F., E. Hegner, and W. Todt (2000), Zircon ages and Nd isotopic and chemical compositions of orthogneisses from the Black Forest, Germany: evidence for a Cambrian magmatic arc, International Journal of Earth Sciences, 88, 791-802.&#x0d;
+Cherneva, Z., and M. Georgieva (2005), Metamorphozed Hercynian granitoids in the Alpine structures of the Central Rhodope, Bulgaria: geotectonic position and geochemistry, Lithos, 82(1-2), 149-168, doi: 10.1016/j.lithos.2004.12.011.&#x0d;
+Chocyk-Jaminski, M., and C. Dietsch (2002), Geochemistry and tectonic setting of metabasic rocks of the Gneiss Dome Belt, SW New England Appalachians, Physics and Chemistry of the Earth, 27, 149-167.&#x0d;
+Cloutier, J., R. K. Stevenson, and M. Bardoux (2005), Nd isotopic, petrologic and geochemical investigation of the Tulawaka East gold deposit, Tanzanian Craton, Precambrian Research, 139(3-4), 147-163, doi: 10.1016/j.precamres.2005.06.002.&#x0d;
+Dennis, A. J., J. W. Shervais, J. Mauldin, H. D. Maher, and J. E. Wright (2004), Petrology and geochemistry of Neoproterozoic volcanic arc terranes beneath the Atlantic Coastal Plain, Savannah River Site, South Carolina, Geological Society of America Bulletin, 116(5), 572, doi: 10.1130/b25240.1.&#x0d;
+Dusel-Bacon, C., and K. M. Cooper (1999), Trace-element geochemistry of metabasaltic rocks from the Yukon-Tanana Upland and implications for the origin of tectonic assemblages in east-central Alaska, Canadian Journal of Earth Sciences, 36, 1671-1695.&#x0d;
+Dusel-Bacon, C., J. L. Wooden, and M. J. Hopkins (2004), U-Pb zircon and geochemical evidence for bimodal mid-Paleozoic magmatism and syngenetic base-metal mineralization in the Yukon-Tanana terrane, Alaska, Geological Society of America Bulletin, 116(7), 989, doi: 10.1130/b25342.1.&#x0d;
+Dymek, R. F., and B. E. Owens (2001), Chemical assembly of Archean anorthosites from amphibolite- and granulite-facies terranes, SW Greenland, Contributions to Mineralogy and Petrology, 141, 513-528.&#x0d;
+Elitok, O., and K. Druppel (2008), Geochemistry and tectonic significance of metamorphic sole rocks beneath the Beyşehir–Hoyran ophiolite (SW-Turkey), Lithos, 100(1-4), 322-353, doi: 10.1016/j.lithos.2007.06.022.&#x0d;
+El-Naby, H. A., and W. Frisch (2006), Geochemical constraints from the Hafafit Metamorphic Complex (HMC): Evidence of Neoproterozoic back-arc basin development in the central Eastern Desert of Egypt, Journal of African Earth Sciences, 45(2), 173-186, doi: 10.1016/j.jafrearsci.2006.02.006.&#x0d;
+Greene, A. R., S. M. Debari, P. B. Kelemen, J. Blusztajn, and P. D. Clift (2006), A Detailed Geochemical Study of Island Arc Crust: the Talkeetna Arc Section, South-Central Alaska, Journal of Petrology, 47(6), 1051-1093, doi: 10.1093/petrology/egl002.&#x0d;
+Grosch, E. G., A. Bisnath, H. E. Frimmel, and W. S. Board (2007), Geochemistry and tectonic setting of mafic rocks in western Dronning Maud Land, East Antarctica: implications for the geodynamic evolution of the Proterozoic Maud Belt, Journal of the Geological Society 164, 465-475.&#x0d;
+Guilmette, C., R. Hébert, C. Wang, and M. Villeneuve (2009), Geochemistry and geochronology of the metamorphic sole underlying the Xigaze Ophiolite, Yarlung Zangbo Suture Zone, South Tibet, Lithos, 112(1-2), 149-162, doi: 10.1016/j.lithos.2009.05.027.&#x0d;
+Hollocher, K., J. Bull, and P. Robinson (2002), Geochemistry of the metamorphosed Ordovician Taconian Magmatic Arc, Bronson Hill anticlinorium, western New England, Physics and Chemistry of the Earth, 27, 4-45.&#x0d;
+Holm, O. H., A. J. Crawford, and R. F. Berry (2003), Geochemistry and tectonic settings of meta-igneous rocks in the Arthur Lineament and surrounding area, northwest Tasmania, Australian Journal of Earth Sciences, 50(6), 903-918, doi: 10.1111/j.1400-0952.2003.01033.x.&#x0d;
+Hu, J., J. S. Qiu, X. S. Xu, J. H. Yu, and Z. Li (2009), I- and A-type composite gneissic metagranites in Lanshan area, Shandong Province: Geochronology, geochemistry and tectonic implications, Acta Petrologica Sinica, 25, 282-296.&#x0d;
+Huang, X.-L., Y. Niu, Y.-G. Xu, Q.-J. Yang, and J.-W. Zhong (2010), Geochemistry of TTG and TTG-like gneisses from Lushan-Taihua complex in the southern North China Craton: Implications for late Archean crustal accretion, Precambrian Research, 182(1-2), 43-56, doi: 10.1016/j.precamres.2010.06.020.&#x0d;
+Keppie, J. D., J. Dostal, B. V. Miller, A. Ortega-Rivera, J. Roldan-Quintana, and J. W. K. Lee (2006), Geochronology and Geochemistry of the Francisco Gneiss: Triassic Continental Rift Tholeiites on the Mexican Margin of Pangea Metamorphosed and Exhumed in a Tertiary Core Complex, International Geology Review, 48(1), 1-16, doi: 10.2747/0020-6814.48.1.1.&#x0d;
+Kokonyangi, J., A. B. Kampunzu, M. Poujol, T. Okudaira, M. Yoshida, and K. P. Shabeer (2005), Petrology and geochronology of Mesoproterozoic mafic–intermediate plutonic rocks from Mitwaba (D. R. Congo): implications for the evolution of the Kibaran belt in central Africa, Geological Magazine, 142(1), 109-130, doi: 10.1017/s0016756804009951.&#x0d;
+Kontinen, A., A. Kapyaho, H. Huhma, J. Karhu, D. Matukov, A. Larionov, and S. Sergeev (2007), Nurmes paragneisses in eastern Finland, Karelian craton: Provenance, tectonic setting and implications for Neoarchaean craton correlation, Precambrian Research, 152(3-4), 119-148, doi: 10.1016/j.precamres.2006.11.001.&#x0d;
+Kreissig, K., T. F. Nagler, J. D. Kramers, D. D. van Reenen, and C. A. Smit (2000), An isotopic and geochemical study of the northern Kaapvaal Craton and the Southern Marginal Zone of the Limpopo Belt: are they juxtaposed terranes? , Lithos, 50, 1-25.&#x0d;
+Kryza, R., and C. Pin (2002), Mafic rocks in a deep-crustal segment of the Variscides (the G&amp;#x000F3;ry Sowie, SW Poland): evidence for crustal contamination in an extensional setting, International Journal of Earth Sciences, 91(6), 1017-1029, doi: 10.1007/s00531-002-0294-7.&#x0d;
+Kumar, K. V., M. N. Reddy, and C. Leelanandam (2006), Dynamic melting of the Precambrian mantle: evidence from rare earth elements of the amphibolites from the Nellore–Khammam Schist Belt, South India, Contributions to Mineralogy and Petrology, 152(2), 243-256, doi: 10.1007/s00410-006-0107-2.&#x0d;
+Kuster, D., and J. P. Liegeois (2001), Sr, Nd isotopes and geochemistry of the Bayuda Desert high-grade metamorphic basement (Sudan): an early Pan-African oceanic convergent margin, not the edge of the East Saharan ghost craton? , Precambrian Research, 109, 1-23.&#x0d;
+Lan, C. Y., S. L. Chung, T. Van Long, C. H. Lo, T. Y. Lee, S. A. Mertzman, and J. J. S. Shen (2003), Geochemical and Sr–Nd isotopic constraints from the Kontum massif, central Vietnam on the crustal evolution of the Indochina block, Precambrian Research, 122(1-4), 7-27, doi: 10.1016/s0301-9268(02)00205-x.&#x0d;
+Lana, C., W. U. Reimold, R. L. Gibson, C. Koeberl, and S. Siegesmundm (2004), Nature of the Archean midcrust in the core of the Vredefort Dome, Central Kaapvaal Craton, South Africa, Geochimica Et Cosmochimica Acta, 68, 623-642, doi: 10.1016/S0016-7037(03)00447-2.&#x0d;
+Lange, U., M. Brocker, K. Mezger, and J. Don (2002), Geochemistry and Rb-Sr geochronology of a ductile shear zone in the Orlica-Snieznik dome (West Sudetes, Poland), International Journal of Earth Sciences, 91(6), 1005-1016, doi: 10.1007/s00531-002-0281-z.&#x0d;
+Li, Q., S. Liu, B. Han, J. Zhang, and Z. Chu (2005), Geochemistry of metasedimentary rocks of the Proterozoic Xingxingxia complex: implications for provenance and tectonic setting of the eastern segment of the Central Tianshan Tectonic Zone, northwestern China, Canadian Journal of Earth Sciences, 42(3), 287-306, doi: 10.1139/e05-011.&#x0d;
+Liu, S. W., W. Tian, Y. J. Lu, Q. G. Li, Y. G. Feng, K. H. Park, and Y. S. Song (2006), Geochemistry, Nd isotopic characteristics of metamorphic complexes in northern Hebei: Implications for crustal accretion, Acta Geologica Sinica, 80, 807-818.&#x0d;
+Liu, F. L., Z. Q. Xu, J. S. Yang, Z. M. Zhang, H. M. Xu, F. C. Meng, T. F. Li, and S. Z. Chen (2005), Geochemical characteristics and genetic mechanism of orthgneiss and paragneiss in the depth intervals of 2000 similar to 3000 m from main drill hole of Chinese Continental Scientific Drilling Project, Acta Petrologica Sinica, 21, 305-324.&#x0d;
+Ma, C. Q., C. Ehlers, C. H. Xu, Z. C. Li, and K. G. Yang (2000), The roots of the Dabieshan ultrahigh-pressure metamorphic terrane: constraints from geochemistry and Nd-Sr isotope systematics, Precambrian Research, 102, 279-301.&#x0d;
+Macey, P. H., R. J. Thomas, G. H. Grantham, B. A. Ingram, J. Jacobs, R. A. Armstrong, M. P. Roberts, B. Bingen, L. Hollick, and G. S. de Kock (2010), Mesoproterozoic geology of the Nampula Block, northern Mozambique: Tracing fragments of Mesoproterozoic crust in the heart of Gondwana, Precambrian Research, 182(1-2), 124-148, doi: 10.1016/j.precamres.2010.07.005.&#x0d;
+Makrygina, V. A., and Z. I. Petrova (2005), Geochemistry of metamorphic complexes of the eastern coast of Lake Baikal and their correlation with rocks of the western coast, Geochemistry International, 43, 438-455.&#x0d;
+Manning, C. E., S. J. Mojzsis, and T. M. Harrison (2006), Geology, Age and Origin of Supracrustal Rocks at Akilia, West Greenland, American Journal of Science, 306(5), 303-366, doi: 10.2475/05.2006.02.&#x0d;
+Martins, G., E. P. Oliveira, and J.-M. Lafon (2009), The Algodões amphibolite–tonalite gneiss sequence, Borborema Province, NE Brazil: Geochemical and geochronological evidence for Palaeoproterozoic accretion of oceanic plateau/back-arc basalts and adakitic plutons, Gondwana Research, 15(1), 71-85, doi: 10.1016/j.gr.2008.06.002.&#x0d;
+McClintock, M. K., and A. F. Cooper (2003), Geochemistry, mineralogy, and metamorphic history of kyanite-orthoamphibole-bearing Alpine Fault mylonite, South Westland, New Zealand, New Zealand Journal of Geology and Geophysics, 46, 47-62.&#x0d;
+Meng, F. C., J. X. Zhang, J. S. Yang, and H. J. Yang (2004), Tectonic setting and geochemistry of amphibolites in the North Qaidam, Acta Petrologica Sinica, 20, 1271-1282.&#x0d;
+Mohan, M. R., D. S. Sarma, S. N. Charan, V. Balaram, V. B. Rajasekhar, and T. Ahmad (2008), Geochemistry and Petrogenesis of Amphibolites from the Southern Part of Gadag Greenstone Belt, Karnataka, Journal of the Geological Society of India, 72, 484-494.&#x0d;
+Moraes, R., R. A. Fuck, M. M. Pimental, S. Gioia, and A. M. G. Figueiredo (2003), Geochemistry and Sm–Nd isotopic characteristics of bimodal volcanic rocks of Juscelândia, Goiás, Brazil: Mesoproterozoic transition from continental rift to ocean basin, Precambrian Research, 125(3-4), 317-336, doi: 10.1016/s0301-9268(03)00112-8.&#x0d;
+Nath, S., and C. Bhattacharyya (2006), Petrology and geochemistry of amphibolites around Kuilapal, West Bengal, eastern India, Journal of the Geological Society of India, 67, 748-758.&#x0d;
+Navez, J., J. P. Liegeois, L. Latouche, A. Boven, and R. Black (1999), The Palaeoproterozoic Tchilit exotic terrane (Air, Niger) within the Pan-African collage of the Tuareg shield, Journal of the Geological Society, 156, 247-259.&#x0d;
+Nutman, A. P., V. C. Bennett, C. R. L. Friend, and M. D. Norman (1999), Meta-igneous (non-gneissic) tonalites and quartz-diorites from an extensive ca. 3800 Ma terrain south of the Isua supracrustal belt, southern West Greenland: constraints on early crust formation, Contributions to Mineralogy and Petrology, 137, 364-388.&#x0d;
+Ordóñez-Calderón, J. C., A. Polat, B. J. Fryer, P. W. U. Appel, J. A. M. van Gool, Y. Dilek, and J. E. Gagnon (2009), Geochemistry and geodynamic origin of the Mesoarchean Ujarassuit and Ivisaartoq greenstone belts, SW Greenland, Lithos, 113(1-2), 133-157, doi: 10.1016/j.lithos.2008.11.005.&#x0d;
+Ortega-Obregon, C., J. B. Murphy, and J. D. Keppie (2010), Geochemistry and Sm–Nd isotopic systematics of Ediacaran–Ordovician, sedimentary and bimodal igneous rocks in the western Acatlán Complex, southern Mexico: Evidence for rifting on the southern margin of the Rheic Ocean, Lithos, 114(1-2), 155-167, doi: 10.1016/j.lithos.2009.08.005.&#x0d;
+Poller, U., U. Altenberger, and W. Schubert (2001), Geochemical investigations of the Bergstrasser Odenwald amphibolites - implications for back-arc magmatism, Mineralogy and Petrology, 72, 63-76.&#x0d;
+Rollinson, H. (1999), Petrology and geochemistry of metamorphosed komatiites and basalts from the Sula Mountains greenstone belt, Sierra Leone, Contributions to Mineralogy and Petrology, 134, 86-101.&#x0d;
+Silantyev, S., S. Sokolov, G. Bondarenko, O. Morozov, B. Bazylev, S. Palandzhyan, and A. Ganelin (2000), Geodynamic setting of the high-grade amphibolites and associated igneous rocks from the accretionary complex of Povorotny Cape, Taiganos Peninsula, northeastern Russia, Tectonophysics, 325, 107-132.&#x0d;
+Sinclair, G. S., S. M. Barr, N. G. Culshaw, and J. W. F. Ketchum (2002), Geochemistry and age of the Aillik Group and associated plutonic rocks, Makkovik Bay area, Labrador: implications for tectonic development of the Makkovik Province, Canadian Journal of Earth Sciences, 39(5), 731-748, doi: 10.1139/e02-008.&#x0d;
+Solar, G. S., and M. Brown (2001), Petrogenesis of migmatites in Maine, USA: Possible source of peraluminous leucogranite in plutons?, Journal of Petrology, 42, 789-823.&#x0d;
+Tamayo, R. A., G. P. Yumul, R. C. Maury, H. Bellon, J. Cotten, M. Polve, T. Juteau, and C. Querubin (2000), Complex origin for the south-western Zamboanga metamorphic basement complex, Western Mindanao, Philippines, Island Arc, 9, 638-652.&#x0d;
+Tang, J., Y. F. Zheng, Y. B. Wu, B. Gong, and X. M. Liu (2007), Geochronology and geochemistry of metamorphic rocks in the Jiaobei terrane: Constraints on its tectonic affinity in the Sulu orogen, Precambrian Research, 152(1-2), 48-82, doi: 10.1016/j.precamres.2006.09.001.&#x0d;
+Thomas, R. J., J. Jacobs, and B. M. Eglington (2000), Geochemistry and isotopic evolution of the Mesoproterozoic Cape Meredith Complex, West Falkland, Geological Magazine, 137, 537-553.&#x0d;
+Valverde-Vaquero, P., G. R. Dunning, and C. R. van Staal (2000), The Margaree orthogneiss: an Ordovician, peri-Gondwanan, mafic-felsic igneous complex in southwestern Newfoundland, Canadian Journal of Earth Sciences, 37, 1691-1710.&#x0d;
+Wan, Y. S., Y. S. Geng, Q. H. Shen, and R. X. Zhang (2000), Khondalite series - geochronology and geochemistry of the Jiehekou Group in Luliang area, Acta Petrologica Sinica, 16, 49-58.&#x0d;
+Wan, Y., D. Liu, S. A. Wilde, J. Cao, B. Chen, C. Dong, B. Song, and L. Du (2010), Evolution of the Yunkai Terrane, South China: Evidence from SHRIMP zircon U–Pb dating, geochemistry and Nd isotope, Journal of Asian Earth Sciences, 37(2), 140-153, doi: 10.1016/j.jseaes.2009.08.002.&#x0d;
+Wang, J. R., T. Y. Wang, J. P. Gao, and M. J. Zhang (2002), Geochemistry of the amphibolites from Jinta Nanshan, Gansu province: implications for the tectonic setting, Acta Petrologica Sinica, 18, 231-237.&#x0d;
+Wang, W. L., J. C. Aitchison, C. H. Lo, and Q. G. Zeng (2008), Geochemistry and geochronology of the amphibolite blocks in ophiolitic mélanges along Bangong-Nujiang suture, central Tibet, Journal of Asian Earth Sciences, 33(1-2), 122-138, doi: 10.1016/j.jseaes.2007.10.022.&#x0d;
+Wendlandt, E., D. J. Depaolo, and W. S. Baldridge (1993), Nd and Sr isotope chronostratigraphy of Colorado Plateau lithosphere - implications for magmatic and tectonic underplating of the continental crust, Earth Planet. Sci. Lett., 116(1-4), 23-43.&#x0d;
+Williams, I. S., E. Krzemińska, and J. Wiszniewska (2009), An extension of the Svecofennian orogenic province into NE Poland: Evidence from geochemistry and detrital zircon from Paleoproterozoic paragneisses, Precambrian Research, 172(3-4), 234-254, doi: 10.1016/j.precamres.2009.04.009.&#x0d;
+Worner, G., J. Lezaun, A. Beck, V. Heber, F. Lucassen, E. Zinngrebe, R. Rossling, and H. G. Wilke (2000), Precambrian and Early Paleozoic evolution of the Andean basement at Belen (northern Chile) and Cerro Uyarani (western Bolivia Altiplano), Journal of South American Earth Sciences, 13, 717-737.&#x0d;
+Xie, H. Q., F. Q. Mang, L. C. Miao, F. K. Chen, and D. Y. Liu (2008), Zircon SHRIMP U-Pb dating of the amphibolite from "Heilongjiang Group" and the granite in Mudanjiang area, NE China, and its geological significance, Acta Petrologica Sinica, 24, 1237-1250.&#x0d;
+Yan, Q. R., Z. Q. Wang, Z. Yan, J. L. Chen, Z. J. Xiang, T. Y. Wang, and H. Y. Zhang (2009), Tectonic affinity and timing of two types of amphibolites within the Qinling Group, north Qinling orogenic belt, Acta Petrologica Sinica 25, 2177-2194.&#x0d;
+Yang, H. M., K. Kyser, and K. Ansdell (1998), Geochemical and Nd isotopic compositions of the metasedimentary rocks in the La Ronge Domain: Trans-Hudson Orogen, Canada: Implications for evolution of the domain, Precambrian Research, 92, 37-64.&#x0d;
+Zeng, L. S., F. H. Liang, Z. Q. Xu, and X. X. Qi (2008), Metapelites in the Himalayan orogenic belt and their protoliths, Acta Petrologica Sinica, 24, 1517-1527.&#x0d;
+Zhou, Y. Y., T. P. Zhao, L. W. Xue, and S. Y. Wang (2009), Geochemistry and origin of Neoarchean amphibolites in Songshan, Hennan province, Acta Petrologica Sinica, 25, 3043-3056.</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace/>
+		</geoLocation>
+	</geoLocations>
+</resource>
