@@ -422,13 +422,13 @@
 												<xsl:when
 												test="starts-with($datacite-identifier, 'doi:')">
 												<xsl:value-of
-												select="concat('http://dx.doi.org/', substring-after($datacite-identifier, 'doi:'))"
+												select="concat('https://doi.org/', substring-after($datacite-identifier, 'doi:'))"
 												/>
 												</xsl:when>
 												<xsl:when
 												test="$datacite-identifier/@identifierType = 'DOI'">
 												<xsl:value-of
-												select="concat('http://dx.doi.org/', normalize-space($datacite-identifier))"
+												select="concat('https://doi.org/', normalize-space($datacite-identifier))"
 												/>
 												</xsl:when>
 												<xsl:when
